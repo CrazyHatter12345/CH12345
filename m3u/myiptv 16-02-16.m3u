@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR red]*---------UPDATE 16.02.2016.---------*[/COLOR]
+#EXTINF:0,[COLOR red]*---------UPDATE 17.02.2016.---------*[/COLOR]
 #EXTINF:0,UPDATE
 
 #EXTINF:0,[COLOR green]*---------SERBIA---------*[/COLOR]
@@ -16,8 +16,6 @@ rtsp://195.252.113.40/rts
 rtsp://rts.videostreaming.rs/rts/video
 #EXTINF:0,RTS SAT (stream3)
 rtsp://rts.videostreaming.rs/rts
-#EXTINF:0,RTS SAT (stream4)
-mmsh://rts.videostreaming.rs/rts
 #EXTINF:0,RTV 1 720p (stream1)
 http://46.40.5.99:8000/rtv1_720
 #EXTINF:0,RTV 1 (stream2)
@@ -50,13 +48,13 @@ http://5.153.25.7:8082/stream/?channel=tvleskovac&stream=1mb
 
 #EXTINF:-1,BOOMERANG
 http://217.199.128.114:4022/udp/235.255.1.61:5474
-#EXTINF:0,Disney_720
+#EXTINF:0,Disney 720p (Serb-Cro)
 http://46.40.5.99:8000/disney_720
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,Cartoon Network (En)
 http://217.199.128.114:4022/udp/235.255.1.59:5464
-#EXTINF:-1 group-title=”English”,CARTOON NETWORKSD (ENG)
+#EXTINF:-1 group-title=”English”,CARTOON NETWORK SD
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1 channelId="40" aspect-ratio="16:9" ,CARTOON NETWORK (BRASIL)
+#EXTINF:-1 channelId="40" aspect-ratio="16:9" ,Cartoon Network (Brasil)
 http://213.163.65.116:8081/live/cartoon/playlist.m3u8
 #EXTINF:0,Jim Jam (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/138/index.m3u8
@@ -131,24 +129,30 @@ http://46.40.5.99:8000/m1_hd_720
 http://46.40.5.99:8000/m2_hd_720
 #EXTINF:0,RTL klub 720p
 http://46.40.5.99:8000/rtlklub_720
+#EXTINF:0,story4 720p
+http://46.40.5.99:8000/story4_720
+#EXTINF:0,STV1 720p
+http://46.40.5.99:8000/stv1_720
 
 #EXTINF:0,[COLOR green]*---------WORLD---------*[/COLOR]
 #EXTINF:0,WORLD
 
-#EXTINF:0,Fox 720p
+#EXTINF:0,Fox 720p (Serb-Cro)
 http://46.40.5.99:8000/fox_720
-#EXTINF:0,Fox life 720p
+#EXTINF:0,Fox life 720p (Serb-Cro)
 http://46.40.5.99:8000/foxlife_720
-#EXTINF:-1,FOX
+#EXTINF:-1,FOX (En)
 http://217.199.128.114:4022/udp/235.255.1.78:5614
-#EXTINF:-1,FOX LIFE
+#EXTINF:-1,FOX Life (En)
 http://217.199.128.114:4022/udp/235.255.1.54:5414
-#EXTINF:-1,FOX CRIME
+#EXTINF:-1,FOX Crime (En)
 http://217.199.128.114:4022/udp/235.255.1.55:5424
 #EXTINF:0,Fox (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/550/index.m3u8
 #EXTINF:0,Fox Life (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/553/index.m3u8
+#EXTINF:-1,5USA
+http://89.163.148.31:8000/live/aytac/aytac/2749.m3u8
 #EXTINF:-1,PRO 7
 http://217.199.128.114:4022/udp/235.255.1.28:5174
 #EXTINF:-1,CRIME & INVESTIGATION
@@ -161,43 +165,45 @@ http://46.40.5.99:8000/story4_720
 http://46.40.5.99:8000/stv1_720
 #EXTINF:0,Markiza 720p
 http://46.40.5.99:8000/markiza_720
-#EXTINF:0,Davinchi 720p
+#EXTINF:0,Davinchi 720p (Serb-Cro)
 http://46.40.5.99:8000/davinchi_720
-#EXTINF:0,Travel Channel 720p
+#EXTINF:0,Travel Channel 720p (Serb-Cro)
 http://46.40.5.99:8000/travel_720
 #EXTINF:-1,Travel Channel
 http://217.199.128.114:4022/udp/235.255.1.47:5344
-#EXTINF:0,Viasat Explorer 720p
+#EXTINF:0,Viasat Explorer 720p (Serb-Cro)
 http://46.40.5.99:8000/viasat_explorer_720
-#EXTINF:0,Viasat History 720p
+#EXTINF:0,Viasat History 720p (Serb-Cro)
 http://46.40.5.99:8000/viasat_history_720
-#EXTINF:0,Viasat Nature 720p
+#EXTINF:0,Viasat Nature 720p (Serb-Cro)
 http://46.40.5.99:8000/viasat_nature_720
 #EXTINF:0,Discovery
 http://178.33.231.219:88/live/24333/24333/153.ts
-#EXTINF:-1,Discovery
+#EXTINF:-1,Discovery (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.49:5364
 #EXTINF:0,Discovery World (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/135/index.m3u8
 #EXTINF:0,Discovery Science (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/136/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://46.234.100.41:8080/ngeowild/index.m3u8
 #EXTINF:0,Nat Geo
 http://178.33.231.219:88/live/24333/24333/537.ts
-#EXTINF:0,Nat Geo Wild (Rus)
-http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/133/index.m3u8
 #EXTINF:0,Nat Geo (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/134/index.m3u8
-#EXTINF:-1,NAT GEO
+#EXTINF:0,Nat Geo Wild (Rus)
+http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/133/index.m3u8
+#EXTINF:-1,Nat Geo Channel(En)
 http://217.199.128.114:4022/udp/235.255.1.42:5314
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1,Nat Geo WILD (En)
 http://217.199.128.114:4022/udp/235.255.1.43:5324
 #EXTINF:0,Animal Planet (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/137/index.m3u8
-#EXTINF:-1,ANIMAL PLANET (Serb)
+#EXTINF:-1,Animal Planet (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.53:5404
 #EXTINF:-1,Fashion TV
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
-#EXTINF:-1,Fashion TV
+#EXTINF:-1,Fashion TV One
 http://217.199.128.114:4022/udp/235.255.1.41:5304
 #EXTINF:-1 group-title=”English”,World Fashion Channel HD
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
@@ -205,22 +211,41 @@ http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
 http://217.199.128.114:4022/udp/235.255.1.64:5504
 #EXTINF:-1,TVE
 http://217.199.128.114:4022/udp/235.255.1.65:5514
-#EXTINF:-1,RAI 1
+#EXTINF:-1,RAI 1 (stream1)
 http://217.199.128.114:4022/udp/235.255.1.70:5544
+#EXTINF:-1,RAI1 (stream2)
+http://46.234.100.45:8080/rai1/index.m3u8
+#EXTINF:-1,RAI2
+http://46.234.100.45:8080/rai2/index.m3u8
 #EXTINF:-1,VOX
 http://217.199.128.114:4022/udp/235.255.1.72:5554
+#EXTINF:-1,Sat1
+http://46.234.100.45:8080/sat1/index.m3u8
+#EXTINF:-1,ZDF
+http://46.234.100.45:8080/zdf/index.m3u8
+#EXTINF:-1,Kabel1
+http://46.234.100.45:8080/kabel1/index.m3u8
+#EXTINF:-1,CNN (En)
+http://217.199.128.114:4022/udp/235.255.1.68:5524
+
 
 #EXTINF:0,[COLOR green]*---------MOVIES---------*[/COLOR]
 #EXTINF:0,MOVIES
 
-#EXTINF:-1,TV1000 (Serb)
+#EXTINF:-1,TV1000 (Serb-Cro))
 http://217.199.128.114:4022/udp/235.255.1.56:5434
-#EXTINF:-1,CBS DRAMA
+#EXTINF:-1,CBS Drama (En)
 http://217.199.128.114:4022/udp/235.255.1.57:5444
-#EXTINF:-1,UNIVERSAL CHANNEL
+#EXTINF:-1, CBS Ation (En)
+http://89.163.148.31:8000/live/aytac/aytac/2827.m3u8
+#EXTINF:-1, CBS Reality (En)
+http://top-iptv.zapto.org:8000/live/Aria/Aria/646.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.58:5454
-#EXTINF:0,MGM 720p
+#EXTINF:0,MGM 720p (En)
 http://46.40.5.99:8000/mgm_720
+#EXTINF:-1, Movies4men
+http://89.163.148.31:8000/live/aytac/aytac/2795.m3u8
 #EXTINF:-1,The MOVIE HD
 rtmp://123.108.164.71/etv2sb/phd8
 
@@ -241,7 +266,7 @@ http://178.79.24.7:10012
 http://178.79.24.7:10013
 #EXTINF:-1,KCN 3 (stream2)
 http://217.199.128.114:4022/udp/235.255.1.38:5274
-#EXTINF:0,MTV Adria_720
+#EXTINF:0,MTV Adria 720p
 http://46.40.5.99:8000/mtvadria_720
 #EXTINF:0,MTV Hits (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/153/index.m3u8
@@ -249,10 +274,8 @@ http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/153/index.m3u8
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/142/index.m3u8
 #EXTINF:0,VH1 720p
 http://46.40.5.99:8000/vh1_720
-#EXTINF:0,story4 720p
-http://46.40.5.99:8000/story4_720
-#EXTINF:0,STV1 720p
-http://46.40.5.99:8000/stv1_720
+#EXTINF:-1,Viva
+http://46.234.100.41:8080/viva/index.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://alemdatela.com.br/wp-content/uploads/2015/05/imagen-vevo-assista-clipes-em-hd-1ori.png" group-title="MUSICA" , Vevo
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://alemdatela.com.br/wp-content/uploads/2015/05/imagen-vevo-assista-clipes-em-hd-1ori.png" group-title="MUSICA" , Vevo
@@ -299,29 +322,29 @@ http://wow01.105.net/live/virgin1/playlist.m3u8
 #EXTINF:0,[COLOR green]*---------SPORT---------*[/COLOR]
 #EXTINF:0,SPORT
 
-#EXTINF:0,Arena 1 720p
+#EXTINF:0,Arena 1 720p (Serb-Cro)
 http://46.40.5.99:8000/arena_1_720
-#EXTINF:0,Arena 2 720p
+#EXTINF:0,Arena 2 720p (Serb-Cro)
 http://46.40.5.99:8000/arena_2_720
-#EXTINF:0,Arena 3 720p
+#EXTINF:0,Arena 3 720p (Serb-Cro)
 http://46.40.5.99:8000/arena_3_720
-#EXTINF:0,Arena 4 720p
+#EXTINF:0,Arena 4 720p (Serb-Cro)
 http://46.40.5.99:8000/arena_4_720
-#EXTINF:-1,Arena 1
+#EXTINF:-1,Arena 1 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.82:5654
-#EXTINF:-1,Arena 2
+#EXTINF:-1,Arena 2 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.83:5664
-#EXTINF:-1,Arena 3
+#EXTINF:-1,Arena 3 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.84:5674
-#EXTINF:-1,Arena 4
+#EXTINF:-1,Arena 4 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.85:5684
-#EXTINF:-1,SK 1
+#EXTINF:-1,SK 1 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.52:5394
-#EXTINF:-1,SK 2
+#EXTINF:-1,SK 2 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.31:5204
-#EXTINF:-1,EUROSPORT 1 (Serb)
+#EXTINF:-1,EUROSPORT 1 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.50:5374
-#EXTINF:-1,EUROSPORT 2 (Serb)
+#EXTINF:-1,EUROSPORT 2 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.51:5384
 #EXTINF:0,Eurosport 1 (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/141/index.m3u8
@@ -361,8 +384,76 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1,PAC-12 Net. (Washington) 640*360
 http://xrxs.net/video/live-p12wash-1164.m3u8
-#EXTINF:-1,CNN SPORT
-http://217.199.128.114:4022/udp/235.255.1.68:5524
+#EXTINF:-1,beinHD_Sports_HD1
+http://37.187.24.177:80/badia/badia/699.ch
+#EXTINF:-1,beinHD_Sports_HD2
+http://37.187.24.177:80/badia/badia/700.ch
+#EXTINF:-1,beinHD_Sports_HD3
+http://37.187.24.177:80/badia/badia/701.ch
+#EXTINF:-1,beinHD_Sports_HD4
+http://37.187.24.177:80/badia/badia/702.ch
+#EXTINF:-1,beinHD_Sports_HD5
+http://37.187.24.177:80/badia/badia/703.ch
+#EXTINF:-1,beinHD_Sports_HD6
+http://37.187.24.177:80/badia/badia/704.ch
+#EXTINF:-1,beinHD_Sports_HD7
+http://37.187.24.177:80/badia/badia/705.ch
+#EXTINF:-1,beinHD_Sports_HD8
+http://37.187.24.177:80/badia/badia/706.ch
+#EXTINF:-1,beinHD_Sports_HD9
+http://37.187.24.177:80/badia/badia/707.ch
+#EXTINF:-1,beinHD_Sports_HD10
+http://37.187.24.177:80/badia/badia/708.ch
+#EXTINF:-1,beinHD_Sports_HD11
+http://37.187.24.177:80/badia/badia/709.ch
+#EXTINF:-1,beinHD_Sports_HD12
+http://37.187.24.177:80/badia/badia/710.ch
+#EXTINF:-1,beinHD_Sports_HD13
+http://37.187.24.177:80/badia/badia/711.ch
+#EXTINF:-1,beinHD_Sports_HD14
+http://37.187.24.177:80/badia/badia/712.ch
+#EXTINF:-1,beinHD_Sports_HD15
+http://37.187.24.177:80/badia/badia/713.ch
+#EXTINF:-1, FOX SPORTS 1 AU HD
+http://162.248.6.122:8080
+#EXTINF:-1, FOX SPORTS 2 AU HD
+http://162.248.6.122:8081
+#EXTINF:-1, FOX SPORTS 3 AU HD
+http://162.248.6.122:8082
+#EXTINF:-1, FOX SPORTS 4 AU HD
+http://162.248.6.122:8084
+#EXTINF:-1, Sport: K+1 HD Sport
+rtmp://216.185.103.158/live2//chSport1hd
+#EXTINF:-1, Sport: K+ PM HD Sport
+rtmp://216.185.103.158/live2//chSport2hd
+#EXTINF:-1, Sport:K+1 s1
+http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
+#EXTINF:-1, Sport:K+1 s2
+http://199.189.110.20:1935/as99/chSport1hd/playlist.m3u8
+#EXTINF:-1, Sport: K+PM s1
+http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8
+#EXTINF:-1, Sport: K+PM s2
+http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8
+#EXTINF:-1,TRUE SPORT2 HD
+rtmp://216.185.103.158/live2//chthaipremier11
+#EXTINF:-1,TRUE SPORT3 HD
+rtmp://216.185.103.158/live2//chthaipremier31
+#EXTINF:-1, Auto Moto TV Gaz (RU)
+mms://100automoto.tv/100gaz
+#EXTINF:-1, PORSCHE CHANNEL
+mms://100automoto.tv/channel_porsche
+#EXTINF:-1, Electric
+mms://100automoto.tv/channel_electric
+#EXTINF:-1, AutoSport TV
+mms://100automoto.tv/100livesport
+#EXTINF:-1, BMW CHANNEL Italia
+mms://100automoto.tv/bmw
+#EXTINF:0, Mercedes-Benz Channel
+mms://100automoto.tv/channel_mercedes
+#EXTINF:0, Auto Italia Channel
+mms://100automoto.tv/channel_italy
+#EXTINF:0, Cars & Sports
+mms://100automoto.tv/100livesport
 
 #EXTINF:0,[COLOR red]*---------XXX ADULT XXX---------*[/COLOR]
 #EXTINF:0,xxx
