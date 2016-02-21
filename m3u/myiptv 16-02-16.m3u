@@ -9,11 +9,17 @@
 #EXTINF:0,[COLOR green]*---------SERBIA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:-1,RTS 1
+#EXTINF:-1,RTS 1 (stream1)
 http://satloveriptv.com:8090/live/myline/myline/4575.ts
 
-#EXTINF:-1,RTS 2
+#EXTINF:-1,RTS 1 (stream2)
+http://185.13.236.198:4080/udp/224.0.0.100:1234
+
+#EXTINF:-1,RTS 2 (stream1)
 http://satloveriptv.com:8090/live/myline/myline/4576.ts
+
+#EXTINF:-1,rts 2 (stream2)
+http://185.13.236.198:4080/udp/224.0.0.100:1245
 
 #EXTINF:-1,PTC SAT (stream1)
 rtsp://195.252.113.40/rts
@@ -30,11 +36,23 @@ rtsp://195.252.113.43/rts
 #EXTINF:0,RTS SAT (stream5)
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:-1,RTS SAT (stream6)
+mmsh://195.252.113.38:80/rts?MSWMExt=.asf
+
 #EXTINF:0,RTV 1 (stream1)
 rtsp://212.200.255.151/rtv1
 
+#EXTINF:-1,RTV 1 (stream2)
+http://185.13.236.198:4080/udp/224.0.0.100:1237
+
+#EXTINF:-1,RTV 1 (stream3)
+http://www.rtv.rs/video/uzivo/rtv1.asx
+
 #EXTINF:0,RTV 2 (stream1)
 rtsp://212.200.255.151/rtv2
+
+#EXTINF:-1,RTV 2 (stream2)
+http://www.rtv.rs/video/uzivo/rtv2.asx
 
 #EXTINF:0,NOVOSADSKA TV (stream1)
 http://176.106.121.32:8080/
@@ -48,14 +66,20 @@ http://satloveriptv.com:8090/live/myline/myline/4577.ts
 #EXTINF:0,B92
 http://stream.b92.net:7999/tv-b92.ogg|User-Agent=Mozilla/5.0
 
+#EXTINF:-1,B92
+http://185.13.236.198:4080/udp/224.0.0.100:1235
+
 #EXTINF:-1,Prva Tv
 http://satloveriptv.com:8090/live/myline/myline/4589.ts
 
 #EXTINF:-1,Prva Plus
 http://satloveriptv.com:8090/live/myline/myline/4578.ts
 
-#EXTINF:-1,Happy
+#EXTINF:-1,Happy (stream1)
 http://satloveriptv.com:8090/live/myline/myline/4590.ts
+
+#EXTINF:-1,Happy (stream2)
+http://185.13.236.198:4080/udp/224.0.0.100:1238
 
 #EXTINF:-1,PINK Plus
 http://satloveriptv.com:8090/live/myline/myline/4767.ts
@@ -247,6 +271,9 @@ http://tvstream.rtvbn.com:1935/live/stream/paul.m3u8
 #EXTINF:-1,BHTV1
 http://217.199.128.114:4022/udp/235.255.1.10:5014
 
+#EXTINF:-1,HEMA
+mmsh://77.238.209.50:1234
+
 #EXTINF:-1,HAYAT TV
 http://217.199.128.114:4022/udp/235.255.1.13:5044
 
@@ -271,6 +298,9 @@ http://satloveriptv.com:8090/live/myline/myline/4601.ts
 #EXTINF:-1,Bosna Tv
 http://5.153.25.7:8080/stream/?channel=promotv?stream=1mb
 
+#EXTINF:-1,BOSNA TV1
+http://5.153.25.7:8080/stream/?channel=promotv?stream=1mb?sp=nettvplus?u=
+
 #EXTINF:0,[COLOR green]*---------MONTE NEGRO---------*[/COLOR]
 #EXTM3U
 
@@ -288,6 +318,40 @@ mms://195.252.114.172/tvcg
 
 #EXTINF:0,24 VESTI MK
 http://188.247.133.20:8888/ipvt_007
+
+#EXTINF:-1,A1 Strumica
+
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8?
+
+
+#EXTINF:-1,K1 Veles
+
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/chunklist.m3u8?
+
+
+#EXTINF:-1,O2 Ohrid
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8?
+
+
+#EXTINF:-1,Ultra Tetovo
+
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/chunklist.m3u8?
+
+
+#EXTINF:-1,K3 Kumanovo
+
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/chunklist.m3u8?
+
+
+#EXTINF:-1,Mega Bitola
+
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/chunklist.m3u8?
+
+
+#EXTINF:-1,K Plus Stip
+
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/chunklist.m3u8?
+
 
 #EXTINF:0,[COLOR green]*---------HUNGARY---------*[/COLOR]
 #EXTM3U
@@ -325,8 +389,14 @@ http://satloveriptv.com:8090/live/myline/myline/4520.ts
 #EXTINF:0,FOX Crime
 http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:-1,FOX (Rus)
+http://5.254.252.221:81/udp/233.12.144.105:5050
+
 #EXTINF:0,Fox (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/550/index.m3u8
+
+#EXTINF:-1,FOX Life (Rus)
+http://5.254.252.221:81/udp/233.12.144.106:5050
 
 #EXTINF:0,Fox Life (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/553/index.m3u8
@@ -494,8 +564,14 @@ http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/138/index.m3u8
 #EXTINF:0,Cartoon Network (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/143/index.m3u8
 
+#EXTINF:-1,Nickelodeon (Rus)
+http://5.254.252.221:81/udp/233.12.144.12:5050
+
 #EXTINF:0,Nickelodeon (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/541/index.m3u8
+
+#EXTINF:-1,Nick Jr (Rus)
+http://5.254.252.221:81/udp/233.12.144.85:5050
 
 #EXTINF:0,Nick Jr (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/114/index.m3u8
@@ -622,6 +698,12 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 
 #EXTINF:0,Supersonic tv ?
 rtmp://str103.setplex.net:1935/228/stv_online
+
+#EXTINF:-1,VH1 Classic
+http://5.254.252.221:81/udp/233.12.144.87:5050
+
+#EXTINF:-1,MTV Rocks
+http://5.254.252.221:81/udp/233.12.144.86:5050
 
 #EXTINF:0,MTV Adria
 http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -1046,7 +1128,7 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
 #EXTINF:-1,Jasmin TV (sk3)
 http://213.136.90.30:8000/live/test/test/11202.ts
 
-#EXTINF:-1,Hustler HD (sk3)
+#EXTINF:-1,ADULT: Hustler HD (sk3)
 http://213.136.90.30:8000/live/test/test/11180.ts
 
 #EXTINF:-1, Playboy TV (18+)
@@ -1078,6 +1160,9 @@ http://213.136.90.30:8000/live/test/test/11205.ts
 
 #EXTINF:-1,Pink Erotik 1 (sk3)
 http://213.136.90.30:8000/live/test/test/11206.ts
+
+#EXTINF:0,[COLOR red]*---------XXX ADULT MOVIES ON DEMAND XXX---------*[/COLOR]
+#EXTM3U
 
 #EXTINF:-1,XXX VOD 1
 http://videohttp2.tukif.com/videos/2014/08/60322_20140829.smil/chunklist_b730000.m3u8
