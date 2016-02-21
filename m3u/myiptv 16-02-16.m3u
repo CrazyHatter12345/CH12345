@@ -3,7 +3,7 @@
 #EXTINF:0,[COLOR orange]*---------Crazy Hatter Playlist---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,[COLOR red]*---------UPDATE 18.02.2016.---------*[/COLOR]
+#EXTINF:0,[COLOR red]*---------UPDATE 20.02.2016.---------*[/COLOR]
 #EXTM3U
 
 #EXTINF:0,[COLOR green]*---------SERBIA---------*[/COLOR]
@@ -15,10 +15,10 @@ http://satloveriptv.com:8090/live/myline/myline/4575.ts
 #EXTINF:-1,RTS 2
 http://satloveriptv.com:8090/live/myline/myline/4576.ts
 
-#EXTINF:9223372036854,PTC SAT (stream1)
+#EXTINF:-1,PTC SAT (stream1)
 rtsp://195.252.113.40/rts
 
-#EXTINF:9223372036854,PTC SAT (stream2)
+#EXTINF:-1,PTC SAT (stream2)
 rtsp://rts.videostreaming.rs/rts/video
 
 #EXTINF:0,RTS SAT (stream3)
@@ -72,7 +72,7 @@ http://188.247.133.24:8888/ipvt_006
 #EXTINF:0,PINK FILM
 http://188.247.133.21:8888/ipvt_003
 
-#EXTINF:-1,SPINK Film
+#EXTINF:-1,PINK Film
 http://satloveriptv.com:8090/live/myline/myline/4770.ts
 
 #EXTINF:0,PINK FOLK 1
@@ -105,7 +105,7 @@ http://188.247.133.22:8888/ipvt_003
 #EXTINF:0,PINK REALITY
 http://188.247.133.24:8888/ipvt_010
 
-#EXTINF:-1,SRB: PINK rEALITY
+#EXTINF:-1,PINK REALITY
 http://satloveriptv.com:8090/live/myline/myline/4772.ts
 
 #EXTINF:0,PINK ROMANCE
@@ -117,7 +117,7 @@ http://188.247.133.22:8888/ipvt_007
 #EXTINF:0,PINK SOAP
 http://188.247.133.24:8888/ipvt_009
 
-#EXTINF:-1,SRB: PINK-SOAP
+#EXTINF:-1,PINK-SOAP
 http://satloveriptv.com:8090/live/myline/myline/4771.ts
 
 #EXTINF:0,PINK TRILER
@@ -132,14 +132,14 @@ http://188.247.133.22:8888/ipvt_010
 #EXTINF:1,Studio B (stream1)
 mms://195.252.114.172/studiob
 
-#EXTINF:0,STUDIO B mms (stream2)
+#EXTINF:0,Studio B mms (stream2)
 mms://beotelmedia.beotel.net/studiob
 
-#EXTINF:0,STUDIO B mms (stream3)
+#EXTINF:0,Studio B mms (stream3)
 mms://195.252.114.172/studiob
 
-#EXTINF:0,LESKOVAC TV
-http://5.153.25.7:8082/stream/?channel=tvleskovac&stream=1mb
+#EXTINF:-1,Tv Leskovac
+http://5.153.25.7:8081/stream/?channel=tvleskovac&stream=1mb
 
 #EXTINF:-1,Novi Pazar
 http://satloveriptv.com:8090/live/myline/myline/4591.ts
@@ -214,23 +214,11 @@ http://217.199.128.114:4022/udp/235.255.1.62:5484
 #EXTINF:-1,N1 Tv
 http://satloveriptv.com:8090/live/myline/myline/4602.ts
 
-#EXTINF:-1,OTV VALENTINO
-http://217.199.128.114:4022/udp/235.255.1.39:5284
-
-#EXTINF:0,Sportska TV
-http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
-
-#EXTINF:0,ZDRAVA TV
-rtmp://live.videonet.rs/videonet-live/play/videonet4.stream
-
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 
 #EXTINF:0,TV Student
 rtmp://213.202.73.202/iskon/studentska_b2.stream
-
-#EXTINF:0,Klasik TV
-http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,STV Osijek
 mms://89.201.164.181/stv
@@ -244,44 +232,44 @@ http://217.199.128.114:4022/udp/235.255.1.34:5254
 #EXTINF:-1,OBN (stream2)
 http://satloveriptv.com:8090/live/myline/myline/4593.ts
 
-#EXTINF:-1,PINK BH
-http://217.199.128.114:4022/udp/235.255.1.16:5064
-
 #EXTINF:-1,RTRS (stream1)
-http://217.199.128.114:4022/udp/235.255.1.40:5294
+http://satloveriptv.com:8090/live/myline/myline/4579.ts
 
 #EXTINF:-1,RTRS (stream2)
-http://satloveriptv.com:8090/live/myline/myline/4579.ts
+http://parh.rtrs.tv:1935/tv/live/paul.m3u8
 
 #EXTINF:-1,BN BIH
 http://satloveriptv.com:8090/live/myline/myline/4598.ts
 
-#EXTINF:-1,BHTV1 (stream1)
-http://satloveriptv.com:8090/live/myline/myline/4588.t
+#EXTINF:-1,BN
+http://tvstream.rtvbn.com:1935/live/stream/paul.m3u8
 
-#EXTINF:-1,BHTV1 (stream2)
+#EXTINF:-1,BHTV1
 http://217.199.128.114:4022/udp/235.255.1.10:5014
 
 #EXTINF:-1,HAYAT TV
 http://217.199.128.114:4022/udp/235.255.1.13:5044
 
-#EXTINF:0,Hayat Plus
-http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
 #EXTINF:0,HAYAT HD
 http://188.247.133.21:8888/ipvt_002
+
+#EXTINF:0,Hayat Plus
+http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1,TVSA
 http://217.199.128.114:4022/udp/235.255.1.12:5034
 
-#EXTINF:-1,TVFBIH
-http://217.199.128.114:4022/udp/235.255.1.11:5024
-
-#EXTINF:0,OTV BH
+#EXTINF:0,OTV VALENTINO
 http://188.247.133.24:8888/ipvt_007
 
-#EXTINF:-1,Valentino Tv
+#EXTINF:-1,OTV VALENTINO
+http://217.199.128.114:4022/udp/235.255.1.39:5284
+
+#EXTINF:-1,OTV VALENTINO
 http://satloveriptv.com:8090/live/myline/myline/4601.ts
+
+#EXTINF:-1,Bosna Tv
+http://5.153.25.7:8080/stream/?channel=promotv?stream=1mb
 
 #EXTINF:0,[COLOR green]*---------MONTE NEGRO---------*[/COLOR]
 #EXTM3U
@@ -343,26 +331,6 @@ http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/550/index.m3u8
 #EXTINF:0,Fox Life (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/553/index.m3u8
 
-#EXTINF:-1,Fox HD (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/5019.ts
-#EXTINF:-1,Fox +1 HD (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/5797.ts
-#EXTINF:-1,Fox Life HD (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/4713.ts
-#EXTINF:-1,Fox Comedy HD (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/5022.ts
-#EXTINF:-1,Fox Crime HD (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/4625.ts
-#EXTINF:-1,Fox Crime +1 (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/6551.ts
-#EXTINF:-1,Fox Files (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/8291.ts
-#EXTINF:-1,Fox Animation HD (TEST)
-http://tornado-ultra.noip.me:8000/live/10/10/4577.ts
-
-#EXTINF:-1,5USA
-http://89.163.148.31:8000/live/aytac/aytac/2749.m3u8
-
 #EXTINF:-1,PRO 7
 http://217.199.128.114:4022/udp/235.255.1.28:5174
 
@@ -375,10 +343,10 @@ http://217.199.128.114:4022/udp/235.255.1.65:5514
 #EXTINF:-1,RAI 1 (stream1)
 http://217.199.128.114:4022/udp/235.255.1.70:5544
 
-#EXTINF:-1,RAI1 (stream2)
+#EXTINF:-1,RAI 1 (stream2)
 http://46.234.100.45:8080/rai1/index.m3u8
 
-#EXTINF:-1,RAI2
+#EXTINF:-1,RAI 2
 http://46.234.100.45:8080/rai2/index.m3u8
 
 #EXTINF:-1,VOX
@@ -401,9 +369,6 @@ http://217.199.128.114:4022/udp/235.255.1.68:5524
 
 #EXTINF:0,24Kitchen (Serb-Cro)
 http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1,CRIME & INVESTIGATION
-http://217.199.128.114:4022/udp/235.255.1.75:5584
 
 #EXTINF:-1 group-title=”English”,NASA TV SD (ENG)
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
@@ -447,9 +412,6 @@ http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.
 #EXTINF:-1,Nat Geo Wild HD
 http://46.234.100.41:8080/ngeowild/index.m3u8
 
-#EXTINF:0,Nat Geo
-http://178.33.231.219:88/live/24333/24333/537.ts
-
 #EXTINF:0,Nat Geo (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/134/index.m3u8
 
@@ -471,7 +433,7 @@ http://217.199.128.114:4022/udp/235.255.1.53:5404
 #EXTINF:0,Animal Planet (Slo)
 http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,History Channel (Serb-Cro)
+#EXTINF:0,History Channel 2 (Serb-Cro)
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,Viasat Explorer (Serb-Cro)
@@ -489,7 +451,7 @@ http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id
 #EXTINF:0,24/7 Simpsons
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 
-#EXTINF:0,24/7 South Park
+#EXTINF:0,24/7 South Park ?
 http://154.57.145.111:80/hls/541c316fe8423/stream.m3u8
 
 #EXTINF:0,24/7 King of the hill
@@ -501,8 +463,12 @@ http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozill
 #EXTINF:0,Boomerang 
 http://77.120.118.235:8085
 
-#EXTINF:-1,BOOMERANG
+#EXTINF:-1,Boomerang
 http://217.199.128.114:4022/udp/235.255.1.61:5474
+
+#EXTINF: 0, Boomerang
+
+http://77.120.118.235:8085
 
 #EXTINF:-1,Cartoon Network (En)
 http://217.199.128.114:4022/udp/235.255.1.59:5464
@@ -510,7 +476,7 @@ http://217.199.128.114:4022/udp/235.255.1.59:5464
 #EXTINF:0,Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title=”English”,CARTOON NETWORK SD
+#EXTINF:-1 group-title=”English”,Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
 #EXTINF:-1 channelId="40" aspect-ratio="16:9" ,Cartoon Network (Brasil)
@@ -561,22 +527,22 @@ http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozill
 #EXTINF:0,[COLOR green]*---------MOVIES---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:-1,TV1000 (Serb-Cro))
+#EXTINF:-1,TV1000 (Serb-Cro) ?
 http://217.199.128.114:4022/udp/235.255.1.56:5434
 
-#EXTINF:-1,CBS Drama (En)
+#EXTINF:-1,CBS Drama (En) ?
 http://217.199.128.114:4022/udp/235.255.1.57:5444
 
-#EXTINF:-1, CBS Ation (En)
+#EXTINF:-1,CBS Ation (En) ?
 http://89.163.148.31:8000/live/aytac/aytac/2827.m3u8
 
-#EXTINF:-1, CBS Reality (En)
+#EXTINF:-1,CBS Reality (En)
 http://top-iptv.zapto.org:8000/live/Aria/Aria/646.m3u8
 
 #EXTINF:0,CBS Reality (Serb-Cro)
 http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1,UNIVERSAL CHANNEL (Serb-Cro)
+#EXTINF:-1,Universal Channel (Serb-Cro) ?
 http://217.199.128.114:4022/udp/235.255.1.58:5454
 
 #EXTINF:0,Universal Channel (Serb-Cro)
@@ -585,7 +551,7 @@ http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agen
 #EXTINF:-1, Movies4men
 http://89.163.148.31:8000/live/aytac/aytac/2795.m3u8
 
-#EXTINF:-1,The MOVIE HD
+#EXTINF:-1,The MOVIE HD ?
 rtmp://123.108.164.71/etv2sb/phd8
 
 #EXTINF:0,[COLOR green]*---------MUSIC---------*[/COLOR]
@@ -606,10 +572,10 @@ http://188.247.133.21:8888/ipvt_004
 #EXTINF:0,DUGA +
 http://188.247.133.24:8888/ipvt_005
 
-#EXTINF:0,STV FOLK
+#EXTINF:0,STV FOLK ?
 rtmp://str103.setplex.net:1935/228/stv_folk
 
-#EXTINF:0,TOP MUSIC 
+#EXTINF:0,TOP MUSIC
 http://5.35.240.130:30005|User-Agent=Mozilla/5.0
 
 #EXTINF:-1,BN Music (stream1)
@@ -624,7 +590,7 @@ http://satloveriptv.com:8090/live/myline/myline/4759.ts
 #EXTINF:-1,HAYAT FOLK
 http://217.199.128.114:4022/udp/235.255.1.15:5054
 
-#EXTINF:-1,FACE TV (stream1)
+#EXTINF:-1,Face TV (stream1)
 http://217.199.128.114:4022/udp/235.255.1.27:5164
 
 #EXTINF:-1,Face Tv (stream2)
@@ -654,11 +620,8 @@ http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,JUGOTON TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 
-#EXTINF:0,Supersonic tv
+#EXTINF:0,Supersonic tv ?
 rtmp://str103.setplex.net:1935/228/stv_online
-
-#EXTINF:-1,VH+1 European
-http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
 
 #EXTINF:0,MTV Adria
 http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -684,7 +647,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,VEVO 2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:0,VEVO 3  HD
+#EXTINF:0,VEVO 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://alemdatela.com.br/wp-content/uploads/2015/05/imagen-vevo-assista-clipes-em-hd-1ori.png" group-title="MUSICA" ,Vevo
@@ -765,17 +728,11 @@ http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
 #EXTINF:0,World Fashion Europe HD
 http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
 
-#EXTINF: -1, World Fashion HD
-http://178.219.48.14:8000/world-fashion
-
 #EXTINF:0,FASHION TV HD
 rtmp://95.67.8.43:1935/live/fashionhd
 
 #EXTINF:0,[COLOR green]*---------SPORT---------*[/COLOR]
 #EXTM3U
-
-#EXTINF:-1,SOS Kanal
-http://92.60.224.62:3013/udp/239.10.58.10:12058
 
 #EXTINF:-1,Arena Sport 1 (Serb-Cro) (stream1)
 http://217.199.128.114:4022/udp/235.255.1.82:5654
@@ -813,6 +770,12 @@ http://satloveriptv.com:8090/live/myline/myline/4167.ts
 #EXTINF:-1,Arena Sport 4 HD (Serb-Cro) (stream3)
 http://satloveriptv.com:8090/live/myline/myline/4168.ts
 
+#EXTINF:-1,Arena Sport 4 (Serb-Cro) (stream3)
+http://213.136.90.30:8000/live/test/test/10285.ts
+
+#EXTINF:-1,Arena Sport 5 (Serb-Cro) (stream3)
+http://213.136.90.30:8000/live/test/test/10286.ts
+
 #EXTINF:-1,SK 1 (Serb-Cro)
 http://217.199.128.114:4022/udp/235.255.1.52:5394
 
@@ -828,7 +791,13 @@ http://satloveriptv.com:8090/live/myline/myline/4763.ts
 #EXTINF:-1,SK 3 (Serb-Cro) (stream2)
 http://satloveriptv.com:8090/live/myline/myline/4764.ts
 
-#EXTINF:-1,EUROSPORT 1 (Serb-Cro) (stream1)
+#EXTINF:-1,CRO: Sport Klub 2 (Serb-Cro) (stream3)
+http://213.136.90.30:8000/live/test/test/10287.ts
+
+#EXTINF:-1,CRO: Sport Klub 3 (Serb-Cro) (stream3)
+http://213.136.90.30:8000/live/test/test/10289.ts
+
+#EXTINF:-1,EUROSPORT 1 (Serb-Cro) (stream1) ?
 http://217.199.128.114:4022/udp/235.255.1.50:5374
 
 #EXTINF:0,EUROSPORT 1 (Serb-Cro) (stream2)
@@ -837,7 +806,7 @@ http://188.247.133.24:8888/ipvt_008
 #EXTINF:-1,EUROSPORT 2 (Serb-Cro) (stream1)
 http://217.199.128.114:4022/udp/235.255.1.51:5384
 
-#EXTINF:0,EUROSPORT 2 (Serb-Cro) (stream2)
+#EXTINF:0,EUROSPORT 2 (Serb-Cro) (stream2) ?
 http://188.247.133.22:8888/ipvt_00
 
 #EXTINF:0,Eurosport 1 (Rus)
@@ -846,10 +815,10 @@ http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/141/index.m3u8
 #EXTINF:0,Eurosport 2 (Rus)
 http://fr234.edem.tv/iptv/3H6T8MRB8EW77L/539/index.m3u8
 
-#EXTINF:-1,Eurosport 1 HD (Rus)
+#EXTINF:-1,Eurosport 1 HD (Rus) ?
 http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964991sd2500000/c3d7d9ac9a8eade4c469c8f261cea5368c118be3/playlist.m3u8
 
-#EXTINF:-1,Eurosport 2 HD (Rus)
+#EXTINF:-1,Eurosport 2 HD (Rus) ?
 http://origin2.samara.ertelecom.ru/content/private/s147213/d3720264/r965000sd2500000/5ad5b441d56f018a0cab1989c056aa782ade8285/playlist.m3u8
 
 #EXTINF:-1,Eurosport 1 (En) (stream1)
@@ -858,10 +827,10 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 #EXTINF:-1 tvg-id=”0490? group-title=”English” tvg-logo=”es1.png”,Eurosport 1 (En) (stream2)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
-#EXTINF:-1,UK: Eurosport 1 (En) (stream3)
+#EXTINF:-1,Eurosport 1 (En) (stream3)
 http://satloveriptv.com:8090/live/myline/myline/3924.ts
 
-#EXTINF:0,Eurosport HD (En)
+#EXTINF:0,Eurosport 1 HD (En) (stream4)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
 #EXTINF:-1,Eurosport (Fr)
@@ -975,15 +944,6 @@ http://37.187.24.177:80/badia/badia/709.ch
 #EXTINF:-1,beinHD_Sports_HD12
 http://37.187.24.177:80/badia/badia/710.ch
 
-#EXTINF:-1,beinHD_Sports_HD13
-http://37.187.24.177:80/badia/badia/711.ch
-
-#EXTINF:-1,beinHD_Sports_HD14
-http://37.187.24.177:80/badia/badia/712.ch
-
-#EXTINF:-1,beinHD_Sports_HD15
-http://37.187.24.177:80/badia/badia/713.ch
-
 #EXTINF:-1, FOX SPORTS 1 AU HD
 http://162.248.6.122:8080
 
@@ -1050,10 +1010,7 @@ mms://100automoto.tv/100livesport
 #EXTINF:0,BRAZZERS TV (stream1)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 
-#EXTINF:0,BRAZZERS TV (stream2)
-http://46.182.25.34:1935/tv/1420/playlist.m3u8
-
-#EXTINF:-1, Brazzers Europe
+#EXTINF:-1, Brazzers TV (stream2)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers 
 
 #EXTINF:-1,OLALA
@@ -1062,14 +1019,8 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:0,Passion XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 
-#EXTINF:0,Sexto Senso
-http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
 #EXTINF:-1,CS Sex +18 ADULT mmsh
 mmsh://tv.webmisto.cz:7000
-
-#EXTINF:-1,Bella Club
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 
 #EXTINF:0,Babespotting
 http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
@@ -1086,11 +1037,17 @@ http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
 #EXTINF:-1,Babestation 4
 http://178.33.229.131:1935/thaichat/mpegts3.stream/chunklist.m3u8
 
-#EXTINF:-1,Jazmin Channel HD 720
+#EXTINF:-1,Jazmin TV HD 720
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 
 #EXTINF:-1,Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
+
+#EXTINF:-1,Jasmin TV (sk3)
+http://213.136.90.30:8000/live/test/test/11202.ts
+
+#EXTINF:-1,Hustler HD (sk3)
+http://213.136.90.30:8000/live/test/test/11180.ts
 
 #EXTINF:-1, Playboy TV (18+)
 http://fr978.edem.tv/iptv/AZAZZ72ELRUM5G/527/index.m3u8
@@ -1098,17 +1055,29 @@ http://fr978.edem.tv/iptv/AZAZZ72ELRUM5G/527/index.m3u8
 #EXTINF:-1,Live S e x Latinas
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 
-#EXTINF:-1, Satisfaction HD
-http://bit.ly/1HSxcD3
-
-#EXTINF:-1, SCT
-http://bit.ly/1SLEOHU
-
 #EXTINF:-1,MIAMI TV
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
 
 #EXTINF:-1,MIAMI TV ESP (18+)
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+
+#EXTINF:-1,XxX Private TV (mt)
+http://213.136.90.30:8000/live/test/test/9217.ts
+
+#EXTINF:-1,Pink O TV (sk3)
+http://213.136.90.30:8000/live/test/test/11185.ts
+
+#EXTINF:-1,Pink Erotik 4 (sk3)
+http://213.136.90.30:8000/live/test/test/11203.ts
+
+#EXTINF:-1,Pink Erotik 3 (sk3)
+http://213.136.90.30:8000/live/test/test/11204.ts
+
+#EXTINF:-1,Pink Erotik 2 (sk3)
+http://213.136.90.30:8000/live/test/test/11205.ts
+
+#EXTINF:-1,Pink Erotik 1 (sk3)
+http://213.136.90.30:8000/live/test/test/11206.ts
 
 #EXTINF:-1,XXX VOD 1
 http://videohttp2.tukif.com/videos/2014/08/60322_20140829.smil/chunklist_b730000.m3u8
