@@ -9,11 +9,20 @@
 #EXTINF:0,[COLOR green]*---------SRBIJA---------*[/COLOR]
 #EXTM3U
 
+#EXTINF:0,RTS 1
+http://cp.dmbshare.net:8000/live/cotton/cotton/1815.ts
+
+#EXTINF:0,RTS 2
+http://cp.dmbshare.net:8000/live/cotton/cotton/1816.ts
+
 #EXTINF:0,RTS Sat
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,RTS Sat
 mmsh://195.252.113.38:80/rts?MSWMExt=.asf
+
+#EXTINF:0,Prva TV
+http://cp.dmbshare.net:8000/live/cotton/cotton/1817.ts
 
 #EXTINF:0,STUDIO B
 mms://195.252.114.172/studiob
@@ -26,6 +35,9 @@ http://188.247.133.24:8888/ipvt_005
 
 #EXTINF:0,KCN 3
 http://188.247.133.22:8888/ipvt_001
+
+#EXTINF:0,Pink
+http://cp.dmbshare.net:8000/live/cotton/cotton/1823.ts
 
 #EXTINF:0,Pink Action
 http://188.247.133.24:8888/ipvt_004
@@ -365,6 +377,9 @@ http://80.80.160.168/live/4/live.m3u8
 #EXTINF:0,[COLOR green]*---------24/7---------*[/COLOR]
 #EXTM3U
 
+#EXTINF:0, King of the Hill (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
+
 #EXTINF:0,Tom and Jerry (24/7)
 rtmp://208.53.164.194/ctv/tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html live=1
 
@@ -497,22 +512,22 @@ http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,VH1 Classic
 http://gogo.jksw.cz:8024/
 
-#EXTINF:0,VH1 Clasic
+#EXTINF:0,VH1 Classic
 http://212.79.96.134:8024.ch/1classic
 
-#EXTINF:0,VH1 Clasic
+#EXTINF:0,VH1 Classic
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL728/PROFILE03.m3u8?totalpley=%2F.ts
 
 #EXTINF:0,VH1 Latino HD
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL703/PROFILE03.m3u8?totalpley=%2F.ts
 
-#EXTINF:0,VEVO 1 HD
+#EXTINF:0,Vevo 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
  
-#EXTINF:0,VEVO 2 HD
+#EXTINF:0,Vevo 2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
  
-#EXTINF:0,VEVO 3 HD
+#EXTINF:0,Vevo 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:0,Vevo EU
@@ -556,54 +571,60 @@ http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
 #EXTINF:0,[COLOR green]*---------SPORT---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,EuroSport 1
-http://188.247.133.24:8888/ipvt_008
+#EXTINF:0,Arena Sport 1
+http://cp.dmbshare.net:8000/live/cotton/cotton/1802.ts
+#EXTINF:0,Arena Sport 2
+http://cp.dmbshare.net:8000/live/cotton/cotton/1803.ts
+#EXTINF:0,Arena Sport 3
+http://cp.dmbshare.net:8000/live/cotton/cotton/1804.ts
+#EXTINF:0,Arena Sport 4
+http://cp.dmbshare.net:8000/live/cotton/cotton/1805.ts
+#EXTINF:0,Arena Sport 5
+http://cp.dmbshare.net:8000/live/cotton/cotton/1806.ts
 
-#EXTINF:0,EuroSport 2
+#EXTINF:0,Sport Klub 1
+http://cp.dmbshare.net:8000/live/cotton/cotton/1799.ts
+#EXTINF:0,Sport Klub 2
+http://cp.dmbshare.net:8000/live/cotton/cotton/1800.ts
+#EXTINF:0,Sport Klub 3
+http://cp.dmbshare.net:8000/live/cotton/cotton/1801.ts
+
+#EXTINF:0,Eurosport 1
+http://188.247.133.24:8888/ipvt_008
+#EXTINF:0,Eurosport 2
 http://188.247.133.22:8888/ipvt_008
 
 #EXTINF:0,Eurosport 1 (En)
 http://IPTV-VOLKAN.NET:8000/live/phill/phill/410.m3u8
-
 #EXTINF:0,Eurosport 1 HD (En)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
 #EXTINF:0,Eurosport 1 HD (Fr)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
- 
 #EXTINF:0,Eurosport 1 (Rus)
 http://178.172.245.155:4323/udp/238.1.0.24:1234
-
 #EXTINF:0,Eurosport 2 (Rus)
 http://178.172.245.155:4323/udp/238.1.0.6:1234
 
 #EXTINF:0,Digi Sport 1
 http://85.25.43.23:8080/hls/volex_02.m3u8
-
 #EXTINF:0,Digi Sport 2
 http://85.25.43.23:8080/hls/volex_03.m3u8
-
 #EXTINF:0,Digi Sport 3
 http://85.25.43.23:8080/hls/volex_04.m3u8
 
 #EXTINF:0,Sky Sport 1
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
-
 #EXTINF:0,Sky Sport 2
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
-
 #EXTINF:0,Sky Sport 3
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
-
 #EXTINF:0,Sky Sport 4
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
-
 #EXTINF:0,Sky Sport 5
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
 
 #EXTINF:0,Sport TV 1 (Slo)
 http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
- 
 #EXTINF:0,Sport TV 2 (Slo)
 http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
@@ -681,293 +702,42 @@ http://94.100.31.242:8183/hls/xz3125/index.m3u8
 #EXTINF:0,[COLOR red]*---------XXX ADULT LIVE TV STREAM XXX---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,MIAMI TV
-http://95.211.153.70:8000/live/vukov/vukov/156.ts
+#EXTINF:0,Husler TV
+http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,MIAMI TV
-http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:0,Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:0,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:0,Just SEX
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
+
+#EXTINF:0,Frenchlover
+http://37.235.133.89:81/udp/225.50.70.7:1234
 
 #EXTINF:0,MIAMI TV ESP (18+)
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-
-#EXTINF:-1,SHOT TV  Sexy TV
-http://95.211.153.70:8000/live/vukov/vukov/157.ts
-
-#EXTINF:0,Brazzers TV (stream1)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:0,Brazzers TV (stream2)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers 
-
-#EXTINF:0,Brazzers TV (stream3)
-http://185.47.221.123:4023/udp/239.250.2.37:1234
-
-#EXTINF:0,O'LA'LA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-
-#EXTINF:0,Passie XXX
-http://95.211.153.70:8000/live/vukov/vukov/230.ts
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u
 
 #EXTINF:0,Passion XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+http://178.46.154.106:8000/play/a025
 
-#EXTINF:0,CS Sex +18 ADULT mmsh
-mmsh://tv.webmisto.cz:7000
+#EXTINF:0,Sexto Senso
+http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,SexStation
-http://95.211.153.70:8000/live/vukov/vukov/161.ts
+#EXTINF:0,SuperOne
+http://212.200.125.5:8204/204
 
-#EXTINF:0,Babespotting
-http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
+#EXTINF:0,Spice Tv 18+ (Adult) (US) (English)
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 
-#EXTINF:0,Babestation 1
-http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+#EXTINF:0,Babestation  EXtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 
-#EXTINF:0,Babestation 2 
-http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
-
-#EXTINF:0,Babestation 3 
-http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
-
-#EXTINF:0,Babestation 4
-http://178.33.229.131:1935/thaichat/mpegts3.stream/chunklist.m3u8
-
-#EXTINF:0,Jazmin TV HD 720
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-
-#EXTINF:0,Jasmin TV (stream1)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
-
-#EXTINF:0,Jasmin TV (stream2)
-http://213.136.90.30:8000/live/test/test/11202.ts
-
-#EXTINF:0,Jasmin TV (stream3)
-http://95.211.153.70:8000/live/vukov/vukov/307.ts
-
-#EXTINF:0,Hustler HD
-http://213.136.90.30:8000/live/test/test/11180.ts
-
-#EXTINF:0,Playboy TV (18+)
-http://fr978.edem.tv/iptv/AZAZZ72ELRUM5G/527/index.m3u8
-
-#EXTINF:0,Playboy TV (Chat)
-http://95.211.153.70:8000/live/vukov/vukov/163.ts
-
-#EXTINF:0,Playboy TV
-http://185.47.221.123:4023/udp/239.250.2.36:1234
-
-#EXTINF:0,Live S e x Latinas
+#EXTINF:0,BABE XXX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 
-#EXTINF:0,XxX Private TV (mt)
-http://213.136.90.30:8000/live/test/test/9217.ts
-
-#EXTINF:0,Pink O TV (sk3)
-http://213.136.90.30:8000/live/test/test/11185.ts
-
-#EXTINF:0,Pink Erotik 4 (sk3)
-http://213.136.90.30:8000/live/test/test/11203.ts
-
-#EXTINF:0,Pink Erotik 3 (sk3)
-http://213.136.90.30:8000/live/test/test/11204.ts
-
-#EXTINF:0,Pink Erotik 2 (sk3)
-http://213.136.90.30:8000/live/test/test/11205.ts
-
-#EXTINF:0,Pink Erotik 1 (sk3)
-http://213.136.90.30:8000/live/test/test/11206.ts
 
 #EXTINF:0,[COLOR red]*---------XXX ADULT MOVIES ON DEMAND XXX---------*[/COLOR]
 #EXTM3U
-
-#EXTINF:0,XXX VOD 1
-http://videohttp2.tukif.com/videos/2014/08/60322_20140829.smil/chunklist_b730000.m3u8
-
-#EXTINF:0,XXX VOD 2
-http://videohttp2.tukif.com/videos/2014/04/53545_20140425.smil/chunklist_b730000.m3u8
-
-#EXTINF:0,XXX VOD 3
-http://videohttp2.tukif.com/videos/2014/07/58172_20140724.smil/chunklist_b730000.m3u8
-
-#EXTINF:0,XXX VOD 4
-http://videohttp2.tukif.com/videos/2014/07/clips/57707_20140718.smil/chunklist_b1824000.m3u8
-
-#EXTINF:0,XXX VOD 5
-http://videohttp2.tukif.com/videos/2015/04/91211_20150417_MP4.smil/chunklist_b1824000.m3u8
-
-#EXTINF:0,XXX VOD 6
-http://videohttp2.tukif.com/videos/2015/04/92443_20150423_MP4.smil/chunklist_b1824000.m3u8
-
-#EXTINF:0,XXX VOD 7
-http://videohttp2.tukif.com/videos/2015/03/85672_20150315_MP4.smil/chunklist_b730000.m3u8
-
-#EXTINF:0,XXX VOD 8
-http://videohttp2.tukif.com/videos/2015/04/90158_20150413_MP4.smil/chunklist_b1824000.m3u8
-
-#EXTINF:0,MOFOS 1
-http://a7-60.5-69.cdn13.com/28000/28014/28014.flv?
-
-#EXTINF:0,MOFOS 2
-http://a7-60.5-69.cdn13.com/28000/28015/28015.flv?
-
-#EXTINF:0,MOFOS 3
-http://a7-60.5-69.cdn13.com/28000/28016/28016.flv?
-
-#EXTINF:0,MOFOS 4
-http://a7-60.5-69.cdn13.com/28000/28017/28017.flv?
-
-#EXTINF:0,MOFOS 5
-http://a7-60.5-69.cdn13.com/28000/28018/28018.flv?
-
-#EXTINF:0,MOFOS 6
-http://a7-60.5-69.cdn13.com/28000/28019/28019.flv?
-
-#EXTINF:0,MOFOS 7
-http://a7-60.5-69.cdn13.com/28000/28020/28020.flv?
-
-#EXTINF:0,MOFOS 8
-http://a7-60.5-69.cdn13.com/28000/28021/28021.flv?
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1003.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1004.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1005.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1006.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1007.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1008.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1009.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1010.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1011.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1012.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1013.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1014.mp4
-
-#EXTINF:0,XXL
-http://drainmainvein.com/media/videos/mp4/1016.mp4
-
-#EXTINF:0,Adult 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD5
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD6
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD7
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD8
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD9
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-
-#EXTINF:0,Adult 4K: VOD11
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-
-#EXTINF:0,XXX Music
-http://zazax1.ru/video/basstr.flv
-
-#EXTINF:0,XXX Music 1
-http://zazax1.ru/videos/baz55.flv
-
-#EXTINF:0,XXX Music 2
-http://zazax1.ru/videos/baz4.flv
-
-#EXTINF:0,XXX Music 3
-http://zazax1.ru/videos/baz57.flv
-
-#EXTINF:0,XXX Music 4
-http://zazax1.ru/videos/muz.flv
-
-#EXTINF:0,XXX Music 5
-http://zazax1.ru/videos/baz66.flv
-
-#EXTINF:0,XXX Music 6
-http://zazax1.ru/video/lesr.flv
-
-#EXTINF:0,XXX Music 7
-http://zazax1.ru/videos/baz65.flv
-
-#EXTINF:0,XXX Music 8
-http://zazax1.ru/video/nemnf.flv
-
-#EXTINF:0,XXX Music 9
-http://zazax1.ru/videos/011.flv
-
-#EXTINF:0,XXX Music 10
-http://zazax1.ru/videos/baz64.flv
-
-#EXTINF:0,XXX Music 11
-http://zazax1.ru/video/muz10.flv
-
-#EXTINF:0,XXX Music 12
-http://zazax1.ru/videos/muz1.flv
-
-#EXTINF:0,XXX Music 13
-http://zazax1.ru/videos/muz3.flv
-
-#EXTINF:0,XXX Music 14
-http://zazax1.ru/video/provmc.flv
-
-#EXTINF:0,XXX Music 15
-http://zazax1.ru/video/muz3.flv
-
-#EXTINF:0,XXX Music 16
-http://zazax1.ru/video/barto.mp4
-
-#EXTINF:0,XXX Music 17
-http://zazax1.ru/video/mzclip.mp4
-
-#EXTINF:0,XXX Music 18
-http://zazax1.ru/video/masterlatex.mp4
-
-#EXTINF:0,XXX Music 19
-http://zazax1.ru/video/Money%20Boy-Stripclub.flv
-
-#EXTINF:0,XXX Music 20
-http://zazax1.ru/video/Linkin%20Park%20Uncensored.mp4
-
-#EXTINF:0,XXX Music 21
-http://zazax1.ru/video/Junior%20Jack%20-%20Stupidisco.mp4
-
-#EXTINF:0,XXX Music 22
-http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
-
-#EXTINF:0,XXX Music 23
-http://zazax1.ru/video/Fig%20Dish%20-%20When%20shirts%20get%20tight.mp4
