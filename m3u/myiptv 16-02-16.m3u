@@ -693,12 +693,30 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1805.ts
 #EXTINF:0,Arena Sport 5
 http://cp.dmbshare.net:8000/live/cotton/cotton/1806.ts
 
+#EXTINF:0,Arena Sport 1-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1152.ts
+#EXTINF:0,Arena Sport 2-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1151.ts
+#EXTINF:0,Arena Sport 3-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1150.ts
+#EXTINF:0,Arena Sport 4-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1149.ts
+#EXTINF:0,Arena Sport 5-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1148.ts
+
 #EXTINF:0,Sport Klub 1
 http://cp.dmbshare.net:8000/live/cotton/cotton/1799.ts
 #EXTINF:0,Sport Klub 2
 http://cp.dmbshare.net:8000/live/cotton/cotton/1800.ts
 #EXTINF:0,Sport Klub 3
 http://cp.dmbshare.net:8000/live/cotton/cotton/1801.ts
+
+#EXTINF:0,Sport Klub 1-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1133.ts
+#EXTINF:0,Sport Klub 2-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1135.ts
+#EXTINF:0,Sport Klub 3-
+http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1136.ts
 
 #EXTINF:0,Eurosport 1
 http://188.247.133.24:8888/ipvt_008
@@ -846,4 +864,3 @@ http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 
 #EXTINF:0,[COLOR red]*---------XXX ADULT MOVIES ON DEMAND XXX---------*[/COLOR]
 #EXTM3U
-
