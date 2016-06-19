@@ -3,7 +3,7 @@
 #EXTINF:0,[COLOR orange]*---------Crazy Hatter Playlist---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,[COLOR red]*---------UPDATE 15.05.2016.---------*[/COLOR]
+#EXTINF:0,[COLOR red]*---------UPDATE 19.06.2016.---------*[/COLOR]
 #EXTM3U
 
 #EXTINF:0,[COLOR green]*---------SRBIJA---------*[/COLOR]
@@ -24,21 +24,6 @@ mmsh://195.252.113.38:80/rts?MSWMExt=.asf
 #EXTINF:0,Prva TV
 http://cp.dmbshare.net:8000/live/cotton/cotton/1817.ts
 
-#EXTINF:0,B92-
-rtmp://tv.gromnet.net/live/b92
-
-#EXTINF:0,HAPPY-
-rtmp://tv.gromnet.net/live/happy
-
-#EXTINF:0,INFO-
-rtmp://tv.gromnet.net/live/info
-
-#EXTINF:0,PINK-
-rtmp://tv.gromnet.net/live/pink
-
-#EXTINF:0,PRVA TV-
-rtmp://tv.gromnet.net/live/prva
-
 #EXTINF:0,RTS 1-
 rtmp://tv.gromnet.net/live/rts1
 
@@ -48,11 +33,32 @@ rtmp://tv.gromnet.net/live/rts2
 #EXTINF:0,RTS 3-
 rtmp://tv.gromnet.net/live/rts3
 
+#EXTINF:0,RTV 1-
+rtmp://tv.gromnet.net/live/rtv1
+
+#EXTINF:0,RTV 2-
+rtmp://tv.gromnet.net/live/rtv2
+
+#EXTINF:0,PRVA TV-
+rtmp://tv.gromnet.net/live/prva
+
+#EXTINF:0,PINK-
+rtmp://tv.gromnet.net/live/pink
+
+#EXTINF:0,B92-
+rtmp://tv.gromnet.net/live/b92
+
+#EXTINF:0,HAPPY-
+rtmp://tv.gromnet.net/live/happy
+
 #EXTINF:0,STUDIO B-
 rtmp://tv.gromnet.net/live/studiob
 
 #EXTINF:0,DUGA-
 rtmp://tv.gromnet.net/live/duga
+
+#EXTINF:0,INFO-
+rtmp://tv.gromnet.net/live/info
 
 #EXTINF:0,GEM-
 rtmp://tv.gromnet.net/live/gem
@@ -62,12 +68,6 @@ rtmp://tv.gromnet.net/live/krtl
 
 #EXTINF:0,MAG-
 rtmp://tv.gromnet.net/live/mag
-
-#EXTINF:0,RTV 1-
-rtmp://tv.gromnet.net/live/rtv1
-
-#EXTINF:0,RTV 2-
-rtmp://tv.gromnet.net/live/rtv2
 
 #EXTINF:0,SREMSKA-
 rtmp://tv.gromnet.net/live/sremska
@@ -124,31 +124,25 @@ mms://195.252.114.172/studiob
 http://188.247.133.21:8888/ipvt_004
 
 #EXTINF:0,DUGA+
-http://188.247.133.24:8888/ipvt_005
-
-#EXTINF:0,DUGA+
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
 
 #EXTINF:0,K:CN 1
-http://178.79.24.7:5000//udp/239.2.2.2:5000
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
 
-#EXTINF:0,K:CN 1
-http://178.79.24.7:10011
 
 #EXTINF:0,K:CN 2
-http://178.79.24.7:10012
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+
+
+#EXTINF:0,K:CN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
 
 #EXTINF:0,K:CN 3
 http://188.247.133.22:8888/ipvt_001
 
 #EXTINF:0,Pink
 http://cp.dmbshare.net:8000/live/cotton/cotton/1823.ts
-
-#EXTINF:0,Pink Action
-http://188.247.133.24:8888/ipvt_004
-
-#EXTINF:0,Pink Comedy
-http://188.247.133.24:8888/ipvt_006
 
 #EXTINF:0,Pink Film
 http://188.247.133.21:8888/ipvt_003
@@ -158,18 +152,6 @@ http://188.247.133.22:8888/ipvt_004
 
 #EXTINF:0,Pink Movies
 http://188.247.133.22:8888/ipvt_005
-
-#EXTINF:0,Pink Pedia
-http://188.247.133.24:8888/ipvt_001
-
-#EXTINF:0,Pink Premium
-http://188.247.133.22:8888/ipvt_003
-
-#EXTINF:0,Pink Reality
-http://188.247.133.24:8888/ipvt_010
-
-#EXTINF:0,Pink Soap
-http://188.247.133.24:8888/ipvt_009
 
 #EXTINF:0,Pink World
 http://188.247.133.22:8888/ipvt_009
@@ -181,18 +163,6 @@ http://188.247.133.22:8888/ipvt_010
 #EXTINF:0,[COLOR green]*---------HRVATSKA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,HRT 1 
-http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HRT 2
-http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HRT 3
-http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/01.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HRT 4
-http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/01.m3u8|User-Agent=Mozilla/5.0
- 
 #EXTINF:0,RTL
 http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
  
@@ -217,9 +187,6 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 #EXTINF:0,Jugoton TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 
-#EXTINF:0,Jugoton TV
-http://80.80.58.167:8070/hls/jugoton.m3u8
-
 #EXTINF:0,CMC
 http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
@@ -233,38 +200,21 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:0,Balkan tv
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
-#EXTINF:0,Balkanika
-http://84.22.46.188/play/a00a
-
 #EXTINF:0,BN MUSIC
 http://188.247.133.18:8888/ipvt_002
 
 #EXTINF:0,FACE HD
 http://188.247.133.21:8888/ipvt_005
 
-#EXTINF:0,Hayat TV
-http://sr-mil.dyndns.org:1133
-
 #EXTINF:0,Hayat Plus
 http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Hayat Folk
-http://188.247.133.18:8888/ipvt_004
 
 #EXTINF:0,Hayat Music
 http://84.22.46.188/play/a00y
 
-#EXTINF:0,Hema TV
-mmsh://77.238.209.50:1234
-
-#EXTINF:0,OTV BH
-http://188.247.133.24:8888/ipvt_007
-
-#EXTINF:0,RTRS
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-
 #EXTINF:0,STV FOLK
 rtmp://str103.setplex.net:1935/228/stv_folk
+
 
 #EXTINF:0,[COLOR green]*---------CRNA GORA---------*[/COLOR]
 #EXTM3U
@@ -278,9 +228,6 @@ mms://beotelmedia.beotel.net/tvcg
 
 #EXTINF:0,[COLOR green]*---------MAKEDONIJA---------*[/COLOR]
 #EXTM3U
-
-#EXTINF:0,24 VESTI MK
-http://188.247.133.20:8888/ipvt_007
 
 #EXTINF:0,KANAL 5 plus 
 http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8|User-Agent=Mozilla/5.0
@@ -306,9 +253,6 @@ http://cdn.iptv.amis.net/ts/Carli/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,Golica
 http://cdn.iptv.amis.net/ts/Golica/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Kanal A
-http://cdn.iptv.amis.net/ts/KanalA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,POP TV
 http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -378,9 +322,6 @@ http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/
 #EXTINF:0,BBC World News
 http://84.52.119.203:4444/udp/239.255.10.6:5500
 
-#EXTINF:0,BBC World News HD
-http://37.235.186.133:4022/udp/225.50.66.21:1234
-
 #EXTINF:0,Bloomberg TV
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
 
@@ -430,14 +371,8 @@ http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/
 #EXTINF:0,Discovery Science (Rus-Eng)
 http://37.8.155.149:4022/udp/224.3.24.34:1234
 
-#EXTINF:0,Discovery DTX (Rus-Eng)
-http://91.219.136.73:4022/udp/239.1.0.15:1234
-
 #EXTINF:0,History Channel
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,History Channel (Rus-Eng)
-http://91.219.136.73:4022/udp/239.1.0.35:1234
 
 #EXTINF:0,Hunting and Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
@@ -498,9 +433,6 @@ http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 #EXTINF:0,[COLOR green]*---------[COLOR blue]K[COLOR orange]I[COLOR red]D[COLOR pink]S[COLOR green]---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,Animal Puppies
-http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
-
 #EXTINF:0,BabyTV
 http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
@@ -543,12 +475,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
 #EXTINF:0,[COLOR green]*---------FILMOVI I SERIJE---------*[/COLOR]
 #EXTM3U
-
-#EXTINF:0,CBS Action
-http://live-1180.gv2.edge.filmon.com/live/1952.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea17a7d35c6919dcf02528e98abd34d9144d645789cb7a21607e300c0df94568d271ca889a4e1a8bd4486dee25540a0666e77b80ec5f7d38b9d1923fe1f6f8af96183f9424739b48208839e1384967309dd6d6f4e42d2178894f8797511679dee3aa8a0e571c1e5ac9267596107db194892fdc669b9d5ccb83e886cef4764ded882d729d58ead742192e1988835708b3f
-
-#EXTINF:0,CBS Drama
-http://live-1180.gv2.edge.filmon.com/live/1805.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea867ef520e789179bb0ad9b9b527b82411ee87f016ded606d2cc3d69dc33cf1bc69b50210048a956a7d8c4414e14d8bd66b7ab0177ae22aa65f689b59058e82f0c6ba15058d26104995370cbb803e0a6df75695654584d36d6f4b83f9759426bdba10f5ae38541a464c041e51153edfcc9e703a010d410a2fa3fbb38f1b19478ba9bc53f64b7486b7bdafd5af0c563c9
 
 #EXTINF:0,CBS Reality
 http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -602,21 +528,6 @@ mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
 #EXTINF:0,MTV Adria
 http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,MTV Dance
-http://95.140.197.69:8000/channel-44
-
-#EXTINF:0,MTV Hits
-http://37.8.155.149:4022/udp/224.3.24.19:1234
-
-#EXTINF:0,MTV Hits
-http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL727/PROFILE03.m3u8?totalpley=%2F.ts
-
-#EXTINF:0,MTV Live HD
-http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL701/PROFILE03.m3u8?totalpley=%2F.ts
-
-#EXTINF:0,MTV Latino
-http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL726/PROFILE03.m3u8?totalpley=%2F.ts
-
 #EXTINF:0,VH1
 http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
@@ -625,12 +536,6 @@ http://gogo.jksw.cz:8024/
 
 #EXTINF:0,VH1 Classic
 http://212.79.96.134:8024.ch/1classic
-
-#EXTINF:0,VH1 Classic
-http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL728/PROFILE03.m3u8?totalpley=%2F.ts
-
-#EXTINF:0,VH1 Latino HD
-http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL703/PROFILE03.m3u8?totalpley=%2F.ts
 
 #EXTINF:0,Vevo 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
@@ -663,9 +568,6 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:0,[COLOR green]*---------MODA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,Fashon One
-http://162.212.176.83:8080/fashionone.m3u8
-
 #EXTINF:0,Fitnes 360
 rtmp://203.162.121.230:1935/live//fitness_360
 
@@ -693,35 +595,12 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1805.ts
 #EXTINF:0,Arena Sport 5
 http://cp.dmbshare.net:8000/live/cotton/cotton/1806.ts
 
-#EXTINF:0,Arena Sport 1-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1152.ts
-#EXTINF:0,Arena Sport 2-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1151.ts
-#EXTINF:0,Arena Sport 3-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1150.ts
-#EXTINF:0,Arena Sport 4-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1149.ts
-#EXTINF:0,Arena Sport 5-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1148.ts
-
 #EXTINF:0,Sport Klub 1
 http://cp.dmbshare.net:8000/live/cotton/cotton/1799.ts
 #EXTINF:0,Sport Klub 2
 http://cp.dmbshare.net:8000/live/cotton/cotton/1800.ts
 #EXTINF:0,Sport Klub 3
 http://cp.dmbshare.net:8000/live/cotton/cotton/1801.ts
-
-#EXTINF:0,Sport Klub 1-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1133.ts
-#EXTINF:0,Sport Klub 2-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1135.ts
-#EXTINF:0,Sport Klub 3-
-http://163.172.14.11:12000/live/36AEg3hEXmGXgry8/725fST8spTbSSQRA/1136.ts
-
-#EXTINF:0,Eurosport 1
-http://188.247.133.24:8888/ipvt_008
-#EXTINF:0,Eurosport 2
-http://188.247.133.22:8888/ipvt_008
 
 #EXTINF:0,Eurosport 1 (En)
 http://IPTV-VOLKAN.NET:8000/live/phill/phill/410.m3u8
@@ -757,42 +636,11 @@ http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/
 #EXTINF:0,Sport TV 2 (Slo)
 http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,Bein Sport HD1
-http://149.202.198.114:8000/play/beins1hd
-#EXTINF:0,Bein Sport HD2
-http://149.202.198.114:8000/play/beins2hd
-#EXTINF:0,Bein Sport HD3
-http://149.202.198.114:8000/play/beinshd3
-#EXTINF:0,Bein Sport HD4
-http://149.202.198.114:8000/play/beinshd4
-#EXTINF:0,Bein Sport HD5
-http://149.202.198.114:8000/play/beinshd5
-#EXTINF:0,Bein Sport HD6
-http://149.202.198.114:8000/play/beinshd6
-#EXTINF:0,Bein Sport HD7
-http://149.202.198.114:8000/play/beinshd7
-#EXTINF:0,Bein Sport HD8
-http://149.202.198.114:8000/play/beinshd8
-#EXTINF:0,Bein Sport HD9
-http://149.202.198.114:8000/play/beinshd9
-#EXTINF:0,Bein Sport HD10
-http://149.202.198.114:8000/play/beinshd10
-#EXTINF:0,Bein Sport HD 12
-http://149.202.198.114:8000/play/beinshd12
-#EXTINF:0,Bein Sport HD 13
-http://149.202.198.114:8000/play/beins13hd
-
-#EXTINF:0,AUTO PLUS (Rus)
-http://3.hls.bolshoe.tv/1/streaming/auto_plus/tvrec/playlist.m3u8
-
 #EXTINF:0,AutoSport TV
 mms://100automoto.tv/100livesport
 
 #EXTINF:0,CBC Sport HD
 http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
-
-#EXTINF:0,FOX SPORT 1 (USA)
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_1164_av-b.m3u8
 
 #EXTINF:0,FOX SPORTS 506 HD
 http://162.248.6.122:8084
@@ -843,17 +691,11 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 #EXTINF:0,Just SEX
 http://46.182.25.34:1935/tv/1420/playlist.m3u8
 
-#EXTINF:0,Frenchlover
-http://37.235.133.89:81/udp/225.50.70.7:1234
-
 #EXTINF:0,MIAMI TV ESP (18+)
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u
 
 #EXTINF:0,Sexto Senso
 http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Spice Tv 18+ (Adult) (US) (English)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 
 #EXTINF:0,Babestation  EXtra
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
