@@ -321,9 +321,10 @@ http://82.200.127.58:8080/udp/233.12.144.12:5050
 #EXTINF:0,Nick Jr (Rus-Eng)
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 
-#EXTINF:0,NICKELODEON
+#EXTINF:0,Nickelodeon SRB-
 http://93.87.85.70/PLTV/88888888/224/3221226587/04.m3u8
-#EXTINF:0,NICK.JR
+
+#EXTINF:0,Nick Jr. SRB-
 http://93.87.85.70/PLTV/88888888/224/3221226596/04.m3u8
 
 #EXTINF:0,Ta Te Ti
@@ -446,6 +447,26 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1805.ts
 #EXTINF:0,Arena Sport 5
 http://cp.dmbshare.net:8000/live/cotton/cotton/1806.ts
 
+#EXTINF:0,ARENASPORT 1-
+http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
+#EXTINF:0,ARENASPORT 2-
+http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
+#EXTINF:0,ARENASPORT 3-
+http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
+#EXTINF:0,ARENASPORT 4-
+http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
+#EXTINF:0,ARENASPORT 5-
+http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
+
+#EXTINF:0,ARENA SPORT 1-
+http://centurionlukavac.com:80/live?channelId=65&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,ARENA SPORT 2-
+http://centurionlukavac.com:80/live?channelId=66&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,ARENA SPORT 3-
+http://centurionlukavac.com:80/live?channelId=67&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,ARENA SPORT 4-
+http://centurionlukavac.com:80/live?channelId=68&uid=8&deviceUser=hicham123&devicePass=1243hicham
+
 #EXTINF:0,Sport Klub 1
 http://cp.dmbshare.net:8000/live/cotton/cotton/1799.ts
 #EXTINF:0,Sport Klub 2
@@ -453,12 +474,31 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1800.ts
 #EXTINF:0,Sport Klub 3
 http://cp.dmbshare.net:8000/live/cotton/cotton/1801.ts
 
+#EXTINF:0,SPORT KLUB 1-
+http://centurionlukavac.com:80/live?channelId=71&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,SPORT KLUB 2-
+http://centurionlukavac.com:80/live?channelId=72&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,SPORT KLUB 3-
+http://centurionlukavac.com:80/live?channelId=73&uid=8&deviceUser=hicham123&devicePass=1243hicham
+
+#EXTINF:0,SPORT KLUB 1 SR -
+http://centurionlukavac.com:80/live?channelId=74&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,SPORT KLUB 2 SR -
+http://centurionlukavac.com:80/live?channelId=75&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,SPORT KLUB 3 SR -
+http://centurionlukavac.com:80/live?channelId=76&uid=8&deviceUser=hicham123&devicePass=1243hicham
+
 #EXTINF:0,Eurosport 1 (En)
 http://IPTV-VOLKAN.NET:8000/live/phill/phill/410.m3u8
 #EXTINF:0,Eurosport 1 HD (En)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:0,Eurosport 1 HD (Fr)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+#EXTINF:0,EUROSPORT 1 (Srb)-
+http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
+#EXTINF:0,EUROSPORT 2 (Srb)-
+http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
 
 #EXTINF:0,Digi Sport 1
 http://85.25.43.23:8080/hls/volex_02.m3u8
