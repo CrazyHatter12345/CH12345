@@ -24,7 +24,7 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1817.ts
 #EXTINF:0,STUDIO B
 mms://195.252.114.172/studiob
 
-#EXTINF:0,DM SAT
+#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title="SRPSKI",DM Sat
 http://188.247.133.21:8888/ipvt_004
 
 #EXTINF:0,DUGA+
