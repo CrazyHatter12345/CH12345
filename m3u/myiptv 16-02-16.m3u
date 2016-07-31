@@ -9,7 +9,7 @@
 #EXTINF:0,[COLOR green]*---------SRBIJA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,RTS 1
+#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="RTS 1" group-title="SRPSKI",RTS 1
 http://cp.dmbshare.net:8000/live/cotton/cotton/1815.ts
 
 #EXTINF:0,RTS 2
@@ -57,13 +57,13 @@ http://188.247.133.22:8888/ipvt_009
 #EXTINF:0,Pink Zabava
 http://188.247.133.22:8888/ipvt_010
 
-#EXTINF:0,RTS 1
+#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="RTS 1" group-title="SRPSKI",RTS 1-
 http://93.87.85.70/PLTV/88888888/224/3221225914/04.m3u8
 #EXTINF:0,RTS 2
 http://93.87.85.70/PLTV/88888888/224/3221226357/04.m3u8
 #EXTINF:0,RTS 3
 http://93.87.85.70/PLTV/88888888/224/3221226575/04.m3u8
-#EXTINF:0,RTS 1-
+#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="RTS 1" group-title="SRPSKI",RTS 1-
 http://centurionlukavac.com:80/live?channelId=22&uid=8&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:0,RTS 2-
 http://centurionlukavac.com:80/live?channelId=23&uid=8&deviceUser=hicham123&devicePass=1243hicham
