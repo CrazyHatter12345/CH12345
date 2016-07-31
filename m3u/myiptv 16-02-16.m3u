@@ -3,7 +3,7 @@
 #EXTINF:0,[COLOR orange]*---------Crazy Hatter Playlist---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,[COLOR red]*---------UPDATE 25.07.2016.---------*[/COLOR]
+#EXTINF:0,[COLOR red]*---------UPDATE 31.07.2016.---------*[/COLOR]
 #EXTM3U
 
 #EXTINF:0,[COLOR green]*---------SRBIJA---------*[/COLOR]
@@ -57,6 +57,111 @@ http://188.247.133.22:8888/ipvt_009
 #EXTINF:0,Pink Zabava
 http://188.247.133.22:8888/ipvt_010
 
+#EXTINF:0,RTS 1-
+http://93.87.85.70/PLTV/88888888/224/3221225914/04.m3u8
+#EXTINF:0,RTS 2-
+http://93.87.85.70/PLTV/88888888/224/3221226357/04.m3u8
+#EXTINF:0,RTS 3-
+http://93.87.85.70/PLTV/88888888/224/3221226575/04.m3u8
+#EXTINF:0,RTS 1-
+http://centurionlukavac.com:80/live?channelId=22&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,RTS 2-
+http://centurionlukavac.com:80/live?channelId=23&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,RTS SAT- 
+http://centurionlukavac.com:80/live?channelId=25&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PRVA TV-
+http://93.87.85.70/PLTV/88888888/224/3221226570/04.m3u8
+#EXTINF:0,STUDIO B-
+http://93.87.85.70/PLTV/88888888/224/3221226582/04.m3u8
+#EXTINF:0,SOS-
+http://93.87.85.70/PLTV/88888888/224/3221226667/04.m3u8
+#EXTINF:0,B92-
+http://93.87.85.70/PLTV/88888888/224/3221226395/04.m3u8
+#EXTINF:0,B92 INFO-
+http://93.87.85.70/PLTV/88888888/224/3221226576/04.m3u8
+#EXTINF:0,HAPPY TV-
+http://93.87.85.70/PLTV/88888888/224/3221226574/04.m3u8
+#EXTINF:0,DM SAT-
+http://centurionlukavac.com:80/live?channelId=39&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK-
+http://93.87.85.70/PLTV/88888888/224/3221225872/04.m3u8
+#EXTINF:0,PINK 2-
+http://93.87.85.70/PLTV/88888888/224/3221225882/04.m3u8
+#EXTINF:0,PINK 3 INFO-
+http://93.87.85.70/PLTV/88888888/224/3221226573/04.m3u8
+#EXTINF:0,PINK ACTION-
+http://93.87.85.70/PLTV/88888888/224/3221225900/04.m3u8
+#EXTINF:0,PINK CLASSIC-
+http://93.87.85.70/PLTV/88888888/224/3221226581/04.m3u8
+#EXTINF:0,PINK COMEDY-
+http://93.87.85.70/PLTV/88888888/224/3221226578/04.m3u8
+#EXTINF:0,PINK FILM-
+http://93.87.85.70/PLTV/88888888/224/3221226599/04.m3u8
+#EXTINF:0,PINK HORROR-
+http://93.87.85.70/PLTV/88888888/224/3221226579/04.m3u8
+#EXTINF:0,PINK MUSIC-
+http://93.87.85.70/PLTV/88888888/224/3221225875/04.m3u8
+#EXTINF:0,PINK MOVIES-
+http://93.87.85.70/PLTV/88888888/224/3221225901/04.m3u8
+#EXTINF:0,PINK PEDIA-
+http://93.87.85.70/PLTV/88888888/224/3221226577/04.m3u8
+#EXTINF:0,PINK PREMIUM-
+http://93.87.85.70/PLTV/88888888/224/3221225891/04.m3u8
+#EXTINF:0,PINK SUPER KIDS-
+http://93.87.85.70/PLTV/88888888/224/3221226666/04.m3u8
+#EXTINF:0,PINK WESTERN-
+http://93.87.85.70/PLTV/88888888/224/3221226580/04.m3u8
+#EXTINF:0,PINK 2-
+http://centurionlukavac.com:80/live?channelId=6&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK 3-
+http://centurionlukavac.com:80/live?channelId=7&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK-
+http://centurionlukavac.com:80/live?channelId=12&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK PLUS-
+http://centurionlukavac.com:80/live?channelId=13&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK EXTRA-
+http://centurionlukavac.com:80/live?channelId=14&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK M-
+http://centurionlukavac.com:80/live?channelId=15&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK REALITY-
+http://centurionlukavac.com:80/live?channelId=40&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK FOLK-
+http://centurionlukavac.com:80/live?channelId=41&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK ZABAVA- 
+http://centurionlukavac.com:80/live?channelId=42&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK SERIJE-
+http://centurionlukavac.com:80/live?channelId=49&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK FILM-
+http://centurionlukavac.com:80/live?channelId=50&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK ACTION- 
+http://centurionlukavac.com:80/live?channelId=51&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK THRILLER- 
+http://centurionlukavac.com:80/live?channelId=52&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK CRIME-
+http://centurionlukavac.com:80/live?channelId=53&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK MOVIES- 
+http://centurionlukavac.com:80/live?channelId=54&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK ROMANCE- 
+http://centurionlukavac.com:80/live?channelId=55&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK SCIFI-
+http://centurionlukavac.com:80/live?channelId=56&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK PREMIUM-
+http://centurionlukavac.com:80/live?channelId=57&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK COMEDY-
+http://centurionlukavac.com:80/live?channelId=58&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK HORROR-
+http://centurionlukavac.com:80/live?channelId=59&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK CLASSIC-
+http://centurionlukavac.com:80/live?channelId=60&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK WESTERN-
+http://centurionlukavac.com:80/live?channelId=61&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK FAMILY-
+http://centurionlukavac.com:80/live?channelId=62&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK KUVAR-
+http://centurionlukavac.com:80/live?channelId=86&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK SOAP-
+http://centurionlukavac.com:80/live?channelId=92&uid=8&deviceUser=hicham123&devicePass=1243hicham
+
 
 #EXTINF:0,[COLOR green]*---------HRVATSKA---------*[/COLOR]
 #EXTM3U
@@ -98,6 +203,17 @@ http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 
+#EXTINF:0,HRT 1-
+http://centurionlukavac.com:80/live?channelId=18&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,RTL-
+http://centurionlukavac.com:80/live?channelId=20&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,RTL 2-
+http://centurionlukavac.com:80/live?channelId=21&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,NOVA TV-
+http://centurionlukavac.com:80/live?channelId=69&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,DOMA TV-
+http://centurionlukavac.com:80/live?channelId=70&uid=8&deviceUser=hicham123&devicePass=1243hicham
+
 
 #EXTINF:0,[COLOR green]*---------BIH---------*[/COLOR]
 #EXTM3U
@@ -113,6 +229,31 @@ http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,Hayat Music
 http://84.22.46.188/play/a00y
+
+#EXTINF:0,AL JAZEERA-
+http://centurionlukavac.com:80/live?channelId=17&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,FTV-
+http://centurionlukavac.com:80/live?channelId=1&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,BHT-
+http://centurionlukavac.com:80/live?channelId=2&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,RTRS-
+http://centurionlukavac.com:80/live?channelId=3&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,OBN-
+http://centurionlukavac.com:80/live?channelId=4&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK BH-
+http://centurionlukavac.com:80/live?channelId=5&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,HAYAT-
+http://centurionlukavac.com:80/live?channelId=8&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,HAYAT PLUS-
+http://centurionlukavac.com:80/live?channelId=82&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,BN TV-
+http://centurionlukavac.com:80/live?channelId=9&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,FACE TV-
+http://centurionlukavac.com:80/live?channelId=10&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,HAYAT MUSIC-
+http://centurionlukavac.com:80/live?channelId=34&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,BN MUSIC-
+http://centurionlukavac.com:80/live?channelId=35&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
 
 #EXTINF:0,[COLOR green]*---------CRNA GORA---------*[/COLOR]
@@ -321,11 +462,16 @@ http://82.200.127.58:8080/udp/233.12.144.12:5050
 #EXTINF:0,Nick Jr (Rus-Eng)
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 
-#EXTINF:0,Nickelodeon SRB-
+#EXTINF:0,Nickelodeon (Srb)-
 http://93.87.85.70/PLTV/88888888/224/3221226587/04.m3u8
 
-#EXTINF:0,Nick Jr. SRB-
+#EXTINF:0,Nick Jr. (srb)-
 http://93.87.85.70/PLTV/88888888/224/3221226596/04.m3u8
+
+#EXTINF:0,CINEMANIA PLUS-
+http://93.87.85.70/PLTV/88888888/224/3221226586/04.m3u8
+#EXTINF:0,MINIMAX-
+http://93.87.85.70/PLTV/88888888/224/3221226586/04.m3u
 
 #EXTINF:0,Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
@@ -572,6 +718,21 @@ http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 
 #EXTINF:0,BABE XXX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:0,PINK EROTIK 1-
+http://centurionlukavac.com:80/live?channelId=77&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK EROTIK 2-
+http://centurionlukavac.com:80/live?channelId=78&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK EROTIK 3-
+http://centurionlukavac.com:80/live?channelId=79&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,PINK EROTIK 4-
+http://centurionlukavac.com:80/live?channelId=80&uid=8&deviceUser=hicham123&devicePass=1243hicham
+#EXTINF:0,XXX 1-
+http://93.87.85.70/PLTV/88888888/224/3221226597/04.m3u8
+#EXTINF:0,XXX 2-
+http://93.87.85.70/PLTV/88888888/224/3221226598/04.m3u8
+#EXTINF:0,XXX 3-
+http://93.87.85.70/PLTV/88888888/224/3221225908/04.m3u8
 
 
 #EXTINF:0,[COLOR red]*---------XXX ADULT MOVIES ON DEMAND XXX---------*[/COLOR]
