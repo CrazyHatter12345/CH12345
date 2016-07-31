@@ -18,7 +18,7 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1816.ts
 #EXTINF:0,RTS Sat
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,Prva TV
+#EXTINF:0,Prva
 http://cp.dmbshare.net:8000/live/cotton/cotton/1817.ts
 
 #EXTINF:0,STUDIO B
@@ -57,11 +57,11 @@ http://188.247.133.22:8888/ipvt_009
 #EXTINF:0,Pink Zabava
 http://188.247.133.22:8888/ipvt_010
 
-#EXTINF:0,RTS 1-
+#EXTINF:0,RTS 1
 http://93.87.85.70/PLTV/88888888/224/3221225914/04.m3u8
-#EXTINF:0,RTS 2-
+#EXTINF:0,RTS 2
 http://93.87.85.70/PLTV/88888888/224/3221226357/04.m3u8
-#EXTINF:0,RTS 3-
+#EXTINF:0,RTS 3
 http://93.87.85.70/PLTV/88888888/224/3221226575/04.m3u8
 #EXTINF:0,RTS 1-
 http://centurionlukavac.com:80/live?channelId=22&uid=8&deviceUser=hicham123&devicePass=1243hicham
@@ -462,10 +462,10 @@ http://82.200.127.58:8080/udp/233.12.144.12:5050
 #EXTINF:0,Nick Jr (Rus-Eng)
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 
-#EXTINF:0,Nickelodeon (Srb)-
+#EXTINF:0,Nickelodeon
 http://93.87.85.70/PLTV/88888888/224/3221226587/04.m3u8
 
-#EXTINF:0,Nick Jr. (srb)-
+#EXTINF:0,Nick Jr.
 http://93.87.85.70/PLTV/88888888/224/3221226596/04.m3u8
 
 #EXTINF:0,CINEMANIA PLUS-
@@ -593,24 +593,24 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1805.ts
 #EXTINF:0,Arena Sport 5
 http://cp.dmbshare.net:8000/live/cotton/cotton/1806.ts
 
-#EXTINF:0,ARENASPORT 1-
+#EXTINF:0,ARENA SPORT 1-
 http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
 #EXTINF:0,ARENASPORT 2-
 http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
-#EXTINF:0,ARENASPORT 3-
+#EXTINF:0,ARENA SPORT 3-
 http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
-#EXTINF:0,ARENASPORT 4-
+#EXTINF:0,ARENA SPORT 4-
 http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
-#EXTINF:0,ARENASPORT 5-
+#EXTINF:0,ARENA SPORT 5-
 http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
 
-#EXTINF:0,ARENA SPORT 1-
+#EXTINF:0,ARENA SPORT 1
 http://centurionlukavac.com:80/live?channelId=65&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,ARENA SPORT 2-
+#EXTINF:0,ARENA SPORT 2
 http://centurionlukavac.com:80/live?channelId=66&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,ARENA SPORT 3-
+#EXTINF:0,ARENA SPORT 3
 http://centurionlukavac.com:80/live?channelId=67&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,ARENA SPORT 4-
+#EXTINF:0,ARENA SPORT 4
 http://centurionlukavac.com:80/live?channelId=68&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
 #EXTINF:0,Sport Klub 1
@@ -620,11 +620,11 @@ http://cp.dmbshare.net:8000/live/cotton/cotton/1800.ts
 #EXTINF:0,Sport Klub 3
 http://cp.dmbshare.net:8000/live/cotton/cotton/1801.ts
 
-#EXTINF:0,SPORT KLUB 1-
+#EXTINF:0,SPORT KLUB 1
 http://centurionlukavac.com:80/live?channelId=71&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,SPORT KLUB 2-
+#EXTINF:0,SPORT KLUB 2
 http://centurionlukavac.com:80/live?channelId=72&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,SPORT KLUB 3-
+#EXTINF:0,SPORT KLUB 3
 http://centurionlukavac.com:80/live?channelId=73&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
 #EXTINF:0,SPORT KLUB 1 SR -
