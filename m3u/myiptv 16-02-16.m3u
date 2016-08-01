@@ -75,7 +75,7 @@ http://93.87.85.70/PLTV/88888888/224/3221226570/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226582/04.m3u8
 #EXTINF:0 tvg-id="SOS" tvg-name="SOS" tvg-logo="SOS" group-title="*---------SRBIJA---------*",SOS-
 http://93.87.85.70/PLTV/88888888/224/3221226667/04.m3u8
-#EXTINF:0 tvg-id="B92" tvg-name="B92" tvg-logo="B92" group-title="*---------SRBIJA---------*",B92-
+#EXTINF:0 tvg-id="B92" tvg-name="B92" tvg-logo="http://www.thelogodb.com/images/media/logo/stwxuq1470008441.png" group-title="*---------SRBIJA---------*",B92-
 http://93.87.85.70/PLTV/88888888/224/3221226395/04.m3u8
 #EXTINF:0 tvg-id="B92 Info" tvg-name="B92_Info" tvg-logo="B92 Info" group-title="*---------SRBIJA---------*",B92 Info-
 http://93.87.85.70/PLTV/88888888/224/3221226576/04.m3u8
@@ -166,20 +166,20 @@ http://centurionlukavac.com:80/live?channelId=92&uid=8&deviceUser=hicham123&devi
 #EXTINF:0,[COLOR green]*---------HRVATSKA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="HRT 1" tvg-name="HRT_1" tvg-logo="HRT 1" group-title="*---------HRVATSKA---------*",HRT 1
+#EXTINF:0 tvg-id="HRT 1" tvg-name="HRT_1" tvg-logo="http://www.thelogodb.com/images/media/logo/rvyysq1437948901.png" group-title="*---------HRVATSKA---------*",HRT 1
 http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0 tvg-id="HRT 2" tvg-name="HRT_2" tvg-logo="HRT 2" group-title="*---------HRVATSKA---------*",HRT 2
+#EXTINF:0 tvg-id="HRT 2" tvg-name="HRT_2" tvg-logo="http://www.thelogodb.com/images/media/logo/suxusu1437948916.png" group-title="*---------HRVATSKA---------*",HRT 2
 http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0 tvg-id="HRT 3" tvg-name="HRT_3" tvg-logo="HRT 3" group-title="*---------HRVATSKA---------*",HRT 3
+#EXTINF:0 tvg-id="HRT 3" tvg-name="HRT_3" tvg-logo="http://www.thelogodb.com/images/media/logo/rqvwxt1437948909.png" group-title="*---------HRVATSKA---------*",HRT 3
 http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="RTL" tvg-name="RTL" tvg-logo="RTL" group-title="*---------HRVATSKA---------*",RTL
+#EXTINF:0 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://www.thelogodb.com/images/media/logo/stxstu1433453671.png" group-title="*---------HRVATSKA---------*",RTL
 http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
  
-#EXTINF:0 tvg-id="RTL 2" tvg-name="RTL_2" tvg-logo="RTL 2" group-title="*---------HRVATSKA---------*",RTL 2
+#EXTINF:0 tvg-id="RTL 2" tvg-name="RTL_2" tvg-logo="http://www.thelogodb.com/images/media/logo/rtvqqx1433453722.png" group-title="*---------HRVATSKA---------*",RTL 2
 http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="RTL Living" tvg-name="RTL_Living" tvg-logo="RTL Living" group-title="*---------HRVATSKA---------*",RTL Living
+#EXTINF:0 tvg-id="RTL Living" tvg-name="RTL_Living" tvg-logo="http://www.thelogodb.com/images/media/logo/rutsuw1462897602.png" group-title="*---------HRVATSKA---------*",RTL Living
 http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,Televizija STV Osijek
@@ -191,27 +191,27 @@ rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:0,TV Student
 rtmp://213.202.73.202/iskon/studentska_b2.stream
 
-#EXTINF:0 tvg-id="Jugoton" tvg-name="Jugoton" tvg-logo="Jugoton" group-title="*---------HRVATSKA---------*",Jugoton TV
+#EXTINF:0 tvg-id="Jugoton" tvg-name="Jugoton" tvg-logo="http://www.thelogodb.com/images/media/logo/vxsswt1456243922.png" group-title="*---------HRVATSKA---------*",Jugoton TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 
-#EXTINF:0 tvg-id="Jugoton" tvg-name="Jugoton" tvg-logo="Jugoton" group-title="*---------HRVATSKA---------*",Jugoton TV
+#EXTINF:0 tvg-id="Jugoton" tvg-name="Jugoton" tvg-logo="http://www.thelogodb.com/images/media/logo/vxsswt1456243922.png" group-title="*---------HRVATSKA---------*",Jugoton TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 
-#EXTINF:0,CMC
+#EXTINF:0 tvg-id="CMC" tvg-name="CMC" tvg-logo="http://www.thelogodb.com/images/media/logo/xvuqyw1470009568.png" group-title="*---------HRVATSKA---------*",CMC
 http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,CMC
+#EXTINF:0 tvg-id="CMC" tvg-name="CMC" tvg-logo="http://www.thelogodb.com/images/media/logo/xvuqyw1470009568.png" group-title="*---------HRVATSKA---------*",CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="HRT 1" tvg-name="HRT_1" tvg-logo="HRT 1" group-title="*---------HRVATSKA---------*",HRT 1-
+#EXTINF:0 tvg-id="HRT 1" tvg-name="HRT_1" tvg-logo="http://www.thelogodb.com/images/media/logo/rvyysq1437948901.png" group-title="*---------HRVATSKA---------*",HRT 1-
 http://centurionlukavac.com:80/live?channelId=18&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="RTL" tvg-name="RTL" tvg-logo="RTL" group-title="*---------HRVATSKA---------*",RTL-
+#EXTINF:0 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://www.thelogodb.com/images/media/logo/stxstu1433453671.png" group-title="*---------HRVATSKA---------*",RTL-
 http://centurionlukavac.com:80/live?channelId=20&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="RTL 2" tvg-name="RTL_2" tvg-logo="RTL 2" group-title="*---------HRVATSKA---------*",RTL 2-
+#EXTINF:0 tvg-id="RTL 2" tvg-name="RTL_2" tvg-logo="http://www.thelogodb.com/images/media/logo/rtvqqx1433453722.png" group-title="*---------HRVATSKA---------*",RTL 2-
 http://centurionlukavac.com:80/live?channelId=21&uid=8&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:0 tvg-id="Nova TV" tvg-name="Nova_TV" tvg-logo="Nova TV" group-title="*---------HRVATSKA---------*",Nova TV-
 http://centurionlukavac.com:80/live?channelId=69&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Doma TV" tvg-name="Doma_TV" tvg-logo="Doma TV" group-title="*---------HRVATSKA---------*",Doma TV-
+#EXTINF:0 tvg-id="Doma TV" tvg-name="Doma_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/rrqxvu1433453693.png" group-title="*---------HRVATSKA---------*",Doma TV-
 http://centurionlukavac.com:80/live?channelId=70&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
 
