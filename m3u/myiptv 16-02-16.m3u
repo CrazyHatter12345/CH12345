@@ -74,7 +74,7 @@ http://93.87.85.70/PLTV/88888888/224/3221226570/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226582/04.m3u8
 #EXTINF:0 tvg-id="SOS" tvg-name="SOS" tvg-logo="http://www.thelogodb.com/images/media/logo/wvyuxy1470007599.png" group-title="*---------SRBIJA---------*",SOS-
 http://93.87.85.70/PLTV/88888888/224/3221226667/04.m3u8
-#EXTINF:0 tvg-id="B92" tvg-name="B92" tvg-logo="http://www.thelogodb.com/images/media/logo/stwxuq1470008441.png" group-title="*---------SRBIJA---------*",B92-
+#EXTINF:0 tvg-id="B92" tvg-name="B92" tvg-logo="http://www.thelogodb.com/images/media/logo/uvuwvu1470043957.png" group-title="*---------SRBIJA---------*",B92-
 http://93.87.85.70/PLTV/88888888/224/3221226395/04.m3u8
 #EXTINF:0 tvg-id="B92 Info" tvg-name="B92_Info" tvg-logo="http://www.thelogodb.com/images/media/logo/urqyuw1470044179.png" group-title="*---------SRBIJA---------*",B92 Info-
 http://93.87.85.70/PLTV/88888888/224/3221226576/04.m3u8
@@ -511,68 +511,68 @@ http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agen
 #EXTINF:0,[COLOR green]*---------MUZIKA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,Djing Animation HD
+#EXTINF:0 tvg-id="Djing Animation HD" tvg-name="Djing_Animation_HD" tvg-logo="" group-title="*---------MUZIKA---------*",Djing Animation HD
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:0,Djing Classic HD
+#EXTINF:0 tvg-id="Djing Classic HD" tvg-name="Djing_Classic_HD" tvg-logo="" group-title="*---------MUZIKA---------*",Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:0,Djind DJS HD
+#EXTINF:0 tvg-id="Djind DJS HD" tvg-name="Djind_DJS_HD" tvg-logo="" group-title="*---------MUZIKA---------*",Djind DJS HD
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 
-#EXTINF:0,Djing Ibiza HD
+#EXTINF:0 tvg-id="Djing Ibiza HD" tvg-name="Djing_Ibiza_HD" tvg-logo="" group-title="*---------MUZIKA---------*",Djing Ibiza HD
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:0,Djing Underground HD
+#EXTINF:0 tvg-id="Djing Underground HD" tvg-name="Djing_Underground_HD" tvg-logo="" group-title="*---------MUZIKA---------*",Djing Underground HD
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:0,MTV Adria
+#EXTINF:0 tvg-id="MTV Adria" tvg-name="MTV_Adria" tvg-logo="http://www.thelogodb.com/images/media/logo/svywyv1462896132.png" group-title="*---------MUZIKA---------*",MTV Adria
 http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,VH1
+#EXTINF:0 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://epg.serbianforum.org/logo_znaci/VH1.png" group-title="*---------MUZIKA---------*",VH1
 http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,Vevo 1 HD
+#EXTINF:0 tvg-id="Vevo 1 HD" tvg-name="Vevo_1 HD" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title="*---------MUZIKA---------*",Vevo 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
  
-#EXTINF:0,Vevo 2 HD
+#EXTINF:0 tvg-id="Vevo 2 HD" tvg-name="Vevo_2 HD" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title="*---------MUZIKA---------*",Vevo 2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
  
-#EXTINF:0,Vevo 3 HD
+#EXTINF:0 tvg-id="Vevo 3 HD" tvg-name="Vevo_3 HD" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title="*---------MUZIKA---------*",Vevo 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:0,Vevo EU
+#EXTINF:0 tvg-id="Vevo EU" tvg-name="Vevo_EU" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title="*---------MUZIKA---------*",Vevo EU
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
 
-#EXTINF:0,Vevo Flow
+#EXTINF:0 tvg-id="Vevo Flow" tvg-name="Vevo_Flow" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title="*---------MUZIKA---------*",Vevo Flow
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
-#EXTINF:0,Vevo Hits
+#EXTINF:0 tvg-id="Vevo Hits" tvg-name="Vevo_Hits" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title="*---------MUZIKA---------*",Vevo Hits
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:0,Vevo Nashville
+#EXTINF:0 tvg-id="Vevo Nashville" tvg-name="Vevo_Nashville" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png " group-title="*---------MUZIKA---------*",Vevo Nashville
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
-#EXTINF:0,Virgin TV
+#EXTINF:0 tvg-id="Virgin TV" tvg-name="Virgin_TV" tvg-logo="" group-title="*---------MUZIKA---------*",Virgin TV
 rtmp://fms.105.net:1935/live/virgin2
 
-#EXTINF:0,Virgin TV
+#EXTINF:0 tvg-id="Virgin TV" tvg-name="Virgin_TV" tvg-logo="" group-title="*---------MUZIKA---------*",Virgin TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
 #EXTINF:0,[COLOR green]*---------MODA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,Fitnes 360
+#EXTINF:0 tvg-id="Fitnes 360" tvg-name="Fitnes_360" tvg-logo="http://www.thelogodb.com/images/media/logo/wwuwtq1470178390.png" group-title="*---------MODA---------*",Fitnes 360
 rtmp://203.162.121.230:1935/live//fitness_360
 
-#EXTINF:0,Model Chanel
+#EXTINF:0 tvg-id="Model Chanel" tvg-name="Model_Chanel" tvg-logo="" group-title="*---------MODA---------*",Model Chanel
 http://203.162.121.230:1935/live/model_channel/index.m3u8?securetoken=#ed%h0#w@1
 
-#EXTINF:0,Model Channel
+#EXTINF:0 tvg-id="Model Chanel" tvg-name="Model_Chanel" tvg-logo="" group-title="*---------MODA---------*",Model Chanel
 rtmp://203.162.121.230:1935/live//model_channel
 
-#EXTINF:0,World Fashion Europe HD
+#EXTINF:0 tvg-id="World Fashion Europe HD" tvg-name="World Fashion Europe HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ustvwt1441893940.png" group-title="*---------MODA---------*",World Fashion Europe HD
 http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
 
 
@@ -692,37 +692,38 @@ http://94.100.31.242:8183/hls/xz3125/index.m3u8
 #EXTINF:0,[COLOR red]*---------XXX ADULT LIVE TV STREAM XXX---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,Husler TV
+#EXTINF:0 tvg-id="Hustler" tvg-name="Hustler" tvg-logo="http://www.thelogodb.com/images/media/logo/wsusvv1444920690.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Hustler TV
 http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,Jasmin TV
+
+#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:0,Jasmin TV
+#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
-#EXTINF:0,Just SEX
+#EXTINF:0 tvg-id="Just SEX" tvg-name="Just_SEX" tvg-logo="Just SEX" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Just SEX
 http://46.182.25.34:1935/tv/1420/playlist.m3u8
 
-#EXTINF:0,MIAMI TV ESP (18+)
+#EXTINF:0 tvg-id="MIAMI TV ESP (18+)" tvg-name="MIAMI_TV_ESP (18+)" tvg-logo="MIAMI TV ESP (18+)" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",MIAMI TV ESP (18+)
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u
 
-#EXTINF:0,Sexto Senso
+#EXTINF:0 tvg-id="Sexto Senso" tvg-name="Sexto_Senso" tvg-logo="Sexto Senso" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Sexto Senso
 http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0,Babestation  EXtra
+#EXTINF:0 tvg-id="Babestation  EXtra" tvg-name="Babestation_EXtra" tvg-logo="http://epg.serbianforum.org/logo_znaci/Babestation.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Babestation  EXtra
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 
-#EXTINF:0,BABE XXX
+#EXTINF:0 tvg-id="BABE XXX" tvg-name="BABE_XXX" tvg-logo="BABE XXX" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",BABE XXX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 
-#EXTINF:0,PINK EROTIK 1-
+#EXTINF:0 tvg-id="Pink Erotic" tvg-name="Pink_Erotic" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Pink Erotic 1-
 http://centurionlukavac.com:80/live?channelId=77&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,PINK EROTIK 2-
+#EXTINF:0 tvg-id="Pink Erotic 2" tvg-name="Pink_Erotic_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%202.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Pink Erotic 2-
 http://centurionlukavac.com:80/live?channelId=78&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,PINK EROTIK 3-
+#EXTINF:0 tvg-id="Pink Erotic 3" tvg-name="Pink_Erotic_3" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%203.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Pink Erotic 3-
 http://centurionlukavac.com:80/live?channelId=79&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0,PINK EROTIK 4-
+#EXTINF:0 tvg-id="Pink Erotic 4" tvg-name="Pink_Erotic_4" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%204.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Pink Erotic 4-
 http://centurionlukavac.com:80/live?channelId=80&uid=8&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:0,XXX 1-
 http://93.87.85.70/PLTV/88888888/224/3221226597/04.m3u8
