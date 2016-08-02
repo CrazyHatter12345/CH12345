@@ -30,15 +30,15 @@ http://188.247.133.21:8888/ipvt_004
 #EXTINF:#EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title="*---------SRBIJA---------*",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
 
-#EXTINF:0 tvg-id="KCN 1" tvg-name="KCN_1" tvg-logo="http://www.thelogodb.com/images/media/logo/sxxyqr1470045763.png" group-title="*---------SRBIJA---------*",K:CN 1
+#EXTINF:0 tvg-id="KCN 1" tvg-name="KCN_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%201.png" group-title="*---------SRBIJA---------*",K:CN 1
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 
 
-#EXTINF:0 tvg-id="KCN 2" tvg-name="KCN_2" tvg-logo="KCN 2" group-title="*---------SRBIJA---------*",K:CN 2
+#EXTINF:0 tvg-id="KCN 2" tvg-name="KCN_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%202.png" group-title="*---------SRBIJA---------*",K:CN 2
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 
 
-#EXTINF:0 tvg-id="KCN 3" tvg-name="KCN_3" tvg-logo="KCN 3" group-title="*---------SRBIJA---------*",K:CN 3
+#EXTINF:0 tvg-id="KCN 3" tvg-name="KCN_3" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%203.png" group-title="*---------SRBIJA---------*",K:CN 3
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
 
