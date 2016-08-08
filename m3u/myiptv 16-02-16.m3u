@@ -716,10 +716,10 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 
-#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
+#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" parent-code="1234" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
+#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" parent-code="1234" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
 #EXTINF:0 tvg-id="Just SEX" tvg-name="Just_SEX" tvg-logo="Just SEX" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Just SEX
