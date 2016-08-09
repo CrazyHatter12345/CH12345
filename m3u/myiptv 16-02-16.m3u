@@ -719,10 +719,10 @@ http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Jasmin TV
+#EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*" parent-code="12345",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
-#EXTINF:0 tvg-id="Just SEX" tvg-name="Just_SEX" tvg-logo="Just SEX" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Just SEX
+#EXTINF:0 tvg-id="Just SEX" tvg-name="Just_SEX" tvg-logo="Just SEX" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*" parent-code="12345",Just SEX
 http://46.182.25.34:1935/tv/1420/playlist.m3u8
 
 #EXTINF:0 tvg-id="MIAMI TV ESP (18+)" tvg-name="MIAMI_TV_ESP (18+)" tvg-logo="MIAMI TV ESP (18+)" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",MIAMI TV ESP (18+)
