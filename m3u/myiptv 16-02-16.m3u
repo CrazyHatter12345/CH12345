@@ -27,7 +27,7 @@ mms://195.252.114.172/studiob
 #EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title="*---------SRBIJA---------*",DM Sat
 http://188.247.133.21:8888/ipvt_004
 
-#EXTINF:#EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title="*---------SRBIJA---------*",Duga Plus
+#EXTINF:#EXTINF:0 tvg-id="TVDuga.svn" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title="*---------SRBIJA---------*",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
 
 #EXTINF:0 tvg-id="KCN 1" tvg-name="KCN_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%201.png" group-title="*---------SRBIJA---------*",K:CN 1
