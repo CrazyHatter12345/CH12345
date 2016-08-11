@@ -9,51 +9,52 @@
 #EXTINF:0,[COLOR green]*---------SRBIJA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title="*---------SRBIJA---------*",RTS 1
+#EXTINF:0 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title="*---------SRBIJA---------*",RTS 1
 http://cp.dmbshare.net:8000/live/cotton/cotton/1815.ts
 
-#EXTINF:0 tvg-id="RTS 2" tvg-name="RTS_2" tvg-logo="http://www.thelogodb.com/images/media/logo/ysxqqy1470041552.png" group-title="*---------SRBIJA---------*",RTS 2
+#EXTINF:0 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="http://www.thelogodb.com/images/media/logo/ysxqqy1470041552.png" group-title="*---------SRBIJA---------*",RTS 2
 http://cp.dmbshare.net:8000/live/cotton/cotton/1816.ts
 
-#EXTINF:0 tvg-id="RTS Sat" tvg-name="RTS_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title="*---------SRBIJA---------*",RTS Sat
+#EXTINF:0 tvg-id="RTSSAT.rs" tvg-name="RTS Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title="*---------SRBIJA---------*",RTS Sat
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="Prva" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title="*---------SRBIJA---------*",Prva
+#EXTINF:0 tvg-id="Prva.rs" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title="*---------SRBIJA---------*",Prva
 http://cp.dmbshare.net:8000/live/cotton/cotton/1817.ts
 
-#EXTINF:0 tvg-id="Studio B" tvg-name="Studio_B" tvg-logo="http://www.thelogodb.com/images/media/logo/uyqrxq1470007831.png" group-title="*---------SRBIJA---------*",Studio B
+#EXTINF:0 tvg-id="studio-b-yu.sr" tvg-name="Studio B" tvg-logo="http://www.thelogodb.com/images/media/logo/uyqrxq1470007831.png" group-title="*---------SRBIJA---------*",Studio B
 mms://195.252.114.172/studiob
 
-#EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title="*---------SRBIJA---------*",DM Sat
+#EXTINF:0 tvg-id="DMSAT.rs" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title="*---------SRBIJA---------*",DM Sat
 http://188.247.133.21:8888/ipvt_004
 
-#EXTINF:#EXTINF:0 tvg-id="TVDuga.svn" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title="*---------SRBIJA---------*",Duga Plus
+#EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title="*---------SRBIJA---------*",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
 
-#EXTINF:0 tvg-id="KCN 1" tvg-name="KCN_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%201.png" group-title="*---------SRBIJA---------*",K:CN 1
+#EXTINF:0 tvg-id="KCN1.rs" tvg-name="KCN 1" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%201.png" group-title="*---------SRBIJA---------*",K:CN 1
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 
 
-#EXTINF:0 tvg-id="KCN 2" tvg-name="KCN_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%202.png" group-title="*---------SRBIJA---------*",K:CN 2
+#EXTINF:0 tvg-id="KCN2.rs" tvg-name="KCN 2" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%202.png" group-title="*---------SRBIJA---------*",K:CN 2
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 
 
-#EXTINF:0 tvg-id="KCN 3" tvg-name="KCN_3" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%203.png" group-title="*---------SRBIJA---------*",K:CN 3
+#EXTINF:0 tvg-id="KCN3.rs" tvg-name="KCN 3" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%203.png" group-title="*---------SRBIJA---------*",K:CN 3
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
 
-#EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title="*---------SRBIJA---------*",Pink-
+#EXTINF:0 tvg-id="Pink1.rs" tvg-name="Pink 1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title="*---------SRBIJA---------*",Pink-
 http://cp.dmbshare.net:8000/live/cotton/cotton/1823.ts
 
-#EXTINF:0 tvg-id="Pink Film" tvg-name="Pink_Film" tvg-logo="http://www.thelogodb.com/images/media/logo/tvturv1470046389.png" group-title="*---------SRBIJA---------*",Pink Film-
+#EXTINF:0 tvg-id="PinkFilm.rs" tvg-name="Pink Film" tvg-logo="http://www.thelogodb.com/images/media/logo/tvturv1470046389.png" group-title="*---------SRBIJA---------*",Pink Film-
 http://188.247.133.21:8888/ipvt_003
 
-#EXTINF:0 tvg-id="Pink Movies" tvg-name="Pink_Movies" tvg-logo="http://www.thelogodb.com/images/media/logo/ssvvwr1470047171.png" group-title="*---------SRBIJA---------*",Pink Movies-
+#EXTINF:0 tvg-id="PinkMovies.rs" tvg-name="Pink Movies" tvg-logo="http://www.thelogodb.com/images/media/logo/ssvvwr1470047171.png" group-title="*---------SRBIJA---------*",Pink Movies-
 http://188.247.133.22:8888/ipvt_005
 
-#EXTINF:0 tvg-id="Pink World" tvg-name="Pink_World" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20World.png" group-title="*---------SRBIJA---------*",Pink World
+#EXTINF:0 tvg-id="PinkWorld.rs" tvg-name="Pink World" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20World.png" group-title="*---------SRBIJA---------*",Pink World
 http://188.247.133.22:8888/ipvt_009
-#EXTINF:0 tvg-id="Pink Zabava" tvg-name="Pink_Zabava" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title="*---------SRBIJA---------*",Pink Zabava-
+
+#EXTINF:0 tvg-id="PinkZabava.rs" tvg-name="Pink Zabava" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title="*---------SRBIJA---------*",Pink Zabava-
 http://188.247.133.22:8888/ipvt_010
 
 #EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title="*---------SRBIJA---------*",RTS 1-
@@ -478,7 +479,7 @@ http://93.87.85.70/PLTV/88888888/224/3221226586/04.m3u8
 #EXTINF:0 tvg-id="Ta Te Ti" tvg-name="Ta Te Ti" tvg-logo="Ta Te Ti" group-title="*---------KIDS---------*",Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-id="Smile of a child (English)" tvg-name="Smileofachildeng.hu" tvg-logo="http://epg.serbianforum.org/logo_znaci/Smile%20of%20a%20Child%20TV.png" group-title="*---------KIDS---------*",Smile of a Child
+#EXTINF:0 tvg-id="Smile of a Child" tvg-name="Smile of a Child" tvg-logo="http://epg.serbianforum.org/logo_znaci/Smile%20of%20a%20Child%20TV.png" group-title="*---------KIDS---------*",Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
 
