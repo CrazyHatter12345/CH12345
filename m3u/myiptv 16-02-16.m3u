@@ -3,26 +3,15 @@
 #EXTINF:0,[COLOR orange]*---------Crazy Hatter Playlist---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0,[COLOR red]*---------UPDATE 31.07.2016.---------*[/COLOR]
+#EXTINF:0,[COLOR red]*---------UPDATE 19.08.2016.---------*[/COLOR]
 #EXTM3U
 
 #EXTINF:0,[COLOR green]*---------SRBIJA---------*[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title="*---------SRBIJA---------*",RTS 1
-http://cp.dmbshare.net:8000/live/cotton/cotton/1815.ts
-
-#EXTINF:0 tvg-id="RTS 2" tvg-name="RTS_2" tvg-logo="http://www.thelogodb.com/images/media/logo/ysxqqy1470041552.png" group-title="*---------SRBIJA---------*",RTS 2
-http://cp.dmbshare.net:8000/live/cotton/cotton/1816.ts
 
 #EXTINF:0 tvg-id="RTS Sat" tvg-name="RTS_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title="*---------SRBIJA---------*",RTS Sat
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="Prva" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title="*---------SRBIJA---------*",Prva
-http://cp.dmbshare.net:8000/live/cotton/cotton/1817.ts
-
-#EXTINF:0 tvg-id="Studio B" tvg-name="Studio_B" tvg-logo="http://www.thelogodb.com/images/media/logo/uyqrxq1470007831.png" group-title="*---------SRBIJA---------*",Studio B
-mms://195.252.114.172/studiob
 
 #EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title="*---------SRBIJA---------*",DM Sat
 http://188.247.133.21:8888/ipvt_004
@@ -42,14 +31,8 @@ http://212.200.102.3:5000/rtp/239.0.0.2:5000
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
 
-#EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title="*---------SRBIJA---------*",Pink-
-http://cp.dmbshare.net:8000/live/cotton/cotton/1823.ts
-
 #EXTINF:0 tvg-id="Pink Film" tvg-name="Pink_Film" tvg-logo="http://www.thelogodb.com/images/media/logo/tvturv1470046389.png" group-title="*---------SRBIJA---------*",Pink Film-
 http://188.247.133.21:8888/ipvt_003
-
-#EXTINF:0 tvg-id="Pink Movies" tvg-name="Pink_Movies" tvg-logo="http://www.thelogodb.com/images/media/logo/ssvvwr1470047171.png" group-title="*---------SRBIJA---------*",Pink Movies-
-http://188.247.133.22:8888/ipvt_005
 
 #EXTINF:0 tvg-id="Pink World" tvg-name="Pink_World" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20World.png" group-title="*---------SRBIJA---------*",Pink World
 http://188.247.133.22:8888/ipvt_009
@@ -111,56 +94,6 @@ http://93.87.85.70/PLTV/88888888/224/3221225891/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226666/04.m3u8
 #EXTINF:0 tvg-id="Pink Western" tvg-name="Pink_Western" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Western.png" group-title="*---------SRBIJA---------*",Pink Western-
 http://93.87.85.70/PLTV/88888888/224/3221226580/04.m3u8
-#EXTINF:0 tvg-id="Pink 2" tvg-name="Pink_2" tvg-logo="http://www.thelogodb.com/images/media/logo/wsvurp1470042494.png" group-title="*---------SRBIJA---------*",Pink 2-
-http://centurionlukavac.com:80/live?channelId=6&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink 3 Info" tvg-name="Pink_3_Info" tvg-logo="http://www.thelogodb.com/images/media/logo/srsuwq1470042509.png" group-title="*---------SRBIJA---------*",Pink 3 Info-
-http://centurionlukavac.com:80/live?channelId=7&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title="*---------SRBIJA---------*",Pink-
-http://centurionlukavac.com:80/live?channelId=12&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Plus" tvg-name="Pink_Plus" tvg-logo="http://www.thelogodb.com/images/media/logo/ustuyq1470047579.png" group-title="*---------SRBIJA---------*",Pink Plus-
-http://centurionlukavac.com:80/live?channelId=13&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Extra" tvg-name="Pink_Extra" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwwpy1470046529.png" group-title="*---------SRBIJA---------*",Pink Extra-
-http://centurionlukavac.com:80/live?channelId=14&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink M" tvg-name="Pink_M" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title="*---------SRBIJA---------*",Pink M-
-http://centurionlukavac.com:80/live?channelId=15&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Reality" tvg-name="Pink_Reality" tvg-logo="http://www.thelogodb.com/images/media/logo/uyxrpr1470047876.png" group-title="*---------SRBIJA---------*",Pink Reality-
-http://centurionlukavac.com:80/live?channelId=40&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Folk 1" tvg-name="Pink_Folk_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Folk%201.png" group-title="*---------SRBIJA---------*",Pink Folk-
-http://centurionlukavac.com:80/live?channelId=41&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Zabava" tvg-name="Pink_Zabava" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Zabava.png" group-title="*---------SRBIJA---------*",Pink Zabava- 
-http://centurionlukavac.com:80/live?channelId=42&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Serije" tvg-name="Pink_Serije" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Serije.png" group-title="*---------SRBIJA---------*",Pink Serije- 
-http://centurionlukavac.com:80/live?channelId=49&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Film" tvg-name="Pink_Film" tvg-logo="http://www.thelogodb.com/images/media/logo/tvturv1470046389.png" group-title="*---------SRBIJA---------*",Pink Film-
-http://centurionlukavac.com:80/live?channelId=50&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Action" tvg-name="Pink_Action" tvg-logo="http://www.thelogodb.com/images/media/logo/utxtst1470042926.png" group-title="*---------SRBIJA---------*",Pink Action-
-http://centurionlukavac.com:80/live?channelId=51&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Thriller" tvg-name="Pink_Thriller" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Thriller.png" group-title="*---------SRBIJA---------*",Pink Triler-  
-http://centurionlukavac.com:80/live?channelId=52&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Crime & Mystery" tvg-name="Pink_Crime_Mystery" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Crime%20&%20Mystery.png" group-title="*---------SRBIJA---------*",Pink Crime-
-http://centurionlukavac.com:80/live?channelId=53&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Movies" tvg-name="Pink_Movies" tvg-logo="http://www.thelogodb.com/images/media/logo/ssvvwr1470047171.png" group-title="*---------SRBIJA---------*",Pink Movies- 
-http://centurionlukavac.com:80/live?channelId=54&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Romance" tvg-name="Pink_Romance" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Romance.png" group-title="*---------SRBIJA---------*",Pink Romance-
-http://centurionlukavac.com:80/live?channelId=55&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Sci Fi & Fantasy" tvg-name="Pink_Sci_Fi_&_Fantasy" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20SciFi%20&%20Fantasy.png" group-title="*---------SRBIJA---------*",Pink Sci Fi-
-http://centurionlukavac.com:80/live?channelId=56&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Premium" tvg-name="Pink_Premium" tvg-logo="http://www.thelogodb.com/images/media/logo/rttyyr1470047758.png" group-title="*---------SRBIJA---------*",Pink Premium-
-http://centurionlukavac.com:80/live?channelId=57&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Comedy" tvg-name="Pink_Comedy" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Comedy.png" group-title="*---------SRBIJA---------*",Pink Comedy-
-http://centurionlukavac.com:80/live?channelId=58&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Horror" tvg-name="Pink_Horror" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Horror.png" group-title="*---------SRBIJA---------*",Pink Horror-
-http://centurionlukavac.com:80/live?channelId=59&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Classic" tvg-name="Pink_Classic" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Classic.png" group-title="*---------SRBIJA---------*",Pink Classic-
-http://centurionlukavac.com:80/live?channelId=60&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Western" tvg-name="Pink_Western" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Western.png" group-title="*---------SRBIJA---------*",Pink Western-
-http://centurionlukavac.com:80/live?channelId=61&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Family" tvg-name="Pink_Family" tvg-logo="http://www.thelogodb.com/images/media/logo/wuvqux1470047009.png" group-title="*---------SRBIJA---------*",Pink Family-
-http://centurionlukavac.com:80/live?channelId=62&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Kuvar" tvg-name="Pink_Kuvar" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Kuvar.png" group-title="*---------SRBIJA---------*",Pink Kuvar-
-http://centurionlukavac.com:80/live?channelId=86&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Soap" tvg-name="Pink_Soap" tvg-logo="http://www.thelogodb.com/images/media/logo/tvqxst1470042265.png" group-title="*---------SRBIJA---------*",Pink Soap-
-http://centurionlukavac.com:80/live?channelId=92&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
 
 #EXTINF:0,[COLOR green]*---------HRVATSKA---------*[/COLOR]
@@ -203,17 +136,6 @@ http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 tvg-id="CMC" tvg-name="CMC" tvg-logo="http://www.thelogodb.com/images/media/logo/xvuqyw1470009568.png" group-title="*---------HRVATSKA---------*",CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="HRT 1" tvg-name="HRT_1" tvg-logo="http://www.thelogodb.com/images/media/logo/rvyysq1437948901.png" group-title="*---------HRVATSKA---------*",HRT 1-
-http://centurionlukavac.com:80/live?channelId=18&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://www.thelogodb.com/images/media/logo/stxstu1433453671.png" group-title="*---------HRVATSKA---------*",RTL-
-http://centurionlukavac.com:80/live?channelId=20&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="RTL 2" tvg-name="RTL_2" tvg-logo="http://www.thelogodb.com/images/media/logo/rtvqqx1433453722.png" group-title="*---------HRVATSKA---------*",RTL 2-
-http://centurionlukavac.com:80/live?channelId=21&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Nova TV" tvg-name="Nova_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqwvv1444741605.png" group-title="*---------HRVATSKA---------*",Nova TV-
-http://centurionlukavac.com:80/live?channelId=69&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Doma TV" tvg-name="Doma_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/rrqxvu1433453693.png" group-title="*---------HRVATSKA---------*",Doma TV-
-http://centurionlukavac.com:80/live?channelId=70&uid=8&deviceUser=hicham123&devicePass=1243hicham
-
 
 #EXTINF:0,[COLOR green]*---------BIH---------*[/COLOR]
 #EXTM3U
@@ -228,31 +150,6 @@ http://188.247.133.18:8888/ipvt_002
 http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 tvg-id="Hayat Music" tvg-name="Hayat_Music" tvg-logo="http://epg.serbianforum.org/logo_znaci/Hayat%20Music.png" group-title="*---------BIH---------*",Hayat Music
 http://84.22.46.188/play/a00y
-
-#EXTINF:0 tvg-id="Al Jazeera Balkans" tvg-name="Al_Jazeera_Balkans" tvg-logo="http://www.thelogodb.com/images/media/logo/yystpx1433945387.png" group-title="*---------BIH---------*",Al Jazeera Balkans
-http://centurionlukavac.com:80/live?channelId=17&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Federalna TV" tvg-name="Federalna_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/uyywqs1455736205.png" group-title="*---------BIH---------*",Federalna TV-
-http://centurionlukavac.com:80/live?channelId=1&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="BHT 1" tvg-name="BHT_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxwups1455735956.png" group-title="*---------BIH---------*",BHT-
-http://centurionlukavac.com:80/live?channelId=2&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://www.thelogodb.com/images/media/logo/srsutt1455736539.png" group-title="*---------BIH---------*",RTRS-
-http://centurionlukavac.com:80/live?channelId=3&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://www.thelogodb.com/images/media/logo/upvvux1455736348.png" group-title="*---------BIH---------*",OBN-
-http://centurionlukavac.com:80/live?channelId=4&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink BH" tvg-name="Pink_BH" tvg-logo="http://www.thelogodb.com/images/media/logo/wurpys1455736457.png" group-title="*---------BIH---------*",Pink BH-
-http://centurionlukavac.com:80/live?channelId=5&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Hayat TV" tvg-name="Hayat_TV" tvg-logo="http://epg.serbianforum.org/logo_znaci/Hayat%20TV.png" group-title="*---------BIH---------*",HAYAT-
-http://centurionlukavac.com:80/live?channelId=8&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Hayat Plus" tvg-name="Hayat_Plus" tvg-logo="http://epg.serbianforum.org/logo_znaci/Hayat%20Plus.png" group-title="*---------BIH---------*",HAYAT PLUS-
-http://centurionlukavac.com:80/live?channelId=82&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="BN" tvg-name="BN" tvg-logo="http://www.thelogodb.com/images/media/logo/wsuwuq1462894190.png" group-title="*---------BIH---------*",BN TV-
-http://centurionlukavac.com:80/live?channelId=9&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Face TV" tvg-name="Face TV" tvg-logo="http://epg.serbianforum.org/logo_znaci/Face%20TV.png" group-title="*---------BIH---------*",Face TV-
-http://centurionlukavac.com:80/live?channelId=10&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Hayat Music" tvg-name="Hayat_Music" tvg-logo="http://epg.serbianforum.org/logo_znaci/Hayat%20Music.png" group-title="*---------BIH---------*",HAYAT MUSIC-
-http://centurionlukavac.com:80/live?channelId=34&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="BN Music" tvg-name="BN_Music" tvg-logo="http://www.thelogodb.com/images/media/logo/wsuwuq1462894190.png" group-title="*---------BIH---------*",BN Music-
-http://centurionlukavac.com:80/live?channelId=35&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
 
 #EXTINF:0,[COLOR green]*---------CRNA GORA---------*[/COLOR]
@@ -324,9 +221,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0 tvg-id="ABC (US)" tvg-name="ABC_(US)" tvg-logo="http://www.thelogodb.com/images/media/logo/qwqrqx1450277553.png" group-title="*---------VESTI IZ SVETA---------*",ABC 7 Action News
 http://spswxyz-i.akamaihd.net/hls/live/203378/anvato/348k/prog.m3u8?anv=1428346792363&amp;X-Anvato-Adst-Auth=J7VEixU5Z5zgsiCOwKDDDhuAwX49h37NWMVCFr3hUCHNgTxYyuhgN6KQit0+5qqh
 
-#EXTINF:0 tvg-id="Al Jazeera Balkans" tvg-name="Al_Jazeera_Balkans" tvg-logo="http://www.thelogodb.com/images/media/logo/yystpx1433945387.png" group-title="*---------VESTI IZ SVETA---------*",Al Jazeera English
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-
 #EXTINF:0 tvg-id="Al Jazeera Balkans" tvg-name="Al_Jazeera_Balkans" tvg-logo="http://www.thelogodb.com/images/media/logo/yystpx1433945387.png" group-title="*---------VESTI IZ SVETA---------*",,Al Jazeera Balkans
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
 
@@ -367,14 +261,11 @@ http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5
 #EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal_Planet" tvg-logo="http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Animal Planet (Slo)
 http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="Arte IT" tvg-name="Arte_IT" tvg-logo="http://www.thelogodb.com/images/media/logo/uppvqv1433940793.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Arte
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+#EXTINF:0 tvg-id="CBS Reality UK" tvg-name="CBS_Reality_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group-title="*---------FILMOVI I SERIJE---------*",CBS Reality
+http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/rxwvtv1470044433.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Discovery Channel (Slo)
 http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery_Science" tvg-logo="http://www.thelogodb.com/images/media/logo/vxpuwr1433336218.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Discovery Science (Rus-Eng)
-http://37.8.155.149:4022/udp/224.3.24.34:1234
 
 #EXTINF:0 tvg-id="History Channel" tvg-name="History_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/wtrrpu1435675061.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",History Channel
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -418,9 +309,6 @@ http://93.87.85.70/PLTV/88888888/224/3221226592/04.m3u8
 #EXTINF:0 tvg-id="Russia Today Documentary" tvg-name="Russia_Today_Documentary" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Russia Today Documentary
 http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
 
-#EXTINF:0 tvg-id="Russia Today Documentary" tvg-name="Russia_Today_Documentary" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Russia Today Documentary HD
-http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
-
 #EXTINF:0 tvg-id="Planet Green" tvg-name="Planet_Green" tvg-logo="Planet Green" group-title="*---------DOKUMENTARNI PROGRAM---------*",Planet Green
 http://80.80.160.168/live/4/live.m3u8
 
@@ -458,8 +346,14 @@ http://cdn.iptv.amis.net/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://epg.serbianforum.org/logo_znaci/Minimax.png" group-title="*---------KIDS---------*",Minimax
 http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:0 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://epg.serbianforum.org/logo_znaci/Minimax.png" group-title="*---------KIDS---------*",Minimax (Cz-Eng)
+http://91.219.133.187:8080/udp/239.1.1.21:1234
+
 #EXTINF:0 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://epg.serbianforum.org/logo_znaci/Minimax.png" group-title="*---------KIDS---------*",Minimax-
 http://93.87.85.70/PLTV/88888888/224/3221226586/04.m3u8
+
+#EXTINF:0 tvg-id="Nickelodeon_UK" tvg-name="Nickelodeon_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title="*---------KIDS---------*",Nickelodeon (Cz-Eng)
+http://91.219.133.187:8080/udp/239.1.1.23:1234
 
 #EXTINF:0 tvg-id="Nickelodeon_UK" tvg-name="Nickelodeon_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title="*---------KIDS---------*",Nickelodeon (Rus-Eng)
 http://82.200.127.58:8080/udp/233.12.144.12:5050
@@ -473,14 +367,9 @@ http://93.87.85.70/PLTV/88888888/224/3221226587/04.m3u8
 #EXTINF:0 tvg-id="Nicke Jr. UK" tvg-name="Nick_Jr._UK" tvg-logo="http://www.thelogodb.com/images/media/logo/usvqpr1433780215.png" group-title="*---------KIDS---------*",Nick Jr. (srb)-
 http://93.87.85.70/PLTV/88888888/224/3221226596/04.m3u8
 
-#EXTINF:0 tvg-id="Cinemania" tvg-name="Cinemania" tvg-logo="http://epg.serbianforum.org/logo_znaci/Cinemania.png" group-title="*---------KIDS---------*",CINEMANIA PLUS-
-http://93.87.85.70/PLTV/88888888/224/3221226586/04.m3u8
-
-#EXTINF:0 tvg-id="Ta Te Ti" tvg-name="Ta Te Ti" tvg-logo="Ta Te Ti" group-title="*---------KIDS---------*",Ta Te Ti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:0 tvg-id="Smile of a Child" tvg-name="Smile of a Child" tvg-logo="http://epg.serbianforum.org/logo_znaci/Smile%20of%20a%20Child%20TV.png" group-title="*---------KIDS---------*",Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+
 
 
 #EXTINF:0,[COLOR green]*---------FILMOVI I SERIJE---------*[/COLOR]
@@ -488,9 +377,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
 #EXTINF:0 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.thelogodb.com/images/media/logo/qrxsqw1438433255.png" group-title="*---------FILMOVI I SERIJE---------*",AXN-
 http://93.87.85.70/PLTV/88888888/224/3221226588/04.m3u8
-
-#EXTINF:0 tvg-id="CBS Reality UK" tvg-name="CBS_Reality_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group-title="*---------FILMOVI I SERIJE---------*",CBS Reality
-http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Comedy Central UK" tvg-name="Comedy_Central_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/yyrvsy1433777362.png" group-title="*---------FILMOVI I SERIJE---------*",Comedy Central (En)
 http://78.56.221.9:7059/comedy
@@ -587,23 +473,9 @@ http://203.162.121.230:1935/live/model_channel/index.m3u8?securetoken=#ed%h0#w@1
 #EXTINF:0 tvg-id="Model Chanel" tvg-name="Model_Chanel" tvg-logo="" group-title="*---------MODA---------*",Model Chanel
 rtmp://203.162.121.230:1935/live//model_channel
 
-#EXTINF:0 tvg-id="World Fashion Europe HD" tvg-name="World Fashion Europe HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ustvwt1441893940.png" group-title="*---------MODA---------*",World Fashion Europe HD
-http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
-
 
 #EXTINF:0,[COLOR green]*---------SPORT---------*[/COLOR]
 #EXTM3U
-
-#EXTINF:0 tvg-id="Arena Sport 1" tvg-name="Arena_Sport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title="*---------SPORT---------*",Arena Sport 1
-http://cp.dmbshare.net:8000/live/cotton/cotton/1802.ts
-#EXTINF:0 tvg-id="Arena Sport 2" tvg-name="Arena_Sport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png" group-title="*---------SPORT---------*",Arena Sport 2
-http://cp.dmbshare.net:8000/live/cotton/cotton/1803.ts
-#EXTINF:0 tvg-id="Arena Sport 3" tvg-name="Arena_Sport_3" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png" group-title="*---------SPORT---------*",Arena Sport 3
-http://cp.dmbshare.net:8000/live/cotton/cotton/1804.ts
-#EXTINF:0 tvg-id="Arena Sport 4" tvg-name="Arena_Sport_4" tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title="*---------SPORT---------*",Arena Sport 4
-http://cp.dmbshare.net:8000/live/cotton/cotton/1805.ts
-#EXTINF:0 tvg-id="Arena Sport 5" tvg-name="Arena_Sport_5" tvg-logo="http://www.thelogodb.com/images/media/logo/upxppt1433783076.png" group-title="*---------SPORT---------*",Arena Sport 5
-http://cp.dmbshare.net:8000/live/cotton/cotton/1806.ts
 
 #EXTINF:0 tvg-id="Arena Sport 1" tvg-name="Arena_Sport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title="*---------SPORT---------*",Arena Sport 1-
 http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
@@ -625,13 +497,6 @@ http://centurionlukavac.com:80/live?channelId=67&uid=8&deviceUser=hicham123&devi
 #EXTINF:0 tvg-id="Arena Sport 4" tvg-name="Arena_Sport_4" tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title="*---------SPORT---------*",Arena Sport 4-
 http://centurionlukavac.com:80/live?channelId=68&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
-#EXTINF:0 tvg-id="Sport Klub 1" tvg-name="Sport_Klub_1" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvuw1433811692.png" group-title="*---------SPORT---------*",Sport Klub 1
-http://cp.dmbshare.net:8000/live/cotton/cotton/1799.ts
-#EXTINF:0 tvg-id="Sport Klub 2" tvg-name="Sport_Klub_2" tvg-logo="http://www.thelogodb.com/images/media/logo/rqtpvu1433384108.png" group-title="*---------SPORT---------*",Sport Klub 2
-http://cp.dmbshare.net:8000/live/cotton/cotton/1800.ts
-#EXTINF:0 tvg-id="Sport Klub 3" tvg-name="Sport_Klub_3" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtsrt1433384131.png" group-title="*---------SPORT---------*",Sport Klub 3
-http://cp.dmbshare.net:8000/live/cotton/cotton/1801.ts
-
 #EXTINF:0 tvg-id="Sport Klub 1" tvg-name="Sport_Klub_1" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvuw1433811692.png" group-title="*---------SPORT---------*",Sport Klub 1-
 http://centurionlukavac.com:80/live?channelId=71&uid=8&deviceUser=hicham123&devicePass=1243hicham
 #EXTINF:0 tvg-id="Sport Klub 2" tvg-name="Sport_Klub_2" tvg-logo="http://www.thelogodb.com/images/media/logo/rqtpvu1433384108.png" group-title="*---------SPORT---------*",Sport Klub 2-
@@ -646,8 +511,6 @@ http://centurionlukavac.com:80/live?channelId=75&uid=8&deviceUser=hicham123&devi
 #EXTINF:0 tvg-id="Sport Klub 3" tvg-name="Sport_Klub_3" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtsrt1433384131.png" group-title="*---------SPORT---------*",Sport Klub 3 HD-
 http://centurionlukavac.com:80/live?channelId=76&uid=8&deviceUser=hicham123&devicePass=1243hicham
 
-#EXTINF:0 tvg-id="Eurosport 1 UK" tvg-name="Eurosport_1_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title="*---------SPORT---------*",Eurosport 1 (En)
-http://IPTV-VOLKAN.NET:8000/live/phill/phill/410.m3u8
 #EXTINF:0 tvg-id="Eurosport 1 UK" tvg-name="Eurosport_1_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title="*---------SPORT---------*",Eurosport 1 HD (En)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:0 tvg-id="Eurosport 1 (Fr)" tvg-name="Eurosport 1 (Fr)" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title="*---------SPORT---------*",Eurosport 1 (Fr)
@@ -657,13 +520,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
 #EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/qvqwwp1434048548.png" group-title="*---------SPORT---------*",Eurosport 2 (Srb)-
 http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
-
-#EXTINF:0 tvg-id="Digi Sport 1 (Ro)" tvg-name="Digi_Sport_1_(Ro)" tvg-logo="http://www.thelogodb.com/images/media/logo/svrprs1436105433.png" group-title="*---------SPORT---------*",Digi Sport 1
-http://85.25.43.23:8080/hls/volex_02.m3u8
-#EXTINF:0 tvg-id="Digi Sport 2 (Ro)" tvg-name="Digi_Sport_2_(Ro)" tvg-logo="http://www.thelogodb.com/images/media/logo/vqqrrq1436105445.png" group-title="*---------SPORT---------*",Digi Sport 2
-http://85.25.43.23:8080/hls/volex_03.m3u8
-#EXTINF:0 tvg-id="Digi Sport 3 (Ro)" tvg-name="Digi_Sport_3_(Ro)" tvg-logo="http://www.thelogodb.com/images/media/logo/utuqys1454953276.png" group-title="*---------SPORT---------*",Digi Sport 3
-http://85.25.43.23:8080/hls/volex_04.m3u8
 
 #EXTINF:0 tvg-id="Sport 1" tvg-name="Sport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="*---------SPORT---------*",Sport TV 1 (Slo)
 http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -684,9 +540,6 @@ http://118.97.183.222:1935/discover/fight/playlist.m3u8
 
 #EXTINF:0 tvg-id="Auto Sport" tvg-name="Auto_Sport_TV" tvg-logo="" group-title="*---------SPORT---------*",Auto Sport TV
 mms://100automoto.tv/100livesport
-
-#EXTINF:0 tvg-id="Fox Sports 1 (US)" tvg-name="Fox_Sports_1_(US)" tvg-logo="http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png" group-title="*---------SPORT---------*",Fox Sports 1
-http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 
 #EXTINF:0 tvg-id="Motorsport 7 Channel Australia" tvg-name="Motorsport_7_Channel_Australia" tvg-logo="http://www.thelogodb.com/images/media/logo/wpxywr1470610449.png" group-title="*---------SPORT---------*",Motorsport 7 Channel Australia
 http://motorsport.hopto.org:8080/
@@ -726,14 +579,8 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 #EXTINF:0 tvg-id="Just SEX" tvg-name="Just_SEX" tvg-logo="Just SEX" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Just SEX
 http://46.182.25.34:1935/tv/1420/playlist.m3u8
 
-#EXTINF:0 tvg-id="MIAMI TV ESP (18+)" tvg-name="MIAMI_TV_ESP (18+)" tvg-logo="MIAMI TV ESP (18+)" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",MIAMI TV ESP (18+)
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u
-
 #EXTINF:0 tvg-id="Sexto Senso" tvg-name="Sexto_Senso" tvg-logo="Sexto Senso" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Sexto Senso
 http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="Babestation  EXtra" tvg-name="Babestation_EXtra" tvg-logo="http://epg.serbianforum.org/logo_znaci/Babestation.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",Babestation  EXtra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 
 #EXTINF:0 tvg-id="BABE XXX" tvg-name="BABE_XXX" tvg-logo="BABE XXX" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",BABE XXX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
@@ -752,7 +599,3 @@ http://93.87.85.70/PLTV/88888888/224/3221226597/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226598/04.m3u8
 #EXTINF:0 tvg-id="X1" tvg-name="X_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/X1.png" group-title="*---------XXX ADULT LIVE TV STREAM XXX---------*",X-
 http://93.87.85.70/PLTV/88888888/224/3221225908/04.m3u8
-
-
-#EXTINF:0,[COLOR red]*---------XXX ADULT MOVIES ON DEMAND XXX---------*[/COLOR]
-#EXTM3U
