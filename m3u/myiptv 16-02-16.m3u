@@ -261,7 +261,7 @@ http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5
 #EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal_Planet" tvg-logo="http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Animal Planet (Slo)
 http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="CBS Reality UK" tvg-name="CBS_Reality_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group-title="*---------FILMOVI I SERIJE---------*",CBS Reality
+#EXTINF:0 tvg-id="CBS Reality UK" tvg-name="CBS_Reality_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",CBS Reality
 http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/rxwvtv1470044433.png" group-title="*---------DOKUMENTARNI PROGRAM---------*",Discovery Channel (Slo)
@@ -328,8 +328,11 @@ http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5
 #EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.thelogodb.com/images/media/logo/rprpvr1434469005.png" group-title="*---------KIDS---------*",Boomerang
 http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png" group-title="*---------KIDS---------*",Cartoon Network
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png" group-title="*---------KIDS---------*",Cartoon Network (Tur)
 http://149.255.152.110/cartoon/index.m3u8
+
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png" group-title="*---------KIDS---------*",Cartoon Network (Bug)
+http://84.43.207.130/cartoonnetwork/cartoonnetwork.m3u8
 
 #EXTINF:0 tvg-id="Da Vinci Learning" tvg-name="Da_Vinci_Learning" tvg-logo="http://www.thelogodb.com/images/media/logo/spwtrq1445007395.png" group-title="*---------KIDS---------*",Da Vinci Learning
 http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -422,6 +425,10 @@ http://82.200.127.58:8080/udp/233.12.144.16:5050
 #EXTINF:0 tvg-id="Universal Channel UK" tvg-name="Universal_Channel_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png" group-title="*---------FILMOVI I SERIJE---------*",Universal Channel
 http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:0 tvg-id="HBO Adria" tvg-name="HBO_Adria" tvg-logo="http://www.thelogodb.com/images/media/logo/ytuswp1459111359.png" group-title="*---------FILMOVI I SERIJE---------*",HBO HD
+http://84.43.207.130/hbohd/hbohd.m3u8
+#EXTINF:0 tvg-id="HBO Comedy" tvg-name="HBO_Comedy" tvg-logo="http://www.thelogodb.com/images/media/logo/qwppsw1434502702.png" group-title="*---------FILMOVI I SERIJE---------*",HBO Comedy HD
+http://84.43.207.130/hbocomedyhd/hbocomedyhd.m3u8
 
 #EXTINF:0,[COLOR green]*---------MUZIKA---------*[/COLOR]
 #EXTM3U
