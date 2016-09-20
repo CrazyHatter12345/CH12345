@@ -136,10 +136,54 @@ mms://beotelmedia.beotel.net/tvcg
 
 
 #EXTINF:0,[COLOR green]>>> MAKEDONIJA <<<[/COLOR]
-#EXTM3U
+
+#EXTINF:0 tvg-id="MRT 1" tvg-name="MRT_1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/MRT_1_new_logo.png/revision/latest?cb=20121228134837" group-title=">>> MAKEDONIJA <<<",MRT 1
+http://95.86.27.228/mrt1/mrt1_500/index.m3u8
+
+#EXTINF:0 tvg-id="MRT 1" tvg-name="MRT_1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0d/MRT_sat_Logo.jpg/revision/latest?cb=20130108135124" group-title=">>> MAKEDONIJA <<<",MRT 1 Sat
+http://streamer54.interspace.mk:8081/mrt/mrt1-sat/chunks.m3u8?nimblesessionid=1792740
+
+#EXTINF:0 tvg-id="MRT 2" tvg-name="MRT_2" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0d/MRT_sat_Logo.jpg/revision/latest?cb=20130108135124" group-title=">>> MAKEDONIJA <<<",MRT 2 Sat
+http://streamer54.interspace.mk:8081/mrt/mrt2-sat/chunks.m3u8?nimblesessionid=1792776
+
+#EXTINF:0 tvg-id="TV Alfa" tvg-name="TV_Alfa" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c0/Images-1461343961.png/revision/latest?cb=20160422165241" group-title=">>> MAKEDONIJA <<<", TV Alfa
+http://95.86.27.228/alfa/alfa_500/index.m3u8
+
+#EXTINF:0 tvg-id="Sitel" tvg-name="Sitel" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/64/Download_%289%29-0.jpg/revision/latest?cb=20160418041333" group-title=">>> MAKEDONIJA <<<",Sitel
+http://95.86.27.228/sitel/sitel_500/index.m3u8
+
+#EXTINF:0 tvg-id="Sitel 3" tvg-name="Sitel_3" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/73/Sitel_3.png/revision/latest?cb=20151210190017" group-title=">>> MAKEDONIJA <<<",Sitel 3
+http://95.86.27.228/sitel3/sitel3_500/index.m3u8
+
+#EXTINF:0 tvg-id="A1" tvg-name="A_1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/Velija.jpg/revision/latest?cb=20110906200153" group-title=">>> MAKEDONIJA <<<",A1
+http://95.86.27.228/tikveshija/tikveshija_500/index.m3u8
+
+#EXTINF:0 tvg-id="Kanal 5" tvg-name="Kanal_5" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/2000px-Logo_of_Kanal_5.svg.png/revision/latest?cb=20151210132703" group-title=">>> MAKEDONIJA <<<",Kanal 5
+http://95.86.27.228/kanal5/kanal5_500/index.m3u8
 
 #EXTINF:0 tvg-id="Kanal 5+" tvg-name="Kanal_5+" tvg-logo="http://www.thelogodb.com/images/media/logo/ryswyx1437949679.png" group-title=">>> MAKEDONIJA <<<",KANAL 5 plus 
-http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8|User-Agent=Mozilla/5.0
+http://95.86.27.228/kanal5plus/kanal5plus_500/index.m3u8
+
+#EXTINF:0 tvg-id="KTV" tvg-name="KTV" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/eb/Makedonia_TV_logo.svg.png/revision/latest?cb=20151129144430" group-title=">>> MAKEDONIJA <<<",KTV
+http://95.86.27.228/ktv/ktv_500/index.m3u8
+
+#EXTINF:0 tvg-id="NOVA TV MK" tvg-name="NOVA_TV_MK" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1e/Nova_logo_2011.png/revision/latest?cb=20160102004049" group-title=">>> MAKEDONIJA <<<",NOVA TV MK
+http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/chunklist.m3u8
+
+#EXTINF:0 tvg-id="TV+ Kumanovo" tvg-name="TV+_Kumanovo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/03/Tv%2B.jpg/revision/latest?cb=20160211132406" group-title=">>> MAKEDONIJA <<<",TV+ Kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+
+#EXTINF:0 tvg-id="Kanal 21" tvg-name="Kanal_21" tvg-logo="" group-title=">>> MAKEDONIJA <<<",Kanal 21
+http://62.162.58.55:80/TVkanal21
+
+#EXTINF:0 tvg-id="TV Sonce" tvg-name="TV_Sonce" tvg-logo="" group-title=">>> MAKEDONIJA <<<",TV Sonce
+http://92.53.27.201:10000/
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="24_Vesti" group-title=">>> MAKEDONIJA <<<",24 Vesti
+http://62.162.58.55:80/24vesti
+
+#EXTINF:0 tvg-id="Nasha TV" tvg-name="Nasha_TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/11/%D0%9D%D0%B0%D1%88%D0%B0_%D0%A2%D0%92.jpg/revision/latest?cb=20110906203036" group-title=">>> MAKEDONIJA <<<",Nasha TV
+http://95.86.27.228/nasa/nasa_500/index.m3u8
 
 
 #EXTINF:0,[COLOR green]>>> SLOVENIA <<<[/COLOR]
@@ -538,7 +582,6 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:0 tvg-id="Hustler" tvg-name="Hustler" tvg-logo="http://www.thelogodb.com/images/media/logo/wsusvv1444920690.png" group-title=">>> XXX +18 XXX <<<",Hustler TV
 http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
 
 #EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title=">>> XXX +18 XXX <<<",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
