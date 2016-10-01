@@ -3,15 +3,32 @@
 #EXTINF:0,[COLOR orange]>>> Crazy Hatter Playlist <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0,[COLOR red]>>> UPDATE 19.09.2016. <<<[/COLOR]
+#EXTINF:0,[COLOR red]>>> UPDATE 01.10.2016. <<<[/COLOR]
 #EXTM3U
 
 #EXTINF:0,[COLOR green]>>> SRBIJA <<<[/COLOR]
 #EXTM3U
 
+#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1-
+http://fra1.ddns.net:97/live/test/test/20.m3u8
 
 #EXTINF:0 tvg-id="RTS Sat" tvg-name="RTS_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title=">>> SRBIJA <<<",RTS Sat
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Prva" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title=">>> SRBIJA <<<",Prva-
+http://fra1.ddns.net:97/live/test/test/97.m3u8
+
+#EXTINF:0 tvg-id="Happy TV" tvg-name="Happy_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1470045487.png" group-title=">>> SRBIJA <<<",Happy TV-
+http://fra1.ddns.net:97/live/test/test/217.m3u8
+
+#EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title=">>> SRBIJA <<<",Pink-
+http://opasnivirus.dynns.com:8000/live/stefan/stefan123/99.ts
+
+#EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title=">>> SRBIJA <<<",DM Sat-
+http://fra1.ddns.net:97/live/test/test/225.m3u8
+
+#EXTINF:0 tvg-id="Grand Narodna TV" tvg-name="Grand Narodna TV" tvg-logo="http://epg.serbianforum.org/logo_znaci/Grand%20Narodna%20TV.png" group-title=">>> SRBIJA <<<",Grand TV
+http://fra1.ddns.net:97/live/test/test/325.m3u8
 
 #EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
@@ -44,6 +61,7 @@ http://93.87.85.70/PLTV/88888888/224/3221226395/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226576/04.m3u8
 #EXTINF:0 tvg-id="Happy TV" tvg-name="Happy_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1470045487.png" group-title=">>> SRBIJA <<<",Happy TV-
 http://93.87.85.70/PLTV/88888888/224/3221226574/04.m3u8
+
 #EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title=">>> SRBIJA <<<",Pink-
 http://93.87.85.70/PLTV/88888888/224/3221225872/04.m3u8
 #EXTINF:0 tvg-id="Pink 2" tvg-name="Pink_2" tvg-logo="http://www.thelogodb.com/images/media/logo/wsvurp1470042494.png" group-title=">>> SRBIJA <<<",Pink2-
@@ -126,6 +144,12 @@ http://188.247.133.18:8888/ipvt_002
 
 #EXTINF:0 tvg-id="Hayat Plus" tvg-name="Hayat_Plus" tvg-logo="http://epg.serbianforum.org/logo_znaci/Hayat%20Plus.png" group-title=">>> BIH <<<",Hayat Plus
 http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://www.thelogodb.com/images/media/logo/upvvux1455736348.png" group-title=">>> BIH <<<*",OBN
+http://fra1.ddns.net:97/live/test/test/46.m3u8
+
+#EXTINF:0 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://www.thelogodb.com/images/media/logo/srsutt1455736539.png" group-title=">>> BIH <<<",RTRS-
+http://fra1.ddns.net:97/live/test/test/2.m3u8
 
 
 #EXTINF:0,[COLOR green]>>> CRNA GORA <<<[/COLOR]
@@ -296,6 +320,9 @@ http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/
 #EXTINF:0 tvg-id="History Channel" tvg-name="History_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/wtrrpu1435675061.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",History Channel
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
+#EXTINF:0 tvg-id="H2" tvg-name="H2" tvg-logo="https://www.thelogodb.com/images/media/logo/yupvts1433779656.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",H2
+http://93.87.85.70/PLTV/88888888/224/3221226671/04.m3u8|User-Agent=Mozilla/5.0
+
 #EXTINF:0 tvg-id="Hunting and Fishing" tvg-name="Hunting_and_Fishing" tvg-logo="http://www.thelogodb.com/images/media/logo/tyyuqw1470091927.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Hunting and Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 
@@ -353,6 +380,9 @@ http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5
 
 #EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.thelogodb.com/images/media/logo/rprpvr1434469005.png" group-title=">>> DEÈIJI PROGRAM <<<",Boomerang
 http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png" group-title=">>> DEÈIJI PROGRAM <<<",Cartoon Network
+http://cdn.iptv.amis.net/LIVE/Cartoon/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Da Vinci Learning" tvg-name="Da_Vinci_Learning" tvg-logo="http://www.thelogodb.com/images/media/logo/spwtrq1445007395.png" group-title=">>> DEÈIJI PROGRAM <<<",Da Vinci Learning
 http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -464,8 +494,6 @@ http://193.23.58.156:4025/udp/234.1.20.37:1234
 http://193.23.58.156:4025/udp/234.1.20.36:1234
 #EXTINF:0 tvg-id="MTV Rocks" tvg-name="MTV_Rocks" tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title=">>> MUZIKA <<<",MTV Rocks
 http://193.23.58.156:4025/udp/234.1.20.38:1234
-#EXTINF:0 tvg-id="MTV Ru" tvg-name="MTV_Ru" tvg-logo="http://www.thelogodb.com/images/media/logo/svywyv1462896132.png" group-title=">>> MUZIKA <<<",MTV RU
-http://msk3.peers.tv/streaming/mtv_russia/16/tvrecw/playlist.m3u8
 
 #EXTINF:0 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title=">>> MUZIKA <<<",VH1
 http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -475,27 +503,6 @@ http://93.87.85.70/PLTV/88888888/224/3221226595/04.m3u8
 
 #EXTINF:0 tvg-id="VH1 Classic" tvg-name="VH1_Classic" tvg-logo="http://www.thelogodb.com/images/media/logo/xrwsty1464441168.png" group-title=">>> MUZIKA <<<",VH1 Classic
 http://193.23.58.156:4025/udp/234.1.20.35:1234
-
-#EXTINF:0 tvg-id="Vevo 1 HD" tvg-name="Vevo_1 HD" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title=">>> MUZIKA <<<",Vevo 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
- 
-#EXTINF:0 tvg-id="Vevo 2 HD" tvg-name="Vevo_2 HD" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title=">>> MUZIKA <<<",Vevo 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
- 
-#EXTINF:0 tvg-id="Vevo 3 HD" tvg-name="Vevo_3 HD" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title=">>> MUZIKA <<<",Vevo 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-#EXTINF:0 tvg-id="Vevo EU" tvg-name="Vevo_EU" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title=">>> MUZIKA <<<",Vevo EU
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
-
-#EXTINF:0 tvg-id="Vevo Flow" tvg-name="Vevo_Flow" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title=">>> MUZIKA <<<",Vevo Flow
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
-#EXTINF:0 tvg-id="Vevo Hits" tvg-name="Vevo_Hits" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png" group-title=">>> MUZIKA <<<",Vevo Hits
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-
-#EXTINF:0 tvg-id="Vevo Nashville" tvg-name="Vevo_Nashville" tvg-logo="http://www.dafont.com/forum/attach/orig/2/3/238145.png " group-title=">>> MUZIKA <<<",Vevo Nashville
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:0 tvg-id="Virgin TV" tvg-name="Virgin_TV" tvg-logo="" group-title=">>> MUZIKA <<<",Virgin TV
 rtmp://fms.105.net:1935/live/virgin2
@@ -509,12 +516,6 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:0 tvg-id="Fitnes 360" tvg-name="Fitnes_360" tvg-logo="http://www.thelogodb.com/images/media/logo/wwuwtq1470178390.png" group-title=">>> MODA <<<",Fitnes 360
 rtmp://203.162.121.230:1935/live//fitness_360
-
-#EXTINF:0 tvg-id="Model Chanel" tvg-name="Model_Chanel" tvg-logo="" group-title=">>> MODA <<<",Model Chanel
-http://203.162.121.230:1935/live/model_channel/index.m3u8?securetoken=#ed%h0#w@1
-
-#EXTINF:0 tvg-id="Model Chanel" tvg-name="Model_Chanel" tvg-logo="" group-title=">>> MODA <<<",Model Chanel
-rtmp://203.162.121.230:1935/live//model_channel
 
 
 #EXTINF:0,[COLOR green]>>> SPORT <<<[/COLOR]
@@ -582,6 +583,7 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:0 tvg-id="Hustler" tvg-name="Hustler" tvg-logo="http://www.thelogodb.com/images/media/logo/wsusvv1444920690.png" group-title=">>> XXX +18 XXX <<<",Hustler TV
 http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
 
 #EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title=">>> XXX +18 XXX <<<",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
