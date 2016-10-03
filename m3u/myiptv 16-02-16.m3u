@@ -9,22 +9,22 @@
 #EXTINF:0,[COLOR green]>>> SRBIJA <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1-
+#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1
 http://fra1.ddns.net:97/live/test/test/20.m3u8
 
 #EXTINF:0 tvg-id="RTS Sat" tvg-name="RTS_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title=">>> SRBIJA <<<",RTS Sat
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="Prva" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title=">>> SRBIJA <<<",Prva-
+#EXTINF:0 tvg-id="Prva" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title=">>> SRBIJA <<<",Prva
 http://fra1.ddns.net:97/live/test/test/97.m3u8
 
-#EXTINF:0 tvg-id="Happy TV" tvg-name="Happy_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1470045487.png" group-title=">>> SRBIJA <<<",Happy TV-
+#EXTINF:0 tvg-id="Happy TV" tvg-name="Happy_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1470045487.png" group-title=">>> SRBIJA <<<",Happy TV
 http://fra1.ddns.net:97/live/test/test/217.m3u8
 
-#EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title=">>> SRBIJA <<<",Pink-
+#EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title=">>> SRBIJA <<<",Pink
 http://opasnivirus.dynns.com:8000/live/stefan/stefan123/99.ts
 
-#EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title=">>> SRBIJA <<<",DM Sat-
+#EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title=">>> SRBIJA <<<",DM Sat
 http://fra1.ddns.net:97/live/test/test/225.m3u8
 
 #EXTINF:0 tvg-id="Grand Narodna TV" tvg-name="Grand Narodna TV" tvg-logo="http://epg.serbianforum.org/logo_znaci/Grand%20Narodna%20TV.png" group-title=">>> SRBIJA <<<",Grand TV
@@ -51,16 +51,24 @@ http://93.87.85.70/PLTV/88888888/224/3221225914/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226357/04.m3u8
 #EXTINF:0 tvg-id="RTS 3" tvg-name="RTS_3" tvg-logo="http://www.thelogodb.com/images/media/logo/tqrvqu1470497691.png" group-title=">>> SRBIJA <<<",RTS 3-
 http://93.87.85.70/PLTV/88888888/224/3221226575/04.m3u8
-#EXTINF:0 tvg-id="Studio B" tvg-name="Studio_B" tvg-logo="http://www.thelogodb.com/images/media/logo/uyqrxq1470007831.png" group-title=">>> SRBIJA <<<",Studio B-
-http://93.87.85.70/PLTV/88888888/224/3221226582/04.m3u8
-#EXTINF:0 tvg-id="SOS" tvg-name="SOS" tvg-logo="http://www.thelogodb.com/images/media/logo/wvyuxy1470007599.png" group-title=">>> SRBIJA <<<",SOS-
-http://93.87.85.70/PLTV/88888888/224/3221226667/04.m3u8
+
 #EXTINF:0 tvg-id="B92" tvg-name="B92" tvg-logo="http://www.thelogodb.com/images/media/logo/uvuwvu1470043957.png" group-title=">>> SRBIJA <<<",B92-
 http://93.87.85.70/PLTV/88888888/224/3221226395/04.m3u8
+
 #EXTINF:0 tvg-id="B92 Info" tvg-name="B92_Info" tvg-logo="http://www.thelogodb.com/images/media/logo/urqyuw1470044179.png" group-title=">>> SRBIJA <<<",B92 Info-
 http://93.87.85.70/PLTV/88888888/224/3221226576/04.m3u8
+
 #EXTINF:0 tvg-id="Happy TV" tvg-name="Happy_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1470045487.png" group-title=">>> SRBIJA <<<",Happy TV-
 http://93.87.85.70/PLTV/88888888/224/3221226574/04.m3u8
+
+#EXTINF:0 tvg-id="Studio B" tvg-name="Studio_B" tvg-logo="http://www.thelogodb.com/images/media/logo/uyqrxq1470007831.png" group-title=">>> SRBIJA <<<",Studio B-
+http://93.87.85.70/PLTV/88888888/224/3221226582/04.m3u8
+
+#EXTINF:0 tvg-id="SOS" tvg-name="SOS" tvg-logo="http://www.thelogodb.com/images/media/logo/wvyuxy1470007599.png" group-title=">>> SRBIJA <<<",SOS-
+http://93.87.85.70/PLTV/88888888/224/3221226667/04.m3u8
+
+#EXTINF:0,Kanal 9
+http://xtvk9nsx.api.channel.livestream.com/3.0/playlist.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title=">>> SRBIJA <<<",Pink-
 http://93.87.85.70/PLTV/88888888/224/3221225872/04.m3u8
@@ -136,11 +144,14 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:0,[COLOR green]>>> BIH <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="Balkanika" tvg-name="Balkanika" tvg-logo="http://www.thelogodb.com/images/media/logo/rpuxru1461680591.png" group-title=">>> BIH <<<",TV Balkanika
+#EXTINF:0 tvg-id="Balkan TV" tvg-name="Balkan_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/rpuxru1461680591.png" group-title=">>> BIH <<<",Balkan TV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
 #EXTINF:0 tvg-id="BN Music" tvg-name="BN_Music" tvg-logo="http://www.thelogodb.com/images/media/logo/wsuwuq1462894190.png" group-title=">>> BIH <<<",BN Music
 http://188.247.133.18:8888/ipvt_002
+
+#EXTINF:0 tvg-id="BN" tvg-name="BN" tvg-logo="http://www.thelogodb.com/images/media/logo/wsuwuq1462894190.png" group-title=">>> BIH <<<",BN
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1129781672.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Hayat Plus" tvg-name="Hayat_Plus" tvg-logo="http://epg.serbianforum.org/logo_znaci/Hayat%20Plus.png" group-title=">>> BIH <<<",Hayat Plus
 http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -148,39 +159,40 @@ http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://www.thelogodb.com/images/media/logo/upvvux1455736348.png" group-title=">>> BIH <<<*",OBN
 http://fra1.ddns.net:97/live/test/test/46.m3u8
 
-#EXTINF:0 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://www.thelogodb.com/images/media/logo/srsutt1455736539.png" group-title=">>> BIH <<<",RTRS-
+#EXTINF:0 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://www.thelogodb.com/images/media/logo/srsutt1455736539.png" group-title=">>> BIH <<<",RTRS
 http://fra1.ddns.net:97/live/test/test/2.m3u8
 
 
 #EXTINF:0,[COLOR green]>>> CRNA GORA <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="RTCG1" tvg-name="RTCG_1" tvg-logo="http://www.thelogodb.com/images/media/logo/xyrpsq1470051810.png" group-title=">>> CRNA GORA <<<",RTCG1
-mms://beotelmedia.beotel.net/tvcg
+#EXTINF:0 tvg-id="777" tvg-name="777" tvg-logo="http://epg.serbianforum.org/logo_znaci/777.png" group-title=">>> CRNA GORA <<<",777 Podgorica
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8|User-Agent=Mozilla/5.0
 
 
 #EXTINF:0,[COLOR green]>>> MAKEDONIJA <<<[/COLOR]
+#EXTM3U
 
 #EXTINF:0 tvg-id="MRT 1" tvg-name="MRT_1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/MRT_1_new_logo.png/revision/latest?cb=20121228134837" group-title=">>> MAKEDONIJA <<<",MRT 1
 http://95.86.27.228/mrt1/mrt1_500/index.m3u8
 
 #EXTINF:0 tvg-id="MRT 1" tvg-name="MRT_1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0d/MRT_sat_Logo.jpg/revision/latest?cb=20130108135124" group-title=">>> MAKEDONIJA <<<",MRT 1 Sat
-http://streamer54.interspace.mk:8081/mrt/mrt1-sat/chunks.m3u8?nimblesessionid=1792740
+http://streamer54.interspace.mk:8081/mrt/mrt1-sat/playlist.m3u8
 
 #EXTINF:0 tvg-id="MRT 2" tvg-name="MRT_2" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0d/MRT_sat_Logo.jpg/revision/latest?cb=20130108135124" group-title=">>> MAKEDONIJA <<<",MRT 2 Sat
-http://streamer54.interspace.mk:8081/mrt/mrt2-sat/chunks.m3u8?nimblesessionid=1792776
+http://streamer54.interspace.mk:8081/mrt/mrt2-sat/playlist.m3u8
 
 #EXTINF:0 tvg-id="TV Alfa" tvg-name="TV_Alfa" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c0/Images-1461343961.png/revision/latest?cb=20160422165241" group-title=">>> MAKEDONIJA <<<", TV Alfa
 http://95.86.27.228/alfa/alfa_500/index.m3u8
+
+#EXTINF:0 tvg-id="A1" tvg-name="A_1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/Velija.jpg/revision/latest?cb=20110906200153" group-title=">>> MAKEDONIJA <<<",A1
+http://95.86.27.228/tikveshija/tikveshija_500/index.m3u8
 
 #EXTINF:0 tvg-id="Sitel" tvg-name="Sitel" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/64/Download_%289%29-0.jpg/revision/latest?cb=20160418041333" group-title=">>> MAKEDONIJA <<<",Sitel
 http://95.86.27.228/sitel/sitel_500/index.m3u8
 
 #EXTINF:0 tvg-id="Sitel 3" tvg-name="Sitel_3" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/73/Sitel_3.png/revision/latest?cb=20151210190017" group-title=">>> MAKEDONIJA <<<",Sitel 3
 http://95.86.27.228/sitel3/sitel3_500/index.m3u8
-
-#EXTINF:0 tvg-id="A1" tvg-name="A_1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/Velija.jpg/revision/latest?cb=20110906200153" group-title=">>> MAKEDONIJA <<<",A1
-http://95.86.27.228/tikveshija/tikveshija_500/index.m3u8
 
 #EXTINF:0 tvg-id="Kanal 5" tvg-name="Kanal_5" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/2000px-Logo_of_Kanal_5.svg.png/revision/latest?cb=20151210132703" group-title=">>> MAKEDONIJA <<<",Kanal 5
 http://95.86.27.228/kanal5/kanal5_500/index.m3u8
@@ -420,10 +432,10 @@ http://82.200.127.58:8080/udp/233.12.144.12:5050
 #EXTINF:0 tvg-id="Nicke Jr. UK" tvg-name="Nick_Jr._UK" tvg-logo="http://www.thelogodb.com/images/media/logo/usvqpr1433780215.png" group-title=">>> DEÈIJI PROGRAM <<<",Nick Jr. (Rus-Eng)
 http://82.200.127.58:8080/udp/233.12.144.85:5050
 
-#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title=">>> DEÈIJI PROGRAM <<<",Nickelodeon (Srb)-
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title=">>> DEÈIJI PROGRAM <<<",Nickelodeon (Srb)
 http://93.87.85.70/PLTV/88888888/224/3221226587/04.m3u8
 
-#EXTINF:0 tvg-id="Nicke Jr. UK" tvg-name="Nick_Jr._UK" tvg-logo="http://www.thelogodb.com/images/media/logo/usvqpr1433780215.png" group-title=">>> DEÈIJI PROGRAM <<<",Nick Jr. (srb)-
+#EXTINF:0 tvg-id="Nicke Jr. UK" tvg-name="Nick_Jr._UK" tvg-logo="http://www.thelogodb.com/images/media/logo/usvqpr1433780215.png" group-title=">>> DEÈIJI PROGRAM <<<",Nick Jr. (srb)
 http://93.87.85.70/PLTV/88888888/224/3221226596/04.m3u8
 
 #EXTINF:0 tvg-id="Smile of a Child" tvg-name="Smile_of_a_Child" tvg-logo="http://epg.serbianforum.org/logo_znaci/Smile%20of%20a%20Child%20TV.png" group-title=">>> DEÈIJI PROGRAM <<<",Smile of a Child
@@ -434,7 +446,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 #EXTINF:0,[COLOR green]>>> FILMOVI I SERIJE <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.thelogodb.com/images/media/logo/qrxsqw1438433255.png" group-title=">>> FILMOVI I SERIJE <<<",AXN-
+#EXTINF:0 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.thelogodb.com/images/media/logo/qrxsqw1438433255.png" group-title=">>> FILMOVI I SERIJE <<<",AXN
 http://93.87.85.70/PLTV/88888888/224/3221226588/04.m3u8
 
 #EXTINF:0 tvg-id="Comedy Central UK" tvg-name="Comedy_Central_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/yyrvsy1433777362.png" group-title=">>> FILMOVI I SERIJE <<<",Comedy Central (En)
@@ -455,7 +467,7 @@ http://fra1.ddns.net:97/live/test/test/329.m3u8
 #EXTINF:0 tvg-id="Klasik TV" tvg-name="Klasik_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/txqqts1462895660.png" group-title=">>> FILMOVI I SERIJE <<<",Klasik TV
 http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="Film Klub" tvg-name="Film_Klub" tvg-logo="" group-title=">>> FILMOVI I SERIJE <<<",FILM KLUB-
+#EXTINF:0 tvg-id="Film Klub" tvg-name="Film_Klub" tvg-logo="" group-title=">>> FILMOVI I SERIJE <<<",FILM KLUB
 http://93.87.85.70/PLTV/88888888/224/3221226670/04.m3u8
 
 #EXTINF:0 tvg-id="Mello TV" tvg-name="Mello_TV" tvg-logo="Mello TV" group-title=">>> FILMOVI I SERIJE <<<",Mello TV
@@ -498,7 +510,7 @@ http://193.23.58.156:4025/udp/234.1.20.38:1234
 #EXTINF:0 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title=">>> MUZIKA <<<",VH1
 http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title=">>> MUZIKA <<<",VH1-
+#EXTINF:0 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title=">>> MUZIKA <<<",VH1
 http://93.87.85.70/PLTV/88888888/224/3221226595/04.m3u8
 
 #EXTINF:0 tvg-id="VH1 Classic" tvg-name="VH1_Classic" tvg-logo="http://www.thelogodb.com/images/media/logo/xrwsty1464441168.png" group-title=">>> MUZIKA <<<",VH1 Classic
@@ -521,33 +533,33 @@ rtmp://203.162.121.230:1935/live//fitness_360
 #EXTINF:0,[COLOR green]>>> SPORT <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="Arena Sport 1" tvg-name="Arena_Sport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title=">>> SPORT <<<",Arena Sport 1-
+#EXTINF:0 tvg-id="Arena Sport 1" tvg-name="Arena_Sport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title=">>> SPORT <<<",Arena Sport 1
 http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 2" tvg-name="Arena_Sport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png" group-title=">>> SPORT <<<",Arena Sport 2-
+#EXTINF:0 tvg-id="Arena Sport 2" tvg-name="Arena_Sport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png" group-title=">>> SPORT <<<",Arena Sport 2
 http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 3" tvg-name="Arena_Sport_3" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png" group-title=">>> SPORT <<<",Arena Sport 3-
+#EXTINF:0 tvg-id="Arena Sport 3" tvg-name="Arena_Sport_3" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png" group-title=">>> SPORT <<<",Arena Sport 3
 http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 4" tvg-name="Arena_Sport_4" tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title=">>> SPORT <<<",Arena Sport 4-
+#EXTINF:0 tvg-id="Arena Sport 4" tvg-name="Arena_Sport_4" tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title=">>> SPORT <<<",Arena Sport 4
 http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 5" tvg-name="Arena_Sport_5" tvg-logo="http://www.thelogodb.com/images/media/logo/upxppt1433783076.png" group-title=">>> SPORT <<<",Arena Sport 5-
+#EXTINF:0 tvg-id="Arena Sport 5" tvg-name="Arena_Sport_5" tvg-logo="http://www.thelogodb.com/images/media/logo/upxppt1433783076.png" group-title=">>> SPORT <<<",Arena Sport 5
 http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
+
+#EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title=">>> SPORT <<<",Eurosport 1 (Srb)
+http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
+#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/qvqwwp1434048548.png" group-title=">>> SPORT <<<",Eurosport 2 (Srb)
+http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
 
 #EXTINF:0 tvg-id="Eurosport 1 UK" tvg-name="Eurosport_1_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title=">>> SPORT <<<",Eurosport 1 HD (En)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:0 tvg-id="Eurosport 1 (Fr)" tvg-name="Eurosport 1 (Fr)" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title=">>> SPORT <<<",Eurosport 1 (Fr)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
-#EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title=">>> SPORT <<<",Eurosport 1 (Srb)-
-http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
-#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/qvqwwp1434048548.png" group-title=">>> SPORT <<<",Eurosport 2 (Srb)-
-http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
-
 #EXTINF:0 tvg-id="Sport 1" tvg-name="Sport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title=">>> SPORT <<<",Sport TV 1 (Slo)
 http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 tvg-id="Sport 2" tvg-name="Sport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title=">>> SPORT <<<",Sport TV 2 (Slo)
 http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="Fight Sports" tvg-name="Fight_Sports" tvg-logo="http://www.thelogodb.com/images/media/logo/xuuyyv1469839481.png" group-title=">>> SPORT <<<",Fight Sports-
+#EXTINF:0 tvg-id="Fight Sports" tvg-name="Fight_Sports" tvg-logo="http://www.thelogodb.com/images/media/logo/xuuyyv1469839481.png" group-title=">>> SPORT <<<",Fight Sports
 http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
 
 #EXTINF:0 tvg-id="Fight Sports" tvg-name="Fight_Sports" tvg-logo="http://www.thelogodb.com/images/media/logo/xuuyyv1469839481.png" group-title=">>> SPORT <<<",Fight Sports
@@ -584,7 +596,6 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0 tvg-id="Hustler" tvg-name="Hustler" tvg-logo="http://www.thelogodb.com/images/media/logo/wsusvv1444920690.png" group-title=">>> XXX +18 XXX <<<",Hustler TV
 http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-
 #EXTINF:0 tvg-id="Jasmin TV" tvg-name="Jasmin_TV" tvg-logo="Jasmin TV" group-title=">>> XXX +18 XXX <<<",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
@@ -600,17 +611,9 @@ http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/
 #EXTINF:0 tvg-id="BABE XXX" tvg-name="BABE_XXX" tvg-logo="BABE XXX" group-title=">>> XXX +18 XXX <<<",BABE XXX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 
-#EXTINF:0 tvg-id="Pink Erotic" tvg-name="Pink_Erotic" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 1-
-http://centurionlukavac.com:80/live?channelId=77&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Erotic 2" tvg-name="Pink_Erotic_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%202.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 2-
-http://centurionlukavac.com:80/live?channelId=78&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Erotic 3" tvg-name="Pink_Erotic_3" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%203.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 3-
-http://centurionlukavac.com:80/live?channelId=79&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Erotic 4" tvg-name="Pink_Erotic_4" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%204.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 4-
-http://centurionlukavac.com:80/live?channelId=80&uid=8&deviceUser=hicham123&devicePass=1243hicham
-#EXTINF:0 tvg-id="Pink Erotic" tvg-name="Pink_Erotic" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 1-
+#EXTINF:0 tvg-id="Pink Erotic" tvg-name="Pink_Erotic" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 1
 http://93.87.85.70/PLTV/88888888/224/3221226597/04.m3u8
-#EXTINF:0 tvg-id="Pink Erotic 2" tvg-name="Pink_Erotic_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%202.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 2-
+#EXTINF:0 tvg-id="Pink Erotic 2" tvg-name="Pink_Erotic_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic%202.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 2
 http://93.87.85.70/PLTV/88888888/224/3221226598/04.m3u8
 #EXTINF:0 tvg-id="X1" tvg-name="X_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/X1.png" group-title=">>> XXX +18 XXX <<<",X-
 http://93.87.85.70/PLTV/88888888/224/3221225908/04.m3u8
