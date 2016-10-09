@@ -9,8 +9,6 @@
 #EXTINF:0,[COLOR green]>>> SRBIJA <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1
-http://fra1.ddns.net:97/live/test/test/20.m3u8
 
 #EXTINF:0 tvg-id="RTS Sat" tvg-name="RTS_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title=">>> SRBIJA <<<",RTS Sat
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -21,14 +19,14 @@ http://fra1.ddns.net:97/live/test/test/97.m3u8
 #EXTINF:0 tvg-id="Happy TV" tvg-name="Happy_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1470045487.png" group-title=">>> SRBIJA <<<",Happy TV
 http://fra1.ddns.net:97/live/test/test/217.m3u8
 
-#EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title=">>> SRBIJA <<<",Pink
-http://opasnivirus.dynns.com:8000/live/stefan/stefan123/99.ts
-
 #EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title=">>> SRBIJA <<<",DM Sat
 http://fra1.ddns.net:97/live/test/test/225.m3u8
 
 #EXTINF:0 tvg-id="Grand Narodna TV" tvg-name="Grand Narodna TV" tvg-logo="http://epg.serbianforum.org/logo_znaci/Grand%20Narodna%20TV.png" group-title=">>> SRBIJA <<<",Grand TV
 http://fra1.ddns.net:97/live/test/test/325.m3u8
+
+#EXTINF:0 tvg-id="TOP Sound" tvg-name="TOP_Sound" tvg-logo="http://www.appscrawler.com/application/ThumbnailAction.do?appId=238483" group-title=">>> SRBIJA <<<",TOP Sound
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
 
 #EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
@@ -46,7 +44,7 @@ http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
 
 #EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1-
-http://93.87.85.70/PLTV/88888888/224/3221225914/04.m3u8
+http://fra1.ddns.net:97/live/test/test/20.m3u8
 #EXTINF:0 tvg-id="RTS 2" tvg-name="RTS_2" tvg-logo="http://www.thelogodb.com/images/media/logo/ysxqqy1470041552.png" group-title=">>> SRBIJA <<<",RTS 2-
 http://93.87.85.70/PLTV/88888888/224/3221226357/04.m3u8
 #EXTINF:0 tvg-id="RTS 3" tvg-name="RTS_3" tvg-logo="http://www.thelogodb.com/images/media/logo/tqrvqu1470497691.png" group-title=">>> SRBIJA <<<",RTS 3-
@@ -65,7 +63,7 @@ http://93.87.85.70/PLTV/88888888/224/3221226574/04.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226582/04.m3u8
 
 #EXTINF:0 tvg-id="SOS" tvg-name="SOS" tvg-logo="http://www.thelogodb.com/images/media/logo/wvyuxy1470007599.png" group-title=">>> SRBIJA <<<",SOS-
-http://93.87.85.70/PLTV/88888888/224/3221226667/04.m3u8
+rtmp://178.253.194.73:1935/livelowedge/sos.stream
 
 #EXTINF:0,Kanal 9
 http://xtvk9nsx.api.channel.livestream.com/3.0/playlist.m3u8|User-Agent=Mozilla/5.0
@@ -119,9 +117,6 @@ http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Moz
 #EXTINF:0 tvg-id="RTL Living" tvg-name="RTL_Living" tvg-logo="http://www.thelogodb.com/images/media/logo/rutsuw1462897602.png" group-title=">>> HRVATSKA <<<",RTL Living
 http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="STV Osjek" tvg-name="STV_Osjek" tvg-logo="http://epg.serbianforum.org/logo_znaci/Osjecka%20TV.png" group-title=">>> HRVATSKA <<<",STV Osjek
-mms://89.201.164.181/stv
-
 #EXTINF:0 tvg-id="RTV Banovina" tvg-name="RTV_Banovina" tvg-logo="http://epg.serbianforum.org/logo_znaci/RT%20Banovina%20HR.png" group-title=">>> HRVATSKA <<<",RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
  
@@ -147,16 +142,13 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Balkan TV" tvg-name="Balkan_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/rpuxru1461680591.png" group-title=">>> BIH <<<",Balkan TV
 rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
-#EXTINF:0 tvg-id="BN Music" tvg-name="BN_Music" tvg-logo="http://www.thelogodb.com/images/media/logo/wsuwuq1462894190.png" group-title=">>> BIH <<<",BN Music
-http://188.247.133.18:8888/ipvt_002
-
 #EXTINF:0 tvg-id="BN" tvg-name="BN" tvg-logo="http://www.thelogodb.com/images/media/logo/wsuwuq1462894190.png" group-title=">>> BIH <<<",BN
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1129781672.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Hayat Plus" tvg-name="Hayat_Plus" tvg-logo="http://epg.serbianforum.org/logo_znaci/Hayat%20Plus.png" group-title=">>> BIH <<<",Hayat Plus
 http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://www.thelogodb.com/images/media/logo/upvvux1455736348.png" group-title=">>> BIH <<<*",OBN
+#EXTINF:0 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://www.thelogodb.com/images/media/logo/upvvux1455736348.png" group-title=">>> BIH <<<",OBN
 http://fra1.ddns.net:97/live/test/test/46.m3u8
 
 #EXTINF:0 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://www.thelogodb.com/images/media/logo/srsutt1455736539.png" group-title=">>> BIH <<<",RTRS
@@ -208,9 +200,6 @@ http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/c
 
 #EXTINF:0 tvg-id="TV+ Kumanovo" tvg-name="TV+_Kumanovo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/03/Tv%2B.jpg/revision/latest?cb=20160211132406" group-title=">>> MAKEDONIJA <<<",TV+ Kumanovo
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-
-#EXTINF:0 tvg-id="Kanal 21" tvg-name="Kanal_21" tvg-logo="" group-title=">>> MAKEDONIJA <<<",Kanal 21
-http://62.162.58.55:80/TVkanal21
 
 #EXTINF:0 tvg-id="TV Sonce" tvg-name="TV_Sonce" tvg-logo="" group-title=">>> MAKEDONIJA <<<",TV Sonce
 http://92.53.27.201:10000/
@@ -310,9 +299,6 @@ http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&cast_id=21
 #EXTINF:0 tvg-id="Russia Today" tvg-name="Russia_Today" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title=">>> VESTI IZ SVETA <<<",Russia Today
 http://rt.ashttp6.visionip.tv/live/RT_Global-SD/playlist.m3u8?wowzasessionid=1584858433
 
-#EXTINF:0 tvg-id="Russia Today" tvg-name="Russia_Today" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title=">>> VESTI IZ SVETA <<<",Russia Today
-http://rt-a.akamaihd.net/ch_01@325605/master.m3u8
-
 
 #EXTINF:0,[COLOR green]>>> DOKUMENTARNI PROGRAM <<<[/COLOR]
 #EXTM3U
@@ -343,12 +329,6 @@ http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozil
  
 #EXTINF:0 tvg-id="National Geographic" tvg-name="National_Geographic" tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",National Geographic (Slo)
 http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
- 
-#EXTINF:0 tvg-id="Nat Geo Wild" tvg-name="Nat_Geo_Wild" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Nat Geo Wild
-http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
- 
-#EXTINF:0 tvg-id="Nat Geo Wild" tvg-name="Nat_Geo_Wild" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Nat Geo Wild (Slo)
-http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Nat Geo Wild" tvg-name="Nat_Geo_Wild" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Nat Geo Wild (Rus-Eng)
 http://82.200.127.58:8080/udp/233.12.144.9:5050
@@ -373,9 +353,6 @@ http://93.87.85.70/PLTV/88888888/224/3221226592/04.m3u8
 
 #EXTINF:0 tvg-id="Russia Today Documentary" tvg-name="Russia_Today_Documentary" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Russia Today Documentary
 http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
-
-#EXTINF:0 tvg-id="Planet Green" tvg-name="Planet_Green" tvg-logo="Planet Green" group-title=">>> DOKUMENTARNI PROGRAM <<<",Planet Green
-http://80.80.160.168/live/4/live.m3u8
 
 
 #EXTINF:0,[COLOR green]*---------24/7---------*[/COLOR]
@@ -534,15 +511,7 @@ rtmp://203.162.121.230:1935/live//fitness_360
 #EXTM3U
 
 #EXTINF:0 tvg-id="Arena Sport 1" tvg-name="Arena_Sport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vsurrv1433781133.png" group-title=">>> SPORT <<<",Arena Sport 1
-http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 2" tvg-name="Arena_Sport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqsrx1433781528.png" group-title=">>> SPORT <<<",Arena Sport 2
-http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 3" tvg-name="Arena_Sport_3" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqxq1433781899.png" group-title=">>> SPORT <<<",Arena Sport 3
-http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 4" tvg-name="Arena_Sport_4" tvg-logo="http://www.thelogodb.com/images/media/logo/ruprvu1433782524.png" group-title=">>> SPORT <<<",Arena Sport 4
-http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
-#EXTINF:0 tvg-id="Arena Sport 5" tvg-name="Arena_Sport_5" tvg-logo="http://www.thelogodb.com/images/media/logo/upxppt1433783076.png" group-title=">>> SPORT <<<",Arena Sport 5
-http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
+rtmp://178.253.194.73:1935/livelowedge/arenasport1.stream
 
 #EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport_1" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title=">>> SPORT <<<",Eurosport 1 (Srb)
 http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
@@ -609,7 +578,7 @@ http://46.182.25.34:1935/tv/1420/playlist.m3u8
 http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="BABE XXX" tvg-name="BABE_XXX" tvg-logo="BABE XXX" group-title=">>> XXX +18 XXX <<<",BABE XXX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Pink Erotic" tvg-name="Pink_Erotic" tvg-logo="http://epg.serbianforum.org/logo_znaci/Pink%20Erotic.png" group-title=">>> XXX +18 XXX <<<",Pink Erotic 1
 http://93.87.85.70/PLTV/88888888/224/3221226597/04.m3u8
