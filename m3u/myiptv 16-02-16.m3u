@@ -3,45 +3,11 @@
 #EXTINF:0,[COLOR orange]>>> Crazy Hatter Playlist <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0,[COLOR red]>>> UPDATE 01.10.2016. <<<[/COLOR]
+#EXTINF:0,[COLOR red]>>> UPDATE 17.10.2016. <<<[/COLOR]
 #EXTM3U
 
 #EXTINF:0,[COLOR green]>>> SRBIJA <<<[/COLOR]
 #EXTM3U
-
-
-#EXTINF:0 tvg-id="RTS Sat" tvg-name="RTS_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title=">>> SRBIJA <<<",RTS Sat
-http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="Prva" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title=">>> SRBIJA <<<",Prva
-http://fra1.ddns.net:97/live/test/test/97.m3u8
-
-#EXTINF:0 tvg-id="Happy TV" tvg-name="Happy_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwvux1470045487.png" group-title=">>> SRBIJA <<<",Happy TV
-http://fra1.ddns.net:97/live/test/test/217.m3u8
-
-#EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title=">>> SRBIJA <<<",DM Sat
-http://fra1.ddns.net:97/live/test/test/225.m3u8
-
-#EXTINF:0 tvg-id="Grand Narodna TV" tvg-name="Grand Narodna TV" tvg-logo="http://epg.serbianforum.org/logo_znaci/Grand%20Narodna%20TV.png" group-title=">>> SRBIJA <<<",Grand TV
-http://fra1.ddns.net:97/live/test/test/325.m3u8
-
-#EXTINF:0 tvg-id="TOP Sound" tvg-name="TOP_Sound" tvg-logo="http://www.appscrawler.com/application/ThumbnailAction.do?appId=238483" group-title=">>> SRBIJA <<<",TOP Sound
-http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
-
-#EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
-http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
-
-#EXTINF:0 tvg-id="KCN 1" tvg-name="KCN_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%201.png" group-title=">>> SRBIJA <<<",K:CN 1
-http://212.200.102.3:5000/rtp/239.0.0.1:5000
-
-
-#EXTINF:0 tvg-id="KCN 2" tvg-name="KCN_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%202.png" group-title=">>> SRBIJA <<<",K:CN 2
-http://212.200.102.3:5000/rtp/239.0.0.2:5000
-
-
-#EXTINF:0 tvg-id="KCN 3" tvg-name="KCN_3" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%203.png" group-title=">>> SRBIJA <<<",K:CN 3
-http://212.200.102.3:5000/rtp/239.0.0.3:5000
-
 
 #EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1-
 http://fra1.ddns.net:97/live/test/test/20.m3u8
@@ -49,6 +15,15 @@ http://fra1.ddns.net:97/live/test/test/20.m3u8
 http://93.87.85.70/PLTV/88888888/224/3221226357/04.m3u8
 #EXTINF:0 tvg-id="RTS 3" tvg-name="RTS_3" tvg-logo="http://www.thelogodb.com/images/media/logo/tqrvqu1470497691.png" group-title=">>> SRBIJA <<<",RTS 3-
 http://93.87.85.70/PLTV/88888888/224/3221226575/04.m3u8
+
+#EXTINF:0 tvg-id="RTS Sat" tvg-name="RTS_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yrryxu1470044727.png" group-title=">>> SRBIJA <<<",RTS Sat
+http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Prva" tvg-name="Prva" tvg-logo="http://www.thelogodb.com/images/media/logo/uwqwxp1455737888.png" group-title=">>> SRBIJA <<<",Prva
+rtmp://178.253.194.73:1935/livelowedge/prva.stream
+
+#EXTINF:0 tvg-id="Nova RS" tvg-name="Nova_RS" tvg-logo="https://www.thelogodb.com/images/media/logo/vsrvqw1470042818.png" group-title=">>> SRBIJA <<<",NOVA RS
+rtmp://178.253.194.73:1935/livelowedge/nova.stream
 
 #EXTINF:0 tvg-id="B92" tvg-name="B92" tvg-logo="http://www.thelogodb.com/images/media/logo/uvuwvu1470043957.png" group-title=">>> SRBIJA <<<",B92-
 http://93.87.85.70/PLTV/88888888/224/3221226395/04.m3u8
@@ -65,8 +40,32 @@ http://93.87.85.70/PLTV/88888888/224/3221226582/04.m3u8
 #EXTINF:0 tvg-id="SOS" tvg-name="SOS" tvg-logo="http://www.thelogodb.com/images/media/logo/wvyuxy1470007599.png" group-title=">>> SRBIJA <<<",SOS-
 rtmp://178.253.194.73:1935/livelowedge/sos.stream
 
-#EXTINF:0,Kanal 9
+#EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
+http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
+
+#EXTINF:0 tvg-id="Kanal 9" tvg-name="Kanal_9" tvg-logo="http://www.kanal9tv.com/wp-content/uploads/2016/07/logo-jpg-kanal-9-300x74.jpg" group-title=">>> SRBIJA <<<",Kanal 9
 http://xtvk9nsx.api.channel.livestream.com/3.0/playlist.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Kanal 25" tvg-name="Kanal 25" tvg-logo="http://epg.serbianforum.org/logo_znaci/K25%20Odzaci.png" group-title=">>> SRBIJA <<<",Kanal 25
+rtmp://178.253.194.73:1935/livelowedge/kanal25.stream
+
+#EXTINF:0 tvg-id="KCN 1" tvg-name="KCN_1" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%201.png" group-title=">>> SRBIJA <<<",K:CN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+
+
+#EXTINF:0 tvg-id="KCN 2" tvg-name="KCN_2" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%202.png" group-title=">>> SRBIJA <<<",K:CN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+
+
+#EXTINF:0 tvg-id="KCN 3" tvg-name="KCN_3" tvg-logo="http://epg.serbianforum.org/logo_znaci/KCN%203.png" group-title=">>> SRBIJA <<<",K:CN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
+
+#EXTINF:#EXTINF:0 tvg-id="DM Sat" tvg-name="DM_Sat" tvg-logo="http://www.thelogodb.com/images/media/logo/yqypux1444999267.png" group-title=">>> SRBIJA <<<",DM Sat
+rtmp://178.253.194.73:1935/livelowedge/dmsat.stream
+
+#EXTINF:0 tvg-id="TOP Sound" tvg-name="TOP_Sound" tvg-logo="http://www.appscrawler.com/application/ThumbnailAction.do?appId=238483" group-title=">>> SRBIJA <<<",TOP Sound
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
 
 #EXTINF:0 tvg-id="Pink 1" tvg-name="Pink_1" tvg-logo="http://www.thelogodb.com/images/media/logo/vrxsuy1470042011.png" group-title=">>> SRBIJA <<<",Pink-
 http://93.87.85.70/PLTV/88888888/224/3221225872/04.m3u8
@@ -152,7 +151,7 @@ http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 http://fra1.ddns.net:97/live/test/test/46.m3u8
 
 #EXTINF:0 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://www.thelogodb.com/images/media/logo/srsutt1455736539.png" group-title=">>> BIH <<<",RTRS
-http://fra1.ddns.net:97/live/test/test/2.m3u8
+rtmp://178.253.194.73:1935/livelowedge/rtrs.stream
 
 
 #EXTINF:0,[COLOR green]>>> CRNA GORA <<<[/COLOR]
@@ -248,7 +247,7 @@ http://pcdn-07.sdn.si/22ba7f2471e9f5e894f3c50f4f16ea68/planettv/planettv.isml/pl
 http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 
-#EXTINF:0,[COLOR green]>>> MAÐARSKA <<<[/COLOR]
+#EXTINF:0,[COLOR green]>>> MADARSKA <<<[/COLOR]
 #EXTM3U
 
 
@@ -361,7 +360,7 @@ http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
 
 
 
-#EXTINF:0,[COLOR green]>>> DEÈIJI PROGRAM <<<[/COLOR]
+#EXTINF:0,[COLOR green]>>> DECIJI PROGRAM <<<[/COLOR]
 #EXTM3U
 
 #EXTINF:0 tvg-id="Baby TV" tvg-name="Baby_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png" group-title=">>> DEÈIJI PROGRAM <<<",Baby TV
@@ -455,6 +454,19 @@ http://82.200.127.58:8080/udp/233.12.144.16:5050
 
 #EXTINF:0 tvg-id="Universal Channel UK" tvg-name="Universal_Channel_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png" group-title=">>> FILMOVI I SERIJE <<<",Universal Channel
 http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,AXN
+rtmp://178.253.194.73:1935/livelowedge/axn.stream
+#EXTINF:0,AMC
+rtmp://178.253.194.73:1935/livelowedge/amc.stream
+#EXTINF:0,FilmBox Extra
+rtmp://178.253.194.73:1935/livelowedge/extra.stream
+#EXTINF:0,FilmBox Plus
+rtmp://178.253.194.73:1935/livelowedge/filmplus.stream
+#EXTINF:0,FilmBox Arthouse
+rtmp://178.253.194.73:1935/livelowedge/arthouse.stream
+#EXTINF:0,FilmBox Fast and Fun
+rtmp://178.253.194.73:1935/livelowedge/fastnfun.stream
 
 
 #EXTINF:0,[COLOR green]>>> MUZIKA <<<[/COLOR]
