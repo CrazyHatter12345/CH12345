@@ -8,6 +8,88 @@
 
 #EXTINF:0,[COLOR green]>>> SRBIJA <<<[/COLOR]
 #EXTM3U
+#EXTINF:0,RTS 1
+http://212.200.191.94:80/rts1?ctrl=VtCRJRkpAs%2FBVJgSrowZutCmd8hS45932OxkG5wcP5HWA09JAJB18A%3d%3d
+
+
+#EXTINF:0,RTS 2
+http://212.200.191.94:80/rts2?ctrl=VtCRJRkpAs9Ext16RmOSHoUGbh01rrQO7aRgAZ%2FaG7KK%40lMDV2KIyQ%3d%3d
+
+
+#EXTINF:0,Studio B
+http://212.200.191.94:80/studiob?ctrl=VtCRJRkpAs%2F%40JkM6KSaoqtqKSuD%2FsrgOhE2xLegV5zWb6xrYSddq8Q%3d%3d
+
+
+#EXTINF:0,DM SAT
+http://212.200.191.94:80/dmsat?ctrl=VtCRJRkpAs%2F%40JkM6KSaoqh2MmFwIQAUCWCZ5D8uipLq2MGVYqD%2F%2Fkw%3d%3d
+
+
+#EXTINF:0,Pink
+http://212.200.191.94:80/pink?ctrl=VtCRJRkpAs9AC7bF7pkRT2bkucCnjJWhtkoRCvIEFrHXkoKA3BdIWA%3d%3d
+
+
+#EXTINF:0,Pink 2
+http://212.200.191.94:80/pink?ctrl=VtCRJRkpAs9AC7bF7pkRT2bkucCnjJWhtkoRCvIEFrHXkoKA3BdIWA%3d%3d
+
+
+#EXTINF:0,Pink Family
+http://212.200.191.94:80/pinkfamily?ctrl=VtCRJRkpAs%2FishTFcW8Rq2RbXpygKnHnsiC%40TUBAUb6oqBI8vokP6w%3d%3d
+
+
+#EXTINF:0,Pink Movie
+http://212.200.191.94:80/pinkmovies?ctrl=VtCRJRkpAs%2FishTFcW8Rq2mfsFT7GPVsORwRHdQ66Q%40F5fEGPkxtFw%3d%3d
+
+
+#EXTINF:0,Pink Action
+http://212.200.191.94:80/pinkaction?ctrl=VtCRJRkpAs%2FishTFcW8Rq51gx8%2FsgcQgwMjNBWEs%2FUTYuTN%2FfZ0X%2Fg%3d%3d
+
+
+#EXTINF:0,Pink Folk
+http://212.200.191.94:80/pinkfolk?ctrl=VtCRJRkpAs95S6Ft6Kb60XrtSZPJXq080JUxPCbVGr9gSwaw4FVHKQ%3d%3d
+
+
+#EXTINF:0,Pink Music
+http://212.200.191.94:80/pinkmusic?ctrl=VtCRJRkpAs9RBuBGCTWWoAV02zlDvXd%40vkjGuujCs2nufziMqp3AKw%3d%3d
+
+
+#EXTINF:0,Pink World
+http://212.200.191.94:80/pinkworld?ctrl=VtCRJRkpAs9RBuBGCTWWoDQsX839KRJL7snzvhvpA8OBGuS%403pp%40OQ%3d%3d
+
+
+#EXTINF:0,Pink Kids
+http://212.200.191.94:80/pinkkids?ctrl=VtCRJRkpAs%2F57GJXv0EHLk47%2Fgs6igdQx5SQcYRaO2rhRTaROvTrDQ%3d%3d
+
+
+#EXTINF:0,Pink Reality
+http://212.200.191.94:80/pinkreality?ctrl=VtCRJRkpAs%2F57GJXv0EHLoS3CeoJf9GKfJEg86lm4f%40qow1LSWljTw%3d%3d
+
+
+#EXTINF:0,Pink Super Kids
+http://212.200.191.94:80/pinknostalgie?ctrl=VtCRJRkpAs8W3ia44gIrVUgokqUbcmXG6ISi55o5FkmgindnIcdBzg%3d%3d
+
+
+#EXTINF:0,Pink Plus
+http://212.200.191.94:80/pinkplus?ctrl=VtCRJRkpAs8W3ia44gIrVZYFpUa8Zd8jcqCHQqsHbvDRQFF%40XGQoYA%3d%3d
+
+
+#EXTINF:0,Pink Film
+http://212.200.191.94:80/pinkfilm?ctrl=VtCRJRkpAs9uDyWU4XegmsvlU9uefISgdELmy5z%40aaJYlJSlrUcz8g%3d%3d
+
+
+#EXTINF:0,Pink Fashion
+http://212.200.191.94:80/pinkfashion?ctrl=VtCRJRkpAs9uDyWU4Xegmmj2%2FNjOt%2FgK6ErXmrybpjn9c69hBOu5Xg%3d%3d
+
+
+#EXTINF:0,Pink Live
+http://212.200.191.94:80/pinkfashion?ctrl=VtCRJRkpAs9uDyWU4Xegmmj2%2FNjOt%2FgK6ErXmrybpjn9c69hBOu5Xg%3d%3d
+
+
+#EXTINF:0,Pink Zabava
+http://212.200.191.94:80/pinkzabava?ctrl=VtCRJRkpAs%2FVKWtl0F7W1LVNw0uAeIGN8nsfjmR17XKIFa4PXCCWAg%3d%3d
+
+
+#EXTINF:0,Pink Extra
+http://212.200.191.94:80/pinkextra?ctrl=VtCRJRkpAs%2FVKWtl0F7W1HEXK3Wxdi6P6QbqCvFyRPuGpS1x1%40lFfg%3d%3d
 
 #EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
