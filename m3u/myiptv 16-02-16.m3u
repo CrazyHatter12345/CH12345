@@ -8,88 +8,6 @@
 
 #EXTINF:0,[COLOR green]>>> SRBIJA <<<[/COLOR]
 #EXTM3U
-#EXTINF:0,RTS 1
-http://212.200.191.94:80/rts1?ctrl=VtCRJRkpAs%2FBVJgSrowZutCmd8hS45932OxkG5wcP5HWA09JAJB18A%3d%3d
-
-
-#EXTINF:0,RTS 2
-http://212.200.191.94:80/rts2?ctrl=VtCRJRkpAs9Ext16RmOSHoUGbh01rrQO7aRgAZ%2FaG7KK%40lMDV2KIyQ%3d%3d
-
-
-#EXTINF:0,Studio B
-http://212.200.191.94:80/studiob?ctrl=VtCRJRkpAs%2F%40JkM6KSaoqtqKSuD%2FsrgOhE2xLegV5zWb6xrYSddq8Q%3d%3d
-
-
-#EXTINF:0,DM SAT
-http://212.200.191.94:80/dmsat?ctrl=VtCRJRkpAs%2F%40JkM6KSaoqh2MmFwIQAUCWCZ5D8uipLq2MGVYqD%2F%2Fkw%3d%3d
-
-
-#EXTINF:0,Pink
-http://212.200.191.94:80/pink?ctrl=VtCRJRkpAs9AC7bF7pkRT2bkucCnjJWhtkoRCvIEFrHXkoKA3BdIWA%3d%3d
-
-
-#EXTINF:0,Pink 2
-http://212.200.191.94:80/pink?ctrl=VtCRJRkpAs9AC7bF7pkRT2bkucCnjJWhtkoRCvIEFrHXkoKA3BdIWA%3d%3d
-
-
-#EXTINF:0,Pink Family
-http://212.200.191.94:80/pinkfamily?ctrl=VtCRJRkpAs%2FishTFcW8Rq2RbXpygKnHnsiC%40TUBAUb6oqBI8vokP6w%3d%3d
-
-
-#EXTINF:0,Pink Movie
-http://212.200.191.94:80/pinkmovies?ctrl=VtCRJRkpAs%2FishTFcW8Rq2mfsFT7GPVsORwRHdQ66Q%40F5fEGPkxtFw%3d%3d
-
-
-#EXTINF:0,Pink Action
-http://212.200.191.94:80/pinkaction?ctrl=VtCRJRkpAs%2FishTFcW8Rq51gx8%2FsgcQgwMjNBWEs%2FUTYuTN%2FfZ0X%2Fg%3d%3d
-
-
-#EXTINF:0,Pink Folk
-http://212.200.191.94:80/pinkfolk?ctrl=VtCRJRkpAs95S6Ft6Kb60XrtSZPJXq080JUxPCbVGr9gSwaw4FVHKQ%3d%3d
-
-
-#EXTINF:0,Pink Music
-http://212.200.191.94:80/pinkmusic?ctrl=VtCRJRkpAs9RBuBGCTWWoAV02zlDvXd%40vkjGuujCs2nufziMqp3AKw%3d%3d
-
-
-#EXTINF:0,Pink World
-http://212.200.191.94:80/pinkworld?ctrl=VtCRJRkpAs9RBuBGCTWWoDQsX839KRJL7snzvhvpA8OBGuS%403pp%40OQ%3d%3d
-
-
-#EXTINF:0,Pink Kids
-http://212.200.191.94:80/pinkkids?ctrl=VtCRJRkpAs%2F57GJXv0EHLk47%2Fgs6igdQx5SQcYRaO2rhRTaROvTrDQ%3d%3d
-
-
-#EXTINF:0,Pink Reality
-http://212.200.191.94:80/pinkreality?ctrl=VtCRJRkpAs%2F57GJXv0EHLoS3CeoJf9GKfJEg86lm4f%40qow1LSWljTw%3d%3d
-
-
-#EXTINF:0,Pink Super Kids
-http://212.200.191.94:80/pinknostalgie?ctrl=VtCRJRkpAs8W3ia44gIrVUgokqUbcmXG6ISi55o5FkmgindnIcdBzg%3d%3d
-
-
-#EXTINF:0,Pink Plus
-http://212.200.191.94:80/pinkplus?ctrl=VtCRJRkpAs8W3ia44gIrVZYFpUa8Zd8jcqCHQqsHbvDRQFF%40XGQoYA%3d%3d
-
-
-#EXTINF:0,Pink Film
-http://212.200.191.94:80/pinkfilm?ctrl=VtCRJRkpAs9uDyWU4XegmsvlU9uefISgdELmy5z%40aaJYlJSlrUcz8g%3d%3d
-
-
-#EXTINF:0,Pink Fashion
-http://212.200.191.94:80/pinkfashion?ctrl=VtCRJRkpAs9uDyWU4Xegmmj2%2FNjOt%2FgK6ErXmrybpjn9c69hBOu5Xg%3d%3d
-
-
-#EXTINF:0,Pink Live
-http://212.200.191.94:80/pinkfashion?ctrl=VtCRJRkpAs9uDyWU4Xegmmj2%2FNjOt%2FgK6ErXmrybpjn9c69hBOu5Xg%3d%3d
-
-
-#EXTINF:0,Pink Zabava
-http://212.200.191.94:80/pinkzabava?ctrl=VtCRJRkpAs%2FVKWtl0F7W1LVNw0uAeIGN8nsfjmR17XKIFa4PXCCWAg%3d%3d
-
-
-#EXTINF:0,Pink Extra
-http://212.200.191.94:80/pinkextra?ctrl=VtCRJRkpAs%2FVKWtl0F7W1HEXK3Wxdi6P6QbqCvFyRPuGpS1x1%40lFfg%3d%3d
 
 #EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
@@ -123,39 +41,16 @@ http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
 http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0 tvg-id="HRT 2" tvg-name="HRT_2" tvg-logo="http://www.thelogodb.com/images/media/logo/suxusu1437948916.png" group-title=">>> HRVATSKA <<<",HRT 2
 http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0 tvg-id="HRT 3" tvg-name="HRT_3" tvg-logo="http://www.thelogodb.com/images/media/logo/rqvwxt1437948909.png" group-title=">>> HRVATSKA <<<",HRT 3
-http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://www.thelogodb.com/images/media/logo/stxstu1433453671.png" group-title=">>> HRVATSKA <<<",RTL
-http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
- 
-#EXTINF:0 tvg-id="RTL 2" tvg-name="RTL_2" tvg-logo="http://www.thelogodb.com/images/media/logo/rtvqqx1433453722.png" group-title=">>> HRVATSKA <<<",RTL 2
-http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="RTL Living" tvg-name="RTL_Living" tvg-logo="http://www.thelogodb.com/images/media/logo/rutsuw1462897602.png" group-title=">>> HRVATSKA <<<",RTL Living
-http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0 tvg-id="RTV Banovina" tvg-name="RTV_Banovina" tvg-logo="http://epg.serbianforum.org/logo_znaci/RT%20Banovina%20HR.png" group-title=">>> HRVATSKA <<<",RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
- 
-#EXTINF:0 tvg-id="TV Student" tvg-name="TV_Student" tvg-logo="http://epg.serbianforum.org/logo_znaci/Studentska%20TV.png" group-title=">>> HRVATSKA <<<",TV Student
-rtmp://213.202.73.202/iskon/studentska_b2.stream
 
 #EXTINF:0 tvg-id="CMC" tvg-name="CMC" tvg-logo="http://www.thelogodb.com/images/media/logo/xvuqyw1470009568.png" group-title=">>> HRVATSKA <<<",CMC
 http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:0 tvg-id="Sportska TV" tvg-name="Sportska_Tv" tvg-logo="" group-title=">>> HRVATSKA <<<",Sportska TV
-http://cdn.iptv.amis.net/hls/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0,TV Student
-rtmp://213.202.73.202/iskon/studentska_b2.stream
-
 
 #EXTINF:0,[COLOR green]>>> BIH <<<[/COLOR]
 #EXTM3U
-
-#EXTINF:0 tvg-id="Balkan TV" tvg-name="Balkan_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/rpuxru1461680591.png" group-title=">>> BIH <<<",Balkan TV
-rtmp://yayin.tvdunyasi.tv/live/balkanrtv
 
 #EXTINF:0 tvg-id="BN" tvg-name="BN" tvg-logo="http://www.thelogodb.com/images/media/logo/wsuwuq1462894190.png" group-title=">>> BIH <<<",BN
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1129781672.m3u8|User-Agent=Mozilla/5.0
@@ -177,64 +72,8 @@ rtmp://media.streamingpulse.biz:1935/tehnikatv777/tehnikatv777
 #EXTINF:0,[COLOR green]>>> MAKEDONIJA <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="MRT 1" tvg-name="MRT_1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/MRT_1_new_logo.png/revision/latest?cb=20121228134837" group-title=">>> MAKEDONIJA <<<",MRT 1
-http://95.86.27.228/mrt1/mrt1_500/index.m3u8
-
-
-#EXTINF:0 tvg-id="MRT 1" tvg-name="MRT_1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0d/MRT_sat_Logo.jpg/revision/latest?cb=20130108135124" group-title=">>> MAKEDONIJA <<<",MRT 1 Sat
-http://streamer54.interspace.mk:8081/mrt/mrt1-sat/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="MRT 2" tvg-name="MRT_2" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0d/MRT_sat_Logo.jpg/revision/latest?cb=20130108135124" group-title=">>> MAKEDONIJA <<<",MRT 2 Sat
-http://streamer54.interspace.mk:8081/mrt/mrt2-sat/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="TV Alfa" tvg-name="TV_Alfa" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c0/Images-1461343961.png/revision/latest?cb=20160422165241" group-title=">>> MAKEDONIJA <<<", TV Alfa
-http://95.86.27.228/alfa/alfa_500/index.m3u8
-
-
-#EXTINF:0 tvg-id="A1" tvg-name="A_1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e5/Velija.jpg/revision/latest?cb=20110906200153" group-title=">>> MAKEDONIJA <<<",A1
-http://95.86.27.228/tikveshija/tikveshija_500/index.m3u8
-
-
-#EXTINF:0 tvg-id="Sitel" tvg-name="Sitel" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/64/Download_%289%29-0.jpg/revision/latest?cb=20160418041333" group-title=">>> MAKEDONIJA <<<",Sitel
-http://95.86.27.228/sitel/sitel_500/index.m3u8
-
-
-#EXTINF:0 tvg-id="Sitel 3" tvg-name="Sitel_3" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/73/Sitel_3.png/revision/latest?cb=20151210190017" group-title=">>> MAKEDONIJA <<<",Sitel 3
-http://95.86.27.228/sitel3/sitel3_500/index.m3u8
-
-
-#EXTINF:0 tvg-id="Kanal 5" tvg-name="Kanal_5" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/2000px-Logo_of_Kanal_5.svg.png/revision/latest?cb=20151210132703" group-title=">>> MAKEDONIJA <<<",Kanal 5
-http://95.86.27.228/kanal5/kanal5_500/index.m3u8
-
-
-#EXTINF:0 tvg-id="Kanal 5+" tvg-name="Kanal_5+" tvg-logo="http://www.thelogodb.com/images/media/logo/ryswyx1437949679.png" group-title=">>> MAKEDONIJA <<<",KANAL 5 plus 
-http://95.86.27.228/kanal5plus/kanal5plus_500/index.m3u8
-
-#EXTINF:0 tvg-id="KTV" tvg-name="KTV" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/eb/Makedonia_TV_logo.svg.png/revision/latest?cb=20151129144430" group-title=">>> MAKEDONIJA <<<",KTV
-http://95.86.27.228/ktv/ktv_500/index.m3u8
-
-
-#EXTINF:0 tvg-id="NOVA TV MK" tvg-name="NOVA_TV_MK" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1e/Nova_logo_2011.png/revision/latest?cb=20160102004049" group-title=">>> MAKEDONIJA <<<",NOVA TV MK
-http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/chunklist.m3u8
-
-
-
 #EXTINF:0 tvg-id="TV+ Kumanovo" tvg-name="TV+_Kumanovo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/03/Tv%2B.jpg/revision/latest?cb=20160211132406" group-title=">>> MAKEDONIJA <<<",TV+ Kumanovo
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-
-
-#EXTINF:0 tvg-id="TV Sonce" tvg-name="TV_Sonce" tvg-logo="" group-title=">>> MAKEDONIJA <<<",TV Sonce
-http://92.53.27.201:10000/
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="24_Vesti" group-title=">>> MAKEDONIJA <<<",24 Vesti
-http://62.162.58.55:80/24vesti
-
-
-#EXTINF:0 tvg-id="Nasha TV" tvg-name="Nasha_TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/11/%D0%9D%D0%B0%D1%88%D0%B0_%D0%A2%D0%92.jpg/revision/latest?cb=20110906203036" group-title=">>> MAKEDONIJA <<<",Nasha TV
-http://95.86.27.228/nasa/nasa_500/index.m3u8
 
 
 
@@ -287,20 +126,10 @@ http://cdn.iptv.amis.net/hls/Hallmark/stream_wifi_1200k.m3u8|User-Agent="AppleCo
 #EXTINF:0,[COLOR green]>>> MADARSKA <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:-1,ATV+1
-rtmp://195.228.75.97/atvliveedge/_definst_/atvstream_2_aac
-#EXTINF:-1,Budapest rtmp
-rtmp://91.82.85.44:1935/liveios851739io/_definst_/bptv.sdp
-#EXTINF:-1,Debrecen Tv
-rtmp://91.82.85.71:1935/live/_definst_/DTV
-#EXTINF:-1,Dunaujvaros DSTV_MX
-http://91.82.85.71:1935/liverelay/dstv.sdp/playlist.m3u8
 #EXTINF:-1,FIX hd
 rtmp://video.fixhd.tv/fix/hd.stream
 #EXTINF:-1,Hangulat TV-rtvstat.hu
 rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chhangulattv/2013/10/23/01a71dd6-306c-4de4-9d88-c3ccc76c770e
-#EXTINF:-1,Jasz Trio TV
-rtmp://91.82.85.44:1935/liverelay/jasztriotv.sdp
 #EXTINF:-1,Kistersegi TV_Balatonföldvar
 rtmp://79.120.178.90:1935/btkt/tv
 #EXTINF:-1,Light Channel TV
@@ -318,23 +147,11 @@ rtmp://79.120.178.90:1935/williams/williamstv
 #EXTINF:0,[COLOR green]>>> VESTI IZ SVETA <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="ABC (US)" tvg-name="ABC_(US)" tvg-logo="http://www.thelogodb.com/images/media/logo/wwxvur1466450408.png" group-title=">>> VESTI IZ SVETA <<<",ABC News (Fr)
-http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:0 tvg-id="ABC (US)" tvg-name="ABC_(US)" tvg-logo="http://www.thelogodb.com/images/media/logo/wwxvur1466450408.png" group-title=">>> VESTI IZ SVETA <<<",ABC News (En)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
 #EXTINF:0 tvg-id="Al Jazeera Balkans" tvg-name="Al_Jazeera_Balkans" tvg-logo="http://www.thelogodb.com/images/media/logo/yystpx1433945387.png" group-title=">>> VESTI IZ SVETA <<<",,Al Jazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
 #EXTINF:0 tvg-id="Al Jazeera Balkans" tvg-name="Al_Jazeera_Balkans" tvg-logo="http://www.thelogodb.com/images/media/logo/yystpx1433945387.png" group-title=">>> VESTI IZ SVETA <<<",,Al Jazeera Balkans
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
-
-#EXTINF:0 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="http://www.thelogodb.com/images/media/logo/rpqutq1434057155.png" group-title=">>> VESTI IZ SVETA <<<",Bloomberg TV
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-
-#EXTINF:0 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="http://www.thelogodb.com/images/media/logo/rpqutq1434057155.png" group-title=">>> VESTI IZ SVETA <<<",Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:0 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://www.thelogodb.com/images/media/logo/svyyst1433493745.png" group-title=">>> VESTI IZ SVETA <<<",CNN International
 http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -345,69 +162,33 @@ http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:0 tvg-id="France 24" tvg-name="France_24" tvg-logo="http://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png" group-title=">>> VESTI IZ SVETA <<<",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:0 tvg-id="RUSSIA 24" tvg-name="RUSSIA_24" tvg-logo="http://www.thelogodb.com/images/media/logo/xwwpvr1456491897.png" group-title=">>> VESTI IZ SVETA <<<",RUSSIA 24
-http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&cast_id=21
-
-#EXTINF:0 tvg-id="Russia Today" tvg-name="Russia_Today" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title=">>> VESTI IZ SVETA <<<",Russia Today
-http://rt.ashttp6.visionip.tv/live/RT_Global-SD/playlist.m3u8?wowzasessionid=1584858433
-
 
 #EXTINF:0,[COLOR green]>>> DOKUMENTARNI PROGRAM <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="24 Kitchen" tvg-name="24_Kitchen" tvg-logo="http://www.thelogodb.com/images/media/logo/yvqwqr1470002991.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",24 Kitchen
-http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
 #EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal_Planet" tvg-logo="http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Animal Planet (Slo)
 http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="CBS Reality UK" tvg-name="CBS_Reality_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",CBS Reality
-http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/rxwvtv1470044433.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Discovery Channel (Slo)
 http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:0 tvg-id="History Channel" tvg-name="History_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/wtrrpu1435675061.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",History Channel
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-2,6/index.m3u8
 
 #EXTINF:0 tvg-id="Hunting and Fishing" tvg-name="Hunting_and_Fishing" tvg-logo="http://www.thelogodb.com/images/media/logo/tyyuqw1470091927.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Hunting and Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
-
-#EXTINF:0 tvg-id="National Geographic" tvg-name="National_Geographic" tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",National Geographic
-http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0 tvg-id="National Geographic" tvg-name="National_Geographic" tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",National Geographic (Slo)
 http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:0 tvg-id="Nat Geo Wild" tvg-name="Nat_Geo_Wild" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Nat Geo Wild
-http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
 #EXTINF:0 tvg-id="Nat Geo Wild" tvg-name="Nat_Geo_Wild" tvg-logo="http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Nat Geo Wild (Slo)
 http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="Nasa TV" tvg-name="Nasa_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/uyysuv1433430227.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Nasa TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:0 tvg-id="Travel Channel" tvg-name="Travel_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Travel Channel
-http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0 tvg-id="Travel Channel" tvg-name="Travel_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Travel Channel (Slo)
 http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:0 tvg-id="Viasat Explorer" tvg-name="Viasat_Explorer" tvg-logo="http://www.thelogodb.com/images/media/logo/rsvvvy1434471629.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Viasat Explore
-http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="Viasat History" tvg-name="Viasat_History" tvg-logo="http://www.thelogodb.com/images/media/logo/tywswu1434471653.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Viasat History
-http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
 #EXTINF:0 tvg-id="Viasat History" tvg-name="Viasat_History" tvg-logo="http://www.thelogodb.com/images/media/logo/tywswu1434471653.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Viasat History (Slo)
 http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="Russia Today Documentary" tvg-name="Russia_Today_Documentary" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Russia Today Documentary
-http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
-
-#EXTINF:0 tvg-id="Russia Today Documentary" tvg-name="Russia_Today_Documentary" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvwwy1434048319.png" group-title=">>> DOKUMENTARNI PROGRAM <<<",Russia Today Documentary
-http://streamer01.infoview.tv:8080/RT_Doc/index.m3u8
 
 
 #EXTINF:0,[COLOR green]*---------24/7---------*[/COLOR]
@@ -425,14 +206,8 @@ http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCor
 #EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.thelogodb.com/images/media/logo/rprpvr1434469005.png" group-title=">>> DEČIJI PROGRAM <<<",Boomerang
 http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png" group-title=">>> DEČIJI PROGRAM <<<",Cartoon Network
-http://cdn.iptv.amis.net/hls/Cartoon/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
 #EXTINF:0 tvg-id="Da Vinci Learning" tvg-name="Da_Vinci_Learning" tvg-logo="http://www.thelogodb.com/images/media/logo/spwtrq1445007395.png" group-title=">>> DEČIJI PROGRAM <<<",Da Vinci Learning
 http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title=">>> DEČIJI PROGRAM <<<",Disney Channel
-http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title=">>> DEČIJI PROGRAM <<<",Disney Channel (Slo)
 http://cdn.iptv.amis.net/hls/Disney/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -443,23 +218,20 @@ http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleC
 #EXTINF:0 tvg-id="Disney XD" tvg-name="Disney_XD" tvg-logo="http://www.thelogodb.com/images/media/logo/qxptqy1433943117.png" group-title=">>> DEČIJI PROGRAM <<<",Disney XD
 http://cdn.iptv.amis.net/ts/Jetix/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia 
 
-#EXTINF:0 tvg-id="Ginx" tvg-name="Ginx" tvg-logo="http://www.thelogodb.com/images/media/logo/xtrxvx1434120954.png" group-title=">>> DEČIJI PROGRAM <<<",Ginx
-http://cdn.iptv.amis.net/LIVE/CROGINX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
 #EXTINF:0 tvg-id="Ginx" tvg-name="Ginx" tvg-logo="http://www.thelogodb.com/images/media/logo/xtrxvx1434120954.png" group-title=">>> DEČIJI PROGRAM <<<",Ginx (Slo)
 http://cdn.iptv.amis.net/ts/Ginx/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia 
 
 #EXTINF:0 tvg-id="POP Oto" tvg-name="POP Oto" tvg-logo="http://www.thelogodb.com/images/media/logo/uwurvx1470050627.png" group-title=">>> DEČIJI PROGRAM <<<",POP Oto
 http://cdn.iptv.amis.net/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
- 
+
+#EXTINF:-1 tvg-id="RTLKockica" tvg-name="RTL Kockica" tvg-logo="http://nextgen-iptv.com/logo/RTLKockica_HR.png" group-title=">>> DEČIJI PROGRAM <<<",RTL Kockica
+rtmp://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream
+
 #EXTINF:0 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://epg.serbianforum.org/logo_znaci/Minimax.png" group-title=">>> DEČIJI PROGRAM <<<",Minimax (Slo)
 http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title=">>> DEČIJI PROGRAM <<<",Nickelodeon (Rus-Eng)
-http://82.200.127.58:8080/udp/233.12.144.12:5050
-
-#EXTINF:0 tvg-id="Nicke Jr. UK" tvg-name="Nick_Jr._UK" tvg-logo="http://www.thelogodb.com/images/media/logo/usvqpr1433780215.png" group-title=">>> DEČIJI PROGRAM <<<",Nick Jr. (Rus-Eng)
-http://82.200.127.58:8080/udp/233.12.144.85:5050
+http://93.87.85.70:80/PLTV/88888888/224/3221226587/03.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKkUhjtN2yvfjVdfQt5O1cg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001894%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
 
 #EXTINF:0 tvg-id="Smile of a Child" tvg-name="Smile_of_a_Child" tvg-logo="http://epg.serbianforum.org/logo_znaci/Smile%20of%20a%20Child%20TV.png" group-title=">>> DEČIJI PROGRAM <<<",Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
@@ -471,12 +243,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
 #EXTINF:0,AMC
 http://cdn.iptv.amis.net/LIVE/MGM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.thelogodb.com/images/media/logo/qrxsqw1438433255.png" group-title=">>> FILMOVI I SERIJE <<<",AXN
-http://cdn.iptv.amis.net/ts/AXN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0,DIVA
-http://cdn.iptv.amis.net/hls/CROHALLMARK/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png" group-title=">>> FILMOVI I SERIJE <<<",FOX
 http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -492,15 +258,6 @@ http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent="AppleCo
 
 #EXTINF:0 tvg-id="Klasik TV" tvg-name="Klasik_TV" tvg-logo="http://www.thelogodb.com/images/media/logo/txqqts1462895660.png" group-title=">>> FILMOVI I SERIJE <<<",Klasik TV
 http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="Mello TV" tvg-name="Mello_TV" tvg-logo="Mello TV" group-title=">>> FILMOVI I SERIJE <<<",Mello TV
-http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1010732594_b614000_sleng.m3u8
-
-#EXTINF:0 tvg-id="Sony Turbo" tvg-name="Sony_Turbo" tvg-logo="http://www.thelogodb.com/images/media/logo/vyytyv1470095745.png" group-title=">>> FILMOVI I SERIJE <<<",Sony Turbo (Rus-Eng)
-http://82.200.127.58:8080/udp/233.12.144.16:5050
-
-#EXTINF:0 tvg-id="Universal Channel UK" tvg-name="Universal_Channel_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/xxwrxp1434018101.png" group-title=">>> FILMOVI I SERIJE <<<",Universal Channel
-http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,HBO
 http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -518,15 +275,8 @@ http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCor
 #EXTINF:0,[COLOR green]>>> MUZIKA <<<[/COLOR]
 #EXTM3U
 
-
 #EXTINF:0 tvg-id="MTV Adria" tvg-name="MTV_Adria" tvg-logo="http://www.thelogodb.com/images/media/logo/svywyv1462896132.png" group-title=">>> MUZIKA <<<",MTV Adria
 http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:0 tvg-id="MTV Dance" tvg-name="MTV_Dance" tvg-logo="http://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title=">>> MUZIKA <<<",MTV Dance
-http://193.23.58.156:4025/udp/234.1.20.37:1234
-#EXTINF:0 tvg-id="MTV Hits" tvg-name="MTV_Hits" tvg-logo="http://www.thelogodb.com/images/media/logo/uwvssy1438373966.png" group-title=">>> MUZIKA <<<",MTV Hits
-http://193.23.58.156:4025/udp/234.1.20.36:1234
-#EXTINF:0 tvg-id="MTV Rocks" tvg-name="MTV_Rocks" tvg-logo="http://www.thelogodb.com/images/media/logo/ttwyyq1438373913.png" group-title=">>> MUZIKA <<<",MTV Rocks
-http://193.23.58.156:4025/udp/234.1.20.38:1234
 
 #EXTINF:0 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title=">>> MUZIKA <<<",VH1
 http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -551,10 +301,6 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:0,[COLOR green]>>> SPORT <<<[/COLOR]
 #EXTM3U
 
-#EXTINF:0,Arena sport 5 HD
-http://185.59.220.134/arena5/mpegts
-
-
 #EXTINF:0,Sport Klub 1
 http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,Sport Klub 2
@@ -567,22 +313,8 @@ http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent="AppleCo
 #EXTINF:0 tvg-id="Sport 2" tvg-name="Sport_2" tvg-logo="http://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title=">>> SPORT <<<",Sport TV 2 (Slo)
 http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:0,sport 1 (DSF)
-http://cdn.iptv.amis.net/hls/DSF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:0 tvg-id="Eurosport 1 UK" tvg-name="Eurosport_1_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title=">>> SPORT <<<",Eurosport 1 HD (En)
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:0 tvg-id="Eurosport 1 (Fr)" tvg-name="Eurosport 1 (Fr)" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title=">>> SPORT <<<",Eurosport 1 (Fr)
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-
 #EXTINF:0 tvg-id="NBC Golf" tvg-name="NBC_Golf" tvg-logo="http://www.thelogodb.com/images/media/logo/qtyvux1433327014.png" group-title=">>> SPORT <<<",NBC Golf HD
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:0 tvg-id="PAC National" tvg-name="PAC_National" tvg-logo="http://www.thelogodb.com/images/media/logo/suxxyr1467886320.png" group-title=">>> SPORT <<<",PAC National HD
-http://xrxs.net/video/live-p12netw-2328.m3u8
-
-#EXTINF:0 tvg-id="PORSCHE Channel" tvg-name="PORSCHE_Channel" tvg-logo="PORSCHE Channel" group-title=">>> SPORT <<<",PORSCHE Channel
-mms://100automoto.tv/channel_porsche
 
 
 #EXTINF:0,[COLOR red]>>> XXX +18 XXX <<<[/COLOR]
