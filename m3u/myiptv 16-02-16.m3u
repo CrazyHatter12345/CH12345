@@ -9,8 +9,26 @@
 #EXTINF:0,[COLOR green]>>> SRBIJA <<<[/COLOR]
 #EXTM3U
 
+#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1
+http://66.70.129.43:8080/Rts1/index.m3u8
+#EXTINF:0 tvg-id="RTS 1" tvg-name="RTS_1" tvg-logo="http://www.thelogodb.com/images/media/logo/yxrqtw1470044879.png" group-title=">>> SRBIJA <<<",RTS 1
+http://66.70.129.43:8080/Rts1/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-id="RTS 2" tvg-name="RTS_2" tvg-logo="http://www.thelogodb.com/images/media/logo/ysxqqy1470041552.png" group-title=">>> SRBIJA <<<",RTS 2
+http://66.70.129.43:8080/Rts2/index.m3u8
+#EXTINF:0 tvg-id="RTS 2" tvg-name="RTS_2" tvg-logo="http://www.thelogodb.com/images/media/logo/ysxqqy1470041552.png" group-title=">>> SRBIJA <<<",RTS 2
+
+http://66.70.129.43:8080/Rts2/tracks-v1a1/index.m3u8
+
+
+#EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
+
+
 #EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w697420932.m3u8
+#EXTINF:0 tvg-id="TV Duga" tvg-name="TV_Duga" tvg-logo="http://www.thelogodb.com/images/media/logo/ruqxxu1470044612.png" group-title=">>> SRBIJA <<<",Duga Plus
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="Kanal 9" tvg-name="Kanal_9" tvg-logo="http://www.kanal9tv.com/wp-content/uploads/2016/07/logo-jpg-kanal-9-300x74.jpg" group-title=">>> SRBIJA <<<",Kanal 9
 http://xtvk9nsx.api.channel.livestream.com/3.0/playlist.m3u8|User-Agent=Mozilla/5.0
@@ -32,6 +50,9 @@ http://cdn.iptv.amis.net/LIVE/DMSAT/stream_wifi_1200k.m3u8|User-Agent="AppleCore
 
 #EXTINF:0 tvg-id="TOP Sound" tvg-name="TOP_Sound" tvg-logo="http://www.appscrawler.com/application/ThumbnailAction.do?appId=238483" group-title=">>> SRBIJA <<<",TOP Sound
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+
+#EXTINF:0 tvg-id="SOS" tvg-name="SOS" tvg-logo="http://www.thelogodb.com/images/media/logo/wvyuxy1470007599.png" group-title=">>> SRBIJA <<<",SOS
+http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
 
 
 #EXTINF:0,[COLOR green]>>> HRVATSKA <<<[/COLOR]
@@ -230,7 +251,7 @@ rtmp://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream
 #EXTINF:0 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="http://epg.serbianforum.org/logo_znaci/Minimax.png" group-title=">>> DEČIJI PROGRAM <<<",Minimax (Slo)
 http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:0 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title=">>> DEČIJI PROGRAM <<<",Nickelodeon (Sr)
+#EXTINF:0 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon_UK" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png" group-title=">>> DEČIJI PROGRAM <<<",Nickelodeon (Rus-Eng)
 http://93.87.85.70:80/PLTV/88888888/224/3221226587/03.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKkUhjtN2yvfjVdfQt5O1cg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001894%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
 
 #EXTINF:0 tvg-id="Smile of a Child" tvg-name="Smile_of_a_Child" tvg-logo="http://epg.serbianforum.org/logo_znaci/Smile%20of%20a%20Child%20TV.png" group-title=">>> DEČIJI PROGRAM <<<",Smile of a Child
